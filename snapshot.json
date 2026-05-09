@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-05-05 21:29 UTC",
+  "generated_at": "2026-05-09 03:17 UTC",
   "character": {
     "name": "Neuviilette",
     "player_id": "3363484",
     "level": 13,
-    "class_id": 5,
-    "class_name": "Disco Bandit",
-    "ascensions": 274,
-    "meat": 12159928,
-    "adventures": 19
+    "class_id": 32,
+    "class_name": "Kingdom of Exploathing",
+    "ascensions": 278
   },
   "skills": [
+    {
+      "name": "Torso Awareness",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/12.gif"
+    },
+    {
+      "name": "Emotionally Chipped",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/203.gif"
+    },
     {
       "name": "Chronic Indigestion",
       "type": "scperm",
@@ -25,11 +33,6 @@
       "name": "Gnefarious Pickpocketing",
       "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/11.gif"
-    },
-    {
-      "name": "Torso Awareness",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/12.gif"
     },
     {
       "name": "Gnomish Hardigness",
@@ -343,7 +346,7 @@
     },
     {
       "name": "Grease Up",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/113.gif"
     },
     {
@@ -372,6 +375,11 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/119.gif"
     },
     {
+      "name": "Intimidating Mien",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/120.gif"
+    },
+    {
       "name": "Speluck",
       "type": "scperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/129.gif"
@@ -390,6 +398,11 @@
       "name": "Dinsey Operations Expert",
       "type": "scperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/132.gif"
+    },
+    {
+      "name": "Rotten Memories",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/133.gif"
     },
     {
       "name": "Ancestral Recall",
@@ -642,11 +655,6 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/202.gif"
     },
     {
-      "name": "Emotionally Chipped",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/203.gif"
-    },
-    {
       "name": "Dead Nostrils",
       "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/205.gif"
@@ -720,6 +728,11 @@
       "name": "Perpetrate Mild Evil",
       "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/226.gif"
+    },
+    {
+      "name": "Chitinous Soul",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/227.gif"
     },
     {
       "name": "Just the Facts",
@@ -930,6 +943,11 @@
       "name": "Harpoon!",
       "type": "scperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1023.gif"
+    },
+    {
+      "name": "Iron Palm Technique",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1025.gif"
     },
     {
       "name": "Hibernate",
@@ -1323,7 +1341,7 @@
     },
     {
       "name": "Bind Vermincelli",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3029.gif"
     },
     {
@@ -1979,724 +1997,540 @@
   ],
   "familiars": [
     {
+      "name": "Cookbookbat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bbat_fam.gif"
+    },
+    {
+      "name": "Skeleton of Crimbo Past",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/skeletonocp.gif"
+    },
+    {
       "name": "Hobo Monkey",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hobomonkey.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hobomonkey.gif"
     },
     {
       "name": "Oily Woim",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/woim.gif",
-      "runs_100": false
-    },
-    {
-      "name": "Gelatinous Cubeling",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/gcube.gif",
-      "runs_100": false
-    },
-    {
-      "name": "Left-Hand Man",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/righthandbody.png",
-      "runs_100": false
-    },
-    {
-      "name": "Cookbookbat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bbat_fam.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/woim.gif"
     },
     {
       "name": "Melodramedary",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/camelfam_left.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/camelfam_left.gif"
+    },
+    {
+      "name": "Left-Hand Man",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/marble8.gif"
     },
     {
       "name": "Jumpsuited Hound Dog",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hounddog.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hounddog.gif"
     },
     {
       "name": "Nosy Nose",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/nosynose.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/nosynose.gif"
     },
     {
       "name": "Stooper",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam47.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam47.gif"
     },
     {
       "name": "Baby Bugged Bugbear",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/babybugbug.gif",
-      "runs_100": false
-    },
-    {
-      "name": "Exotic Parrot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/parrot.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/babybugbug.gif"
     },
     {
       "name": "Tiny Plastic Santa Claus Skeleton",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/santaskel.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/santaskel.gif"
     },
     {
       "name": "Cornbeefadon",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam50.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam50.gif"
     },
     {
       "name": "Emberiza Aureola",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/emberbird.gif",
-      "runs_100": false
-    },
-    {
-      "name": "Foul Ball",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/foulball.gif",
-      "runs_100": false
-    },
-    {
-      "name": "Mechanical Songbird",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/mechbird.gif",
-      "runs_100": false
-    },
-    {
-      "name": "Reassembled Blackbird",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird2.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/emberbird.gif"
     },
     {
       "name": "Disgeist",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam48.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam48.gif"
     },
     {
       "name": "Slimeling",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/slimeling.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/slimeling.gif"
     },
     {
       "name": "Grouper Groupie",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/grouper2.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/grouper2.gif"
     },
     {
       "name": "Hovering Sombrero",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hat2.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hat2.gif"
     },
     {
       "name": "Cuddlefish",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cuddlefish.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cuddlefish.gif"
     },
     {
       "name": "Leprechaun",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar2.gif",
-      "runs_100": false
-    },
-    {
-      "name": "Burly Bodyguard",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bodyguard.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar2.gif"
     },
     {
       "name": "Angry Goat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar4.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar4.gif"
     },
     {
       "name": "Lil' Barrel Mimic",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/barrelmimic.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/barrelmimic.gif"
     },
     {
       "name": "Twitching Space Critter",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/spacebeastlet.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/spacebeastlet.gif"
     },
     {
       "name": "Peppermint Rhino",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pep_rhino.gif",
-      "runs_100": false
-    },
-    {
-      "name": "Smiling Rat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/smilerat.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pep_rhino.gif"
     },
     {
       "name": "Ninja Pirate Zombie Robot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/npzr.gif",
-      "runs_100": false
-    },
-    {
-      "name": "Stab Bat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar10.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/npzr.gif"
     },
     {
       "name": "Party Mouse",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/partymouse.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/partymouse.gif"
     },
     {
       "name": "Warbear Drone",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wbdronefam.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wbdronefam.gif"
     },
     {
       "name": "Reconstituted Crow",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird1.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird1.gif"
     },
     {
       "name": "Levitating Potato",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar3.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar3.gif"
     },
     {
       "name": "Rock Lobster",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/rocklobster.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/rocklobster.gif"
     },
     {
       "name": "Antique Nutcracker",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/nutcfigure.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/nutcfigure.gif"
     },
     {
       "name": "Mosquito",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar1.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar1.gif"
     },
     {
       "name": "Adorable Space Buddy",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/starbuddy.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/starbuddy.gif"
     },
     {
       "name": "Frozen Gravy Fairy",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar35.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar35.gif"
     },
     {
       "name": "Yule Hound",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/yulehound.gif",
-      "runs_100": false
-    },
-    {
-      "name": "Heat Wave",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/heatwave.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/yulehound.gif"
     },
     {
       "name": "Cold Cut",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/coldcut.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/coldcut.gif"
     },
     {
       "name": "Dire Cassava",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/direcasanim.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/direcasanim.gif"
     },
     {
       "name": "Helix Fossil",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/foss_amm.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/foss_amm.gif"
     },
     {
       "name": "Shame Spiral",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/shamespiral.gif",
-      "runs_100": false
-    },
-    {
-      "name": "Baby Z-Rex",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/babyzrex.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/shamespiral.gif"
     },
     {
       "name": "Mini-Trainbot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/tbot_on.gif",
-      "runs_100": false
-    },
-    {
-      "name": "Cocoabo",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar16.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/tbot_on.gif"
     },
     {
       "name": "Glover",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/glover.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/glover.gif"
     },
     {
       "name": "Holiday Log",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/holidaylog.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/holidaylog.gif"
     },
     {
       "name": "Observer",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/observer.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/observer.gif"
     },
     {
       "name": "Phantom Limb",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/phantomlimb.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/phantomlimb.gif"
     },
     {
       "name": "El Vibrato Megadrone",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/megadrone.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/megadrone.gif"
     },
     {
       "name": "Defective Childrens' Stapler",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/kidstaplerbad.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/kidstaplerbad.gif"
     },
     {
       "name": "Homemade Robot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/homemadebot.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/homemadebot.gif"
     },
     {
       "name": "Software Bug",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/softwarebug.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/softwarebug.gif"
     },
     {
       "name": "Adorable Seal Larva",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/seallarva.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/seallarva.gif"
     },
     {
       "name": "Untamed Turtle",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/untamed.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/untamed.gif"
     },
     {
       "name": "Animated Macaroni Duck",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/macaroniduck.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/macaroniduck.gif"
     },
     {
       "name": "Pet Cheezling",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cheezblob.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cheezblob.gif"
     },
     {
       "name": "Autonomous Disco Ball",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/discoball.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/discoball.gif"
     },
     {
       "name": "Mariachi Chihuahua",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chihuahua.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chihuahua.gif"
     },
     {
       "name": "Pair of Ragged Claws",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/raggedclaws.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/raggedclaws.gif"
     },
     {
       "name": "Dataspider",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/dataspider.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/dataspider.gif"
     },
     {
       "name": "Unspeakachu",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam46.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam46.gif"
     },
     {
       "name": "Bowlet",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam49.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam49.gif"
     },
     {
       "name": "Pet Coral",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/petcoral.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/petcoral.gif"
     },
     {
       "name": "Sabre-Toothed Lime",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar5.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar5.gif"
     },
     {
       "name": "Spooky Pirate Skeleton",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar7.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar7.gif"
     },
     {
       "name": "Barrrnacle",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar8.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar8.gif"
     },
     {
       "name": "Howling Balloon Monkey",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar9.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar9.gif"
     },
     {
       "name": "Grue",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar11.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar11.gif"
     },
     {
       "name": "RoboGoose",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/robogoose.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/robogoose.gif"
     },
     {
       "name": "Imitation Crab",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/crab.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/crab.gif"
     },
     {
       "name": "Magic Dragonfish",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/dragonfishfam.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/dragonfishfam.gif"
     },
     {
       "name": "Midget Clownfish",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/midgetclownfish.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/midgetclownfish.gif"
     },
     {
       "name": "Syncopated Turtle",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/syncturtle.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/syncturtle.gif"
     },
     {
       "name": "Grinning Turtle",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/grinturtle.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/grinturtle.gif"
     },
     {
       "name": "Wereturtle",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/turtle.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/turtle.gif"
     },
     {
       "name": "Urchin Urchin",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/urchin.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/urchin.gif"
     },
     {
       "name": "Xiblaxian Holo-Companion",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/holobuddy.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/holobuddy.gif"
     },
     {
       "name": "Cute Meteor",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cutemeteor.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cutemeteor.gif"
     },
     {
       "name": "Cool Cucumber",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/coolcuke.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/coolcuke.gif"
     },
     {
       "name": "Killer Bee",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar20.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar20.gif"
     },
     {
       "name": "Ghost Pickle on a Stick",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar19.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar19.gif"
     },
     {
       "name": "Whirling Maple Leaf",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar21.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar21.gif"
     },
     {
       "name": "MagiMechTech MicroMechaMech",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar33.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar33.gif"
     },
     {
       "name": "Pet Rock",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar45.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar45.gif"
     },
     {
       "name": "Snowy Owl",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar46.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar46.gif"
     },
     {
       "name": "Misshapen Animal Skeleton",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/animskel.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/animskel.gif"
     },
     {
       "name": "Scary Death Orb",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/orb.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/orb.gif"
     },
     {
       "name": "Ninja Snowflake",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/snowflake.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/snowflake.gif"
     },
     {
       "name": "Toothsome Rock",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pettoothrock.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pettoothrock.gif"
     },
     {
       "name": "Ragamuffin Imp",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ragimp.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ragimp.gif"
     },
     {
       "name": "Bulky Buddy Box",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wcb.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wcb.gif"
     },
     {
       "name": "Zapper Bug",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/zapperbug.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/zapperbug.gif"
     },
     {
       "name": "Fuzzy Dice",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar6.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar6.gif"
     },
     {
       "name": "Blood-Faced Volleyball",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar12.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar12.gif"
     },
     {
       "name": "Ghuol Whelp",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar14.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar14.gif"
     },
     {
       "name": "Baby Gravy Fairy",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar15.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar15.gif"
     },
     {
       "name": "Star Starfish",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar17.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar17.gif"
     },
     {
       "name": "Hanukkimbo Dreidl",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar27.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar27.gif"
     },
     {
       "name": "Clockwork Grapefruit",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar32.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar32.gif"
     },
     {
       "name": "Flaming Gravy Fairy",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar34.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar34.gif"
     },
     {
       "name": "Stinky Gravy Fairy",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar36.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar36.gif"
     },
     {
       "name": "Spooky Gravy Fairy",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/sgfairy.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/sgfairy.gif"
     },
     {
       "name": "Teddy Bear",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar47.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar47.gif"
     },
     {
       "name": "Sleazy Gravy Fairy",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/slgfairy.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/slgfairy.gif"
     },
     {
       "name": "Wind-up Chattering Teeth",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chatteeth.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chatteeth.gif"
     },
     {
       "name": "Origami Towel Crane",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/crane1.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/crane1.gif"
     },
     {
       "name": "Evil Teddy Bear",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/teddybear.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/teddybear.gif"
     },
     {
       "name": "O.A.F.",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/oaf.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/oaf.gif"
     },
     {
       "name": "Teddy Borg",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/teddyborg.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/teddyborg.gif"
     },
     {
       "name": "Purse Rat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/purserat.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/purserat.gif"
     },
     {
       "name": "Snow Angel",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/snowangel.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/snowangel.gif"
     },
     {
       "name": "Jack-in-the-Box",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/jackinthebox.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/jackinthebox.gif"
     },
     {
       "name": "BRICKO chick",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/brickochick.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/brickochick.gif"
     },
     {
       "name": "Pottery Barn Owl",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/sp_owl.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/sp_owl.gif"
     },
     {
       "name": "Feral Kobold",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/kobold.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/kobold.gif"
     },
     {
       "name": "Flaming Face",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/flameface.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/flameface.gif"
     },
     {
       "name": "Hovering Skull",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/talkskull.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/talkskull.gif"
     },
     {
       "name": "Mini-Skulldozer",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/minidozer.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/minidozer.gif"
     },
     {
       "name": "Putty Buddy",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/puttybuddy.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/puttybuddy.gif"
     },
     {
       "name": "Mini-Crimbot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/minicrimbot.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/minicrimbot.gif"
     },
     {
       "name": "Topiary Skunk",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/topiskunk.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/topiskunk.gif"
     },
     {
       "name": "Sludgepuppy",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/sludgepuppy.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/sludgepuppy.gif"
     },
     {
       "name": "Restless Cow Skull",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cowskull.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cowskull.gif"
     },
     {
       "name": "Chocolate Lab",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chocolab.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chocolab.gif"
     },
     {
       "name": "Bad Vibe",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/lilbadvibe.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/lilbadvibe.gif"
     },
     {
       "name": "Plastic Pirate Skull",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pr_rogerskull.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pr_rogerskull.gif"
     },
     {
       "name": "Piranha Plant",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/piranhaplant.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/piranhaplant.gif"
     },
     {
       "name": "Arachnelf",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/arachnelf.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/arachnelf.gif"
     },
     {
       "name": "Synthetic Rock",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/synthrock.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/synthrock.gif"
     },
     {
       "name": "Pixel Rock",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pixelrock.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pixelrock.gif"
     },
     {
       "name": "Flaming Leafcutter Ant",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/al_ant.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/al_ant.gif"
     },
     {
       "name": "Rigging Snake",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/rigsnake.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/rigsnake.gif"
     },
     {
       "name": "Pet Anchor",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/anchor.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/anchor.gif"
     },
     {
       "name": "Doll Moll",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/molldoll.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/molldoll.gif"
     },
     {
       "name": "Quantum Entangler",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/qf.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/qf.gif"
     },
     {
       "name": "Golden Pet Rock",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ts_goldrock.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ts_goldrock.gif"
     },
     {
       "name": "Profane Parrot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ts_parrot2.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ts_parrot2.gif"
     },
     {
       "name": "Significant Bit",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cr_sbit.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cr_sbit.gif"
     },
     {
       "name": "Cute Skeletal Dinosaur",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bonedino.gif",
-      "runs_100": false
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bonedino.gif"
     }
   ],
   "trophies": [
@@ -2931,6 +2765,10 @@
     {
       "name": "I Love A Parade",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/trophy/but_it_doesnt_love_me_back.gif"
+    },
+    {
+      "name": "Awwww, Yeah",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/trophy/dont_worry_your_pretty_little_head.gif"
     },
     {
       "name": "Phileas Foggy",
@@ -3563,6 +3401,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/class27.gif"
     },
     {
+      "name": "class27hc",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/class27hc.gif"
+    },
+    {
       "name": "class28",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/class28.gif"
     },
@@ -4145,6 +3987,12 @@
     },
     {
       "name": "A Beginner's Guide to Charming Snakes (used)"
+    },
+    {
+      "name": "A Crimbo Carol, Ch. 3"
+    },
+    {
+      "name": "A Crimbo Carol, Ch. 5"
     },
     {
       "name": "A Light that Never Goes Out"
@@ -5062,9 +4910,6 @@
       "name": "Hoyle's Guide to Reindeer Games (used)"
     },
     {
-      "name": "Hundred Headed IPA"
-    },
-    {
       "name": "Ice Island Long Tea"
     },
     {
@@ -5435,9 +5280,6 @@
     },
     {
       "name": "PVC staff"
-    },
-    {
-      "name": "Paint A Vulgar Pitcher"
     },
     {
       "name": "Pan-Dimensional Gargle Blaster"
@@ -6268,9 +6110,6 @@
       "name": "Wal-Mart snowglobe"
     },
     {
-      "name": "Wand of Nagamar"
-    },
-    {
       "name": "Wand of Oscus"
     },
     {
@@ -6299,6 +6138,9 @@
     },
     {
       "name": "White Citadel burger"
+    },
+    {
+      "name": "White Citadel fries"
     },
     {
       "name": "White Dragon Fang"
@@ -6661,6 +6503,9 @@
       "name": "blood-red mushroom wine"
     },
     {
+      "name": "blood-soaked sponge cake"
+    },
+    {
       "name": "bloody kiwitini"
     },
     {
@@ -6689,6 +6534,9 @@
     },
     {
       "name": "bottle of Cabernet Sauvignon"
+    },
+    {
+      "name": "bottle of Chateau de Vinegar"
     },
     {
       "name": "bottle of Crimbognac"
@@ -6763,13 +6611,7 @@
       "name": "boxed Archaeologist's Spade"
     },
     {
-      "name": "boxed Heartstone"
-    },
-    {
       "name": "boxed Sept-Ember Censer"
-    },
-    {
-      "name": "boxed bat wings"
     },
     {
       "name": "boxing glove on a spring"
@@ -6812,6 +6654,9 @@
     },
     {
       "name": "bucket of honey"
+    },
+    {
+      "name": "bucket of wine"
     },
     {
       "name": "buffalo blade"
@@ -6971,6 +6816,9 @@
     },
     {
       "name": "chocolate Spider Queen"
+    },
+    {
+      "name": "chocolate cigar"
     },
     {
       "name": "chocolate ostrich egg"
@@ -7180,6 +7028,9 @@
       "name": "curdflinger"
     },
     {
+      "name": "cursed Aztec tamale"
+    },
+    {
       "name": "cursed black pearl onion"
     },
     {
@@ -7249,9 +7100,6 @@
       "name": "desiccated apricot"
     },
     {
-      "name": "designer sweatpants (new old stock)"
-    },
-    {
       "name": "devil hair pasta"
     },
     {
@@ -7274,9 +7122,6 @@
     },
     {
       "name": "discarded hot dog"
-    },
-    {
-      "name": "discreetly-wrapped Eternity Codpiece"
     },
     {
       "name": "disembodied smile"
@@ -7813,9 +7658,6 @@
       "name": "gnauga hide skirt"
     },
     {
-      "name": "gnauga hide vest"
-    },
-    {
       "name": "gnauga hide whip"
     },
     {
@@ -7904,6 +7746,9 @@
     },
     {
       "name": "green bean casserole"
+    },
+    {
+      "name": "green drunki-bear"
     },
     {
       "name": "green eggnog"
@@ -8254,9 +8099,6 @@
       "name": "kumquat"
     },
     {
-      "name": "lab-grown blood cubic zirconia"
-    },
-    {
       "name": "lab-grown meat"
     },
     {
@@ -8437,6 +8279,9 @@
       "name": "mayam spinach"
     },
     {
+      "name": "meadeorite"
+    },
+    {
       "name": "meat cowboy hat"
     },
     {
@@ -8527,9 +8372,6 @@
       "name": "mini kiwi digitized cookies"
     },
     {
-      "name": "mini kiwi egg"
-    },
-    {
       "name": "mini kiwi intoxicating spirits"
     },
     {
@@ -8576,6 +8418,9 @@
     },
     {
       "name": "mugcake"
+    },
+    {
+      "name": "mulberry"
     },
     {
       "name": "mulled berry wine"
@@ -8639,6 +8484,9 @@
     },
     {
       "name": "neutron lollipop"
+    },
+    {
+      "name": "new-in-box toy Cupid bow"
     },
     {
       "name": "nice warm beer"
@@ -8746,16 +8594,10 @@
       "name": "packaged Jurassic Parka"
     },
     {
-      "name": "packaged backup camera"
-    },
-    {
       "name": "packaged familiar scrapbook"
     },
     {
       "name": "packaged knock-off retro superhero cape"
-    },
-    {
-      "name": "packaged model train set"
     },
     {
       "name": "packet of beer nuts"
@@ -9026,6 +8868,9 @@
     },
     {
       "name": "plain candy cane"
+    },
+    {
+      "name": "plain old beer"
     },
     {
       "name": "plain pizza"
@@ -9671,6 +9516,9 @@
     },
     {
       "name": "snailmail hauberk"
+    },
+    {
+      "name": "snakebite"
     },
     {
       "name": "snow berries"
@@ -10525,9 +10373,6 @@
       "name": "wooly loincloth"
     },
     {
-      "name": "wrapped Baseball Diamond"
-    },
-    {
       "name": "wrapped candy cane sword cane"
     },
     {
@@ -10584,6 +10429,2166 @@
     {
       "name": "zombie mariachi pants"
     }
+  ],
+  "mr_items": [
+    "\"salvaged\" wine",
+    "20-lb can of rice and beans",
+    "5-hour acrimony",
+    "7-inch discus",
+    "99.44% pure math",
+    "a beginner's guide to charming snakes (used)",
+    "a crimbo carol, ch. 3",
+    "a crimbo carol, ch. 5",
+    "a light that never goes out",
+    "a little sump'm sump'm",
+    "abominable snowcone",
+    "abuela crimbo's special magnet",
+    "acceptable bagel",
+    "acceptable mayolus",
+    "accidental cider",
+    "actual tapas",
+    "affirmation cookie",
+    "afternoon delight",
+    "agitated turkey",
+    "agnolotti arboli",
+    "alexy sauce",
+    "alien meat",
+    "alien sandwich",
+    "alien source code printout (used)",
+    "ambitious turkey",
+    "amnesiac ale",
+    "amok pudding",
+    "amoon-ra cowtep's nemes",
+    "ancient elf dessert spoon",
+    "ancient frozen dinner",
+    "ancient unspeakable fruitcake",
+    "anemoney clip",
+    "angelbone chopsticks",
+    "angelbone dice",
+    "angst burger",
+    "anniversary gift box",
+    "antique beer",
+    "antique nutcracker figurine",
+    "antique packet of ketchup",
+    "antique pair of blue jeans",
+    "aquamariner's ring",
+    "around the world",
+    "artisanal homebrew sampler",
+    "artisanal limoncello",
+    "asbestos sword",
+    "asbestos thermos",
+    "ash soda",
+    "asparagus lo mein",
+    "asparagus stir-fry",
+    "ass-stompers of violence",
+    "asshat",
+    "atomic comic",
+    "aura libre",
+    "autobiography of dynamite superman jones (used)",
+    "autumn-spice donut",
+    "autumnfest ale",
+    "aye aye, captain",
+    "aye aye, tooth tooth",
+    "baby camelcalf",
+    "backwoods screwdriver",
+    "baconstone pendant",
+    "badass belt",
+    "badass pie",
+    "bag of gorf",
+    "bag of gorp",
+    "bag of park garbage",
+    "baja sopapilla",
+    "baked stuffing",
+    "baked veggie ricotta casserole",
+    "balaclava baklava",
+    "balloon helmet",
+    "balloon monkey",
+    "balloon shield",
+    "balloon sword",
+    "ballroom blintz",
+    "banana",
+    "banana cream pie",
+    "banana milkshake",
+    "banana smoothie",
+    "banana spritzer",
+    "baneful bandolier",
+    "bar whip",
+    "bark beret",
+    "bark boxers",
+    "bark bracelet",
+    "barrel beryl ring",
+    "barrel cracker",
+    "barrel pickle",
+    "barrel-aged eggnog",
+    "barrel-aged martini",
+    "barskin buckler",
+    "barskin cloak",
+    "barskin hat",
+    "barskin loincloth",
+    "barskin tent",
+    "barulio's bottle",
+    "basic martini",
+    "basic meat helmet",
+    "basic meat staff",
+    "bat haggis",
+    "bat hat",
+    "bat whip",
+    "bat wing kabob",
+    "bat wing stir-fry",
+    "bat-ass leather jacket",
+    "bat-shaped crimboween cookie",
+    "battered old top-hat",
+    "battery (9-volt)",
+    "battery (car)",
+    "battery (lantern)",
+    "bean burrito",
+    "beanbag chair",
+    "bear claw",
+    "beavermouth",
+    "beefy fish meat",
+    "beer basted brat",
+    "beertini",
+    "beery blood",
+    "beignet milgranet",
+    "bejazzled eyepatch",
+    "belt of howling anger",
+    "belt of loathing",
+    "berries of suffering",
+    "berry-infused sake",
+    "better than cuddling cake",
+    "biker's hat",
+    "bilge wine",
+    "black & tan",
+    "black cowboy hat",
+    "black forest cake",
+    "black forest ham",
+    "black pudding",
+    "blackberry",
+    "blackberry polite",
+    "blackfly chardonnay",
+    "blended frozen swill",
+    "blended frozen swill with a fly in it",
+    "blob-shaped crimbo cookie",
+    "blood and blood",
+    "blood-red mushroom wine",
+    "blood-soaked sponge cake",
+    "bloodbath",
+    "bloody beer",
+    "bloody kiwitini",
+    "bloody mary",
+    "bloody nora",
+    "blunt cat claw",
+    "bomb of unknown origin",
+    "bone broth",
+    "bone-polishing rag",
+    "bonerdagon necklace",
+    "book of facts (dog-eared)",
+    "book of old-timey carols",
+    "boot flask",
+    "boots of twilight whispers",
+    "bordeaux marteaux",
+    "boring spaghetti",
+    "boris's bread",
+    "boris's key lime pie",
+    "bottle of amontillado",
+    "bottle of cabernet sauvignon",
+    "bottle of calcutta emerald",
+    "bottle of chateau de vinegar",
+    "bottle of cooking sherry",
+    "bottle of crimbognac",
+    "bottle of definit",
+    "bottle of domesticated turkey",
+    "bottle of drinkin' gas",
+    "bottle of evermore",
+    "bottle of gin",
+    "bottle of greedy dog",
+    "bottle of jorge sinsonte",
+    "bottle of lambada lambic",
+    "bottle of laundry sherry",
+    "bottle of lieutenant freeman",
+    "bottle of norwhiskey",
+    "bottle of ooze-o",
+    "bottle of pete's sake",
+    "bottle of pinot renoir",
+    "bottle of popskull",
+    "bottle of prize-winning rum",
+    "bottle of professor beer",
+    "bottle of rapier witbier",
+    "bottle of realpagne",
+    "bottle of rum",
+    "bottle of sake",
+    "bottle of sea wine",
+    "bottle of sewage schnapps",
+    "bottle of super-extra-dark rhum",
+    "bottle of tequila",
+    "bottle of vodka",
+    "bottle of whiskey",
+    "bottle of wine",
+    "boulevardier cocktail",
+    "bowl full of jelly",
+    "bowl of cottage cheese",
+    "bowl of eyeballs",
+    "bowl of infinite jelly",
+    "bowl of lucky charms",
+    "bowl of maggots",
+    "bowl of mernudo",
+    "bowl of prescription candy",
+    "bowl of rye sprouts",
+    "bowl of scorpions",
+    "box-in-the-box-in-the-box",
+    "boxed apriling band helmet",
+    "boxed archaeologist's spade",
+    "boxed champagne",
+    "boxed sept-ember censer",
+    "boxed wine",
+    "boxing glove on a spring",
+    "brain food pastaco",
+    "brain-meltingly-hot chicken wings",
+    "brains casserole",
+    "brand of violence",
+    "bread man",
+    "bread pie",
+    "bread roll",
+    "breaded beer",
+    "breakfast mess",
+    "breathetastic™ premium canned air",
+    "bricko elephant",
+    "bricko octopus",
+    "bricko python",
+    "brimstone chicken sandwich",
+    "brown sugar cane",
+    "browser cookie",
+    "bubble bauble bow",
+    "bubblewrap bottlecap turtleban",
+    "bubblewrap sword",
+    "bucket of honey",
+    "bucket of wine",
+    "buffalo blade",
+    "bunch of square grapes",
+    "bustle hustler",
+    "buttery knob",
+    "buzzing mushroom wine",
+    "buñuelos jaliscos",
+    "byte",
+    "c.h.u.m. chum",
+    "cabooze",
+    "cactus fruit",
+    "caipifruta",
+    "caipiranha",
+    "calle de miel",
+    "calle de miel with a fly in it",
+    "calzone of legend",
+    "can cannon",
+    "can of mixed everything",
+    "can of sardines",
+    "can of swiller",
+    "can of the cheapest beer",
+    "can-shaped gelatinous cranberry sauce",
+    "candicaine",
+    "candied beef and cabbage",
+    "candied pecan",
+    "candied sweet potatoes",
+    "candied yams",
+    "candy alexander",
+    "candy cane",
+    "candy carrot",
+    "candy carrot cake",
+    "candy egg deviler",
+    "candy harmonica",
+    "candy mountain oyster",
+    "candy stake",
+    "cane-mail pants",
+    "canteen of jungle juice",
+    "cardboard crossbow",
+    "cardboard sword",
+    "carnivorous potted plant",
+    "carob brownies",
+    "carob cannon",
+    "carob chunk cookies",
+    "carob chunk noodles",
+    "carob chunks",
+    "carrot cake",
+    "carrot cake precipice bar",
+    "carrot claret",
+    "carton of snake milk",
+    "catgut taco",
+    "catskin buckler",
+    "catskin cap",
+    "caveman dan's favorite rock",
+    "celestial carrot juice",
+    "celsius 233",
+    "celsius 233 (singed)",
+    "cement mixer",
+    "centauri fish wine",
+    "centipede eggs",
+    "chakra libre",
+    "chalk chlamys",
+    "chaos popcorn",
+    "charged magnet",
+    "cheap chinese beer",
+    "cheezburger",
+    "chef-in-the-box",
+    "cherry",
+    "cherry pie",
+    "cherrytastrophe wine cooler",
+    "chester's aquarius medallion",
+    "chester's bag of candy",
+    "chester's cutoffs",
+    "chester's moustache",
+    "chester's muscle shirt",
+    "chester's sunglasses",
+    "chitin powder paste",
+    "choco-mint patty",
+    "chocolate cigar",
+    "chocolate ogre chieftain",
+    "chocolate ostrich egg",
+    "chocolate spider queen",
+    "chocomotive",
+    "chocotini",
+    "choker of the ultragoth",
+    "chorizo brownies",
+    "chorizo taco",
+    "chrome crossbow",
+    "chrome helmet turtle",
+    "chrome staff",
+    "chrome sword",
+    "chunk of depleted grimacite",
+    "cinnamon cannoli",
+    "cinnamon doubloon",
+    "citrus crush wine cooler",
+    "citrus-infused sake",
+    "clan vip lounge invitation",
+    "clara's bell",
+    "clear russian",
+    "cloak of dire shadows",
+    "clockwork bartender-in-the-box",
+    "clockwork chef-in-the-box",
+    "clockwork detective skull",
+    "clockwork maid",
+    "clockwork pirate skull",
+    "clown whip",
+    "clown wig",
+    "clownskin belt",
+    "clownskin buckler",
+    "clownskin harness",
+    "club of the five seasons",
+    "club sandwich",
+    "cob of corn",
+    "cobb's knob wurstbrau",
+    "cobra bowl",
+    "cocktail onion",
+    "cocktails of the age of sail (used)",
+    "cocoa egg",
+    "cocoa eggshell fragment",
+    "cog and sprocket assembly",
+    "cold and sour sauce",
+    "cold hi mein",
+    "cold mashed potatoes",
+    "cold one",
+    "cold stone of hatred",
+    "cologne of contempt",
+    "complex mushroom wine",
+    "comprehensive cartographic compendium (well-read)",
+    "concentrated cordial of concentration",
+    "concentrated fish broth",
+    "concoction of clumsiness",
+    "coney haunch",
+    "connery's elixir of audacity",
+    "cookie cookie",
+    "cool brunch pastaco",
+    "cool cat claw",
+    "cool jelly donut",
+    "cool mint precipice bar",
+    "cool mushroom",
+    "cool mushroom casserole",
+    "cool mushroom wine",
+    "cordial of concentration",
+    "corned beet",
+    "corned-beef reuben",
+    "corpse island iced tea",
+    "corpse on the beach",
+    "corpsebite",
+    "corpsedriver",
+    "corpsetini",
+    "corroded breeches",
+    "corrosive cowl",
+    "cottage",
+    "covers-your-head",
+    "covert ops for kids (used)",
+    "cozy scarf",
+    "cranberries",
+    "cranberry cordial",
+    "cranberry cylinder",
+    "crappy brain",
+    "crate of prize-winning cheese",
+    "crate of prize-winning rum",
+    "crazy little turkish delight",
+    "cream of pointy mushroom soup",
+    "cream pie",
+    "cream stout",
+    "creamsicle",
+    "creepy voodoo doll",
+    "crimbco employee handbook (chapter 1)",
+    "crimbco employee handbook (chapter 1) (used)",
+    "crimbco employee handbook (chapter 2) (used)",
+    "crimbco employee handbook (chapter 3) (used)",
+    "crimbco employee handbook (chapter 4) (used)",
+    "crimbco employee handbook (chapter 5) (used)",
+    "crimbo dinner",
+    "crimbo factory surprise box",
+    "crimbo food scraps",
+    "crimbo pie",
+    "crimbo smile",
+    "crimbo training manual",
+    "crimbojito",
+    "crimbonium fuel rod",
+    "crimbosmopolitan",
+    "crimbuccaneer fledges (disintegrating)",
+    "crimbuccaneer lantern",
+    "crimbuccaneer mologrog cocktail",
+    "crimbuccaneer piece of 12",
+    "crimbuccaneer premium booty sack",
+    "crimbuccaneer war standard",
+    "crimbylow-rise jeans",
+    "crudles",
+    "cruelty-free wine",
+    "crumpled felt fedora",
+    "crymbocurrency",
+    "crystal skeleton vodka",
+    "csa cheerfulness ration",
+    "cup of primitive beer",
+    "cupcake-in-a-cup",
+    "cuppa neuroplastici tea",
+    "curdflinger",
+    "cursed aztec tamale",
+    "cursed black pearl onion",
+    "cursed punch",
+    "custard pie",
+    "cybeer",
+    "cyburger",
+    "d roll",
+    "dad's brandy",
+    "dark porquoise ring",
+    "day-old beer",
+    "dead lights pie",
+    "dead meat bun",
+    "decaying wooden oar",
+    "decent brain",
+    "deep dish of legend",
+    "dehydrated caviar",
+    "delicious noodles",
+    "delicious spicy noodles",
+    "delicious star salad",
+    "delicious swamp muck",
+    "deluxe layer cake",
+    "deluxe neverending party favor",
+    "demon whip",
+    "demon-horned hat",
+    "demonskin jacket",
+    "denastified haunch",
+    "dense meat sword",
+    "desiccated apricot",
+    "devil hair pasta",
+    "devilbone corset",
+    "dew yoana lei",
+    "dew yoana salacious lei",
+    "dice sunglasses",
+    "dice-print pajama pants",
+    "dinner roll",
+    "dinsey's brain",
+    "dinsey's glove",
+    "dinsey's oculus",
+    "dinsey's pants",
+    "dinsey's pizza cutter",
+    "dinsey's radar dish",
+    "dire fudgesicle",
+    "dirt julep",
+    "discarded hot dog",
+    "disembodied smile",
+    "distilled fortified wine",
+    "divine sidecar",
+    "do-it-yourself laser eye surgery kit",
+    "doc clock's thyme cocktail",
+    "doc's limbering wine",
+    "doc's medical-grade wine",
+    "doc's smartifying wine",
+    "doc's special reserve wine",
+    "doll-eye amulet",
+    "dolph bossin's charity note",
+    "donated booze",
+    "donated candy",
+    "donated food",
+    "double bacon beelzeburger",
+    "double barreled barrel gun",
+    "double-ice box",
+    "double-ice britches",
+    "double-ice cap",
+    "doublepunchplanter",
+    "drac & tan",
+    "dragon snaps",
+    "drapes-you-regally",
+    "dreadsylvanian cold pocket",
+    "dreadsylvanian shepherd's pie",
+    "dream of a dog",
+    "dregs of a crimbo cocktail",
+    "dripping meat crossbow",
+    "dripping meat staff",
+    "dripping meat sword",
+    "drive-thru burger",
+    "drunken neurologist",
+    "drunkula's bell",
+    "drunkula's cape",
+    "drunkula's ring of haze",
+    "drunkula's silky pants",
+    "drunkula's wineglass",
+    "dry martini",
+    "dry vodka martini",
+    "ducha de oro",
+    "duct tape shirt",
+    "dueling banjo",
+    "dump truck",
+    "dungeon fist gauntlet",
+    "dust bunny",
+    "dusty bottle of marsala",
+    "dusty bottle of merlot",
+    "dusty bottle of muscat",
+    "dusty bottle of pinot noir",
+    "dusty bottle of port",
+    "dusty bottle of zinfandel",
+    "dwarf bread",
+    "eagle's milk",
+    "earth and firewater",
+    "easter eggnog",
+    "easter grasshopper",
+    "ecto-cooler",
+    "edible alien plant bit",
+    "eelskin hat",
+    "eelskin pants",
+    "eelskin shield",
+    "egg gun",
+    "eggnog",
+    "eggwater",
+    "eighth plague",
+    "el vibrato restraints",
+    "eldritch distillate",
+    "eldritch elixir",
+    "eldritch essence",
+    "eldritch extract",
+    "eldritch mushroom",
+    "eldritch mushroom pizza",
+    "eldritch rub",
+    "electric punch",
+    "electric snakebite",
+    "electrician's hardhat",
+    "elemental caipiroska",
+    "elf army field rations",
+    "elf guard clipboard",
+    "elf guard field manual: culinary arts (used)",
+    "elf guard field manual: extortion",
+    "elf guard field manual: extortion (used)",
+    "elf guard field manual: wilderness sleeping (used)",
+    "elf guard fuel tank",
+    "elf guard honor present",
+    "elf guard insignia (general)",
+    "elf guard mpc",
+    "elf guard safety bear",
+    "elf guard scuba tank",
+    "elf guard war standard",
+    "elfin shortbread",
+    "ellsbury's journal (used)",
+    "elven hardtack",
+    "elven squeeze",
+    "emergency margarita",
+    "emotion chip",
+    "en una fila tequila",
+    "enchanted bean burrito",
+    "enchanted eyepatch",
+    "enchanted leopard-print barbell",
+    "enchantlers",
+    "ent cider",
+    "enticing mayolus",
+    "escargotsicle",
+    "etched hourglass",
+    "event horizon",
+    "everfull glass",
+    "every day is like this sundae",
+    "evil golden arches",
+    "executive mime flask",
+    "exotic jungle fruit",
+    "expensive champagne",
+    "expired mre",
+    "extra-flat panini",
+    "extra-greasy slider",
+    "extra-large palm-frond toupee",
+    "extra-spicy bloody mary",
+    "extra-thick crimbo sweater",
+    "extreme meat crossbow",
+    "extreme meat staff",
+    "extreme meat sword",
+    "extreme nose ring",
+    "extremely slippery nipple",
+    "eye and a twist",
+    "eyedrops of newt",
+    "eyedrops of the ermine",
+    "eyedrops of the ocelot",
+    "fake washboard",
+    "fancy beef jerky",
+    "fancy chess set",
+    "fancy old wine",
+    "fancy party pants",
+    "feathered headdress",
+    "ferrigno's elixir of power",
+    "fettris",
+    "fez of etymology",
+    "fiberglass frock",
+    "filet of the fish",
+    "filigreed hamethyst earring",
+    "filigreed hamethyst necklace",
+    "fine aged cheddarwurst",
+    "fine wine",
+    "fire",
+    "fireman's lunch",
+    "firemilk",
+    "first post shirt - cir senam",
+    "fishcake",
+    "fishelada",
+    "fishy fish",
+    "fishy fish casserole",
+    "fishy fish lasagna",
+    "flamin' whatshisname",
+    "flaming caipiranha",
+    "flaming cardboard sword",
+    "flaming knob",
+    "flaming mohobo",
+    "flaming mushroom",
+    "flaming mushroom wine",
+    "flaming sazerorc",
+    "flan del mar",
+    "flask of amontillado",
+    "flask of baconstone juice",
+    "flask of hamethyst juice",
+    "flask of moonshine",
+    "flask of porquoise juice",
+    "flask of port",
+    "flaskfull of hollow",
+    "flat mushroom wine",
+    "flavorless gruel",
+    "fleetwood mac 'n' cheese",
+    "flour cookie",
+    "flower petal pie",
+    "fluid of fudge-finding",
+    "flute of flat champagne",
+    "flypaper staff",
+    "fog murderer",
+    "foon of fearfulness",
+    "foon of fleshiness",
+    "foon of foulness",
+    "foon of fulmination",
+    "forbidden danish",
+    "former sheriff dan's tin star",
+    "fortune cookie",
+    "fountain 'soda'",
+    "fourth of may cosplay saber kit",
+    "franken stein",
+    "frankly mr. shank",
+    "frat brats",
+    "freightcake",
+    "french bronilla brogurt",
+    "fricasseed brains",
+    "friendly turkey",
+    "frogade",
+    "frosty's carrot",
+    "frosty's iceball",
+    "frosty's nailbat",
+    "frosty's old silk hat",
+    "frosty's snowball sack",
+    "frozen danish",
+    "frozen mushroom",
+    "fruitcake",
+    "fruity girl swill",
+    "fudge bunny",
+    "fudgesicle",
+    "full-sized pumpkin pie",
+    "furry kilt",
+    "furry pants",
+    "furry skirt",
+    "fusilli marrownarrow",
+    "fusillocybin",
+    "fuzzbump",
+    "fuzzy slippers of hatred",
+    "fuzzy tentacle",
+    "gallon of milk",
+    "gamma nog",
+    "garbage sticker",
+    "gatorskin umbrella",
+    "gauntlets of the blood moon",
+    "gauze hammock",
+    "ghast iron cleaver",
+    "ghast iron codpiece",
+    "ghast iron garibaldi",
+    "ghast iron heater shield",
+    "ghost beer",
+    "ghost cucumber",
+    "ghostly ectoplasm",
+    "ghuol egg",
+    "ghuol egg quiche",
+    "ghuol guolash",
+    "ghuol-ear kabob",
+    "giant cheesestick",
+    "giant grain of protein powder",
+    "giant green gummi bear",
+    "giant green gummi ingot",
+    "giant heirloom grape tomato",
+    "giant red gummi ingot",
+    "giant yellow gummi ingot",
+    "gibson",
+    "gilded trumpet",
+    "gimlet",
+    "gin and tonic",
+    "gin mint",
+    "gin-soaked blotter paper",
+    "gingerbeard",
+    "gingerbread bugbear",
+    "gingerbread gavel",
+    "gingerbread horror",
+    "gingerbread mask",
+    "gingerbread mug",
+    "gingerbread mutant bugbear",
+    "gingerbread wine",
+    "gingerservo",
+    "ginsu™",
+    "girdle of hatred",
+    "glass eye",
+    "glass of baboon milk",
+    "glass of bourbon",
+    "glass of goat's milk",
+    "glass of herbal tequila",
+    "glass of raw eggs",
+    "glenn's golden dice",
+    "glistening fish meat",
+    "glistening staff",
+    "glob of cream cheese",
+    "gloomy black mushroom",
+    "gloomy mushroom wine",
+    "glowing fungus",
+    "gnat lasagna",
+    "gnatloaf",
+    "gnatloaf casserole",
+    "gnatwing earring",
+    "gnauga hide buckler",
+    "gnauga hide kilt",
+    "gnauga hide skirt",
+    "gnauga hide whip",
+    "gnocchetti di nietzsche",
+    "gnoll-tooth necklace",
+    "gnollish sangria",
+    "go-wassail",
+    "goat cheese",
+    "goat cheese pizza",
+    "goat cheese taco",
+    "goggles of loathing",
+    "gold skull ring",
+    "goo magnet",
+    "good brain",
+    "gooey lava globs",
+    "gooified animal matter",
+    "gooified mineral matter",
+    "gooified vegetable matter",
+    "goulauncher",
+    "government booze shipment",
+    "government candy shipment",
+    "government food shipment",
+    "gr8ps",
+    "granny hackleton's gatling gun",
+    "grapefruit",
+    "grapes",
+    "grass blade",
+    "grass hat",
+    "grass skirt",
+    "grass whistle",
+    "grasshopper",
+    "gratitude chocolate (thyme-filled)",
+    "gravyskin buckler",
+    "gravyskin hat",
+    "gravyskin pants",
+    "gravyskin skirt",
+    "grease gun",
+    "great old fashioned",
+    "great older fashioned",
+    "great wolf's beastly trousers",
+    "great wolf's headband",
+    "great wolf's left paw",
+    "great wolf's lice",
+    "great wolf's right paw",
+    "great wolf's rocket launcher",
+    "greaves of the murk lord",
+    "green and red bean",
+    "green bean casserole",
+    "green beer",
+    "green burlap",
+    "green drunki-bear",
+    "green eggnog",
+    "green giant",
+    "green hamhock",
+    "green manalishi",
+    "green marshmallow",
+    "green velvet",
+    "grilled cheese sandwich",
+    "grilled mooseflank",
+    "grisly shield",
+    "grog",
+    "groovy prism necklace",
+    "groping claw",
+    "grue egg omelette",
+    "guilty sprout",
+    "gunky chicken",
+    "gunner's daughter",
+    "gunpowder burrito",
+    "hacked gibson",
+    "haggis-wrapped haggis-stuffed haggis",
+    "hairpiece on fire",
+    "half a purse",
+    "ham steak",
+    "hamburger",
+    "hamethyst earring",
+    "hamethyst necklace",
+    "hamethyst ring",
+    "hamlet sandwich",
+    "hand in glove",
+    "hand that rocks the ladle",
+    "hand-crafted candy cane",
+    "hand-knitted diving booties",
+    "handful of nuts and berries",
+    "handful of split pea soup",
+    "handful of walnuts",
+    "hard cocoa",
+    "hardboiled egg",
+    "hardened slime belt",
+    "hare pin",
+    "haunted bottle of vodka",
+    "haunted cherry pie",
+    "haunted eggnog",
+    "haunted gimlet",
+    "haunted hell ramen",
+    "haunted martini",
+    "haunted orange",
+    "haunted pizza",
+    "hawking's elixir of brilliance",
+    "haymaker",
+    "hazmat helmet",
+    "heavy metal sonata",
+    "heavy metal thunderrr guitarrr",
+    "heck ramen",
+    "hell broth",
+    "hell in a bucket",
+    "hell ramen",
+    "helm of the scream emperor",
+    "helps-you-sleep",
+    "herb brownies",
+    "herbal stuffing",
+    "herring daiquiri",
+    "herringtini",
+    "hibiscus petal",
+    "high-calorie sugar substitute",
+    "highest bitter",
+    "hippo skin buckler",
+    "hippo whip",
+    "hippopotamus pants",
+    "hipposkin poncho",
+    "hippy herbal tea",
+    "hipster cocktail",
+    "hoa citation pad",
+    "hoa regulation book",
+    "hoa zombie eyes",
+    "hobo dungarees",
+    "hobo stogie",
+    "hodgman's almanac",
+    "hodgman's blanket",
+    "hodgman's bow tie",
+    "hodgman's cane",
+    "hodgman's harmonica",
+    "hodgman's lobsterskin pants",
+    "hodgman's lucky sock",
+    "hodgman's porkpie hat",
+    "hodgman's varcolac paw",
+    "holiday multitasking (used)",
+    "holiday smorgasbord",
+    "holiday trip around the world",
+    "honey mead",
+    "honey-dew",
+    "honey-drenched ham slice",
+    "honeypot",
+    "horizontal tango",
+    "hot buttered roll",
+    "hot clusterbomb",
+    "hot cross bow",
+    "hot date",
+    "hot daub",
+    "hot hi mein",
+    "hot mint schnocolate",
+    "hot wad",
+    "hot watered rum",
+    "hot wine",
+    "hot wing",
+    "how to lose friends and attract snakes (used)",
+    "hoyle's guide to reindeer games (used)",
+    "huge crimbo cookie",
+    "humble pie",
+    "ice cream sandwich",
+    "ice harvest",
+    "ice island long tea",
+    "ice porter",
+    "ice skate decoy",
+    "ice-cold beerring",
+    "ice-cold fotie",
+    "ice-cold sir schlitz",
+    "ice-cold willer",
+    "iceberg lettuce",
+    "icing poncho",
+    "icy mushroom wine",
+    "icy-hot katana",
+    "igloo pie",
+    "imitation white russian",
+    "imp ale",
+    "incredible mini-pizza",
+    "incredible pizza",
+    "infinite bacon machine",
+    "inigo's incantation of inspiration (crumpled)",
+    "initiative shawarma",
+    "insanely spicy bean burrito",
+    "insanely spicy enchanted bean burrito",
+    "insanely spicy jumping bean burrito",
+    "insulated gold wire",
+    "irish coffee, english heart",
+    "irish eggnog",
+    "iron beta of industry",
+    "irradiated candy cane",
+    "island hurricane",
+    "island landslide",
+    "island thunderstorm",
+    "ittah bittah hookah",
+    "jack-o-lantern beer",
+    "jackhammer",
+    "jamaican coffee",
+    "jar of fermented pickle juice",
+    "jar of squeeze",
+    "jarlsberg's key lime",
+    "jarlsberg's key lime pie",
+    "java cookie",
+    "jawbruiser",
+    "jeans of loathing",
+    "jive turkey leg",
+    "jodhpurs of violence",
+    "jug of baconstone juice",
+    "jug of booze",
+    "jug of hamethyst juice",
+    "jug of porquoise juice",
+    "jumbo olive",
+    "jumping bean burrito",
+    "jumping bean taco",
+    "jumping horseradish",
+    "jungle floor wax",
+    "juniper berries",
+    "junk food",
+    "junk yard",
+    "kamicorpse-ee",
+    "karma shawarma",
+    "kelp-holly drape",
+    "kelp-holly gun",
+    "ketchup",
+    "king cookie",
+    "kiwi",
+    "knob jelly donut",
+    "knob ka-bobs",
+    "knob lo mein",
+    "knob mushroom",
+    "knob mushroom wine",
+    "knob nuts",
+    "knob pasty",
+    "knob sausage",
+    "knob sausage stir-fry",
+    "knob shroomkabob",
+    "knob stir-fry",
+    "knob stroganoff",
+    "knob stuffed shells",
+    "knobby kneepads",
+    "knoll lo mein",
+    "knoll mushroom",
+    "knoll shroomkabob",
+    "knoll stir-fry",
+    "kumquat",
+    "la fantasma y la oscuridad",
+    "lab-grown meat",
+    "large cocoa eggshell fragment",
+    "large tankard of ale",
+    "laser-broiled pear",
+    "lava cake",
+    "lavawater",
+    "leafy browns",
+    "leftover pasty",
+    "leftovers",
+    "leftovers sandwich",
+    "legitimate business on the beach",
+    "lemon",
+    "lemon meringue pie",
+    "lemon popsicle",
+    "lens of hatred",
+    "lens of violence",
+    "libation of liveliness",
+    "libertagliatelle",
+    "lihc eye pie",
+    "lil' snowball factory",
+    "lime",
+    "limp broccoli",
+    "linguini immondizia bianco",
+    "linguini of the sea",
+    "linoleum helmet turtle",
+    "linoleum sword",
+    "liquid sonar",
+    "literal grasshopper",
+    "little deuce cape",
+    "liver and let pie",
+    "liver popsicle",
+    "loaf of alien bread",
+    "loaf of soda bread",
+    "locust",
+    "lollipop drop",
+    "lolmec statuette",
+    "london frog",
+    "long pork casserole",
+    "long pork chop sandwiches",
+    "long pork lasagna",
+    "lord of the flies-sized fries",
+    "lost elf luggage",
+    "lotion of coldness",
+    "lotion of hotness",
+    "lotion of sleaziness",
+    "lotion of spookiness",
+    "lotion of stench",
+    "louder than bomb",
+    "low tide martini",
+    "lucky army helmet",
+    "lucky gold ring",
+    "lucky surprise egg",
+    "ludovico pastaco",
+    "lumbering jack",
+    "lumineux limnio",
+    "lychee chuhai",
+    "lynyrdskin breeches",
+    "lynyrdskin cap",
+    "lynyrdskin tunic",
+    "mad train wine",
+    "mae west",
+    "mae west with a fly in it",
+    "magical baguette",
+    "magical pony: shutterfly",
+    "malevolent medallion",
+    "mana curds",
+    "mana-basted tofurkey leg",
+    "mana-coated yams",
+    "mana-fortified cranberry sauce",
+    "mana-stuffed herbal stuffing",
+    "mandarina colada",
+    "mandarina colada with a fly in it",
+    "manetwich",
+    "maple syrup",
+    "margarita",
+    "marinara jug",
+    "mark v steam-hat",
+    "marshmallow bomb",
+    "martini",
+    "martiny",
+    "mashed potatoes",
+    "mayam spinach",
+    "mayor ghost's cloak",
+    "mayor ghost's gavel",
+    "mayor ghost's khakis",
+    "mayor ghost's sash",
+    "mayor ghost's scissors",
+    "mayor ghost's toupee",
+    "mchugelarge deluxe ski set",
+    "mcleod's hard haggis-ade",
+    "mcmillicancuddy's special lager",
+    "meadeorite",
+    "meat cowboy hat",
+    "meat engine",
+    "meat maid",
+    "meat stack",
+    "meat tenderizer is murder",
+    "meatball",
+    "meatball machine",
+    "meatcleaver",
+    "meatloaf helmet",
+    "meatspout staff",
+    "mechanically-mulled cider",
+    "melon-infused sake",
+    "melted jell-o shot",
+    "memory of a ca base pair",
+    "memory of a cg base pair",
+    "memory of a ct base pair",
+    "memory of a gt base pair",
+    "memory of an ag base pair",
+    "memory of an at base pair",
+    "menudo",
+    "menudo ravioli",
+    "mercenary pistol",
+    "meteoreo",
+    "mid-level medieval mead",
+    "milk of magnesium",
+    "mime army challenge coin",
+    "mime army insignia (espionage)",
+    "mime army insignia (infantry)",
+    "mime army insignia (intelligence)",
+    "mime army shotglass",
+    "mimosette",
+    "mince pie",
+    "mind flayer corpse",
+    "mineapple",
+    "mini kiwi",
+    "mini kiwi digitized cookies",
+    "mini kiwi intoxicating spirits",
+    "mini kiwitini",
+    "mini-martini",
+    "mint yulep",
+    "mint-in-box powerful glove",
+    "miserable pie",
+    "moai toai",
+    "mohobo",
+    "mon tiki",
+    "mon tiki sidecar",
+    "monkey wrench",
+    "moon-amber necklace",
+    "moonberry wine cooler",
+    "moonshine mohobo",
+    "moose chocolate",
+    "moosemeat pie",
+    "more humanitini than humanitini",
+    "moreltini",
+    "morning dew",
+    "mornington crescent roll",
+    "morto moreto",
+    "most of a beer",
+    "mostly rat-hide leggings",
+    "mostly-empty bottle of cookie wine",
+    "mountain stream gastrique",
+    "mr. burnsger",
+    "mr. cheeng's spectacles",
+    "mt. mclargehuge oyster",
+    "muculent machete",
+    "mudflap-girl ring",
+    "mugcake",
+    "mulberry",
+    "mulled berry wine",
+    "mulled butter rum",
+    "mulled cider",
+    "mulled hobo wine",
+    "multi-level marzipan",
+    "mummified entombed cookbookbat",
+    "murderbot live wire",
+    "murderbot mask",
+    "murderbot whip",
+    "murderer's punch",
+    "muschat",
+    "mushroom filet",
+    "mushroom pizza",
+    "mushroom tea",
+    "mushroom whiskey",
+    "mysterious island iced tea",
+    "nachos of the night",
+    "nailswurst",
+    "nanite-infested candy cane",
+    "nanite-infested fruitcake",
+    "nanite-infested gingerbread bugbear",
+    "nasty rat mask",
+    "natto-infused sake",
+    "nega-mushroom wine",
+    "nest egg",
+    "neuromancer",
+    "neutron lollipop",
+    "new zealand iced tea",
+    "new-in-box toy cupid bow",
+    "nice warm beer",
+    "nickel gamma of frugality",
+    "nicksilver ring",
+    "nicksilver spurs",
+    "non-aged vinegar",
+    "nothingtini",
+    "novelty belt buckle of violence",
+    "nut-shaped crimbo cookie",
+    "nutty organic salad",
+    "occult jelly donut",
+    "ocean motion",
+    "ocean-touched rum",
+    "octolus-skin cloak",
+    "office-supply crossbow",
+    "oh, the humanitini",
+    "oil cap",
+    "oil lamp",
+    "oil of expertise",
+    "oil of oiliness",
+    "oil of slipperiness",
+    "oil of stability",
+    "oil pan",
+    "oil slacks",
+    "oily mushroom wine",
+    "ointment of the occult",
+    "ojo de pez burrito",
+    "ol' scratch's ash can",
+    "ol' scratch's manacles",
+    "ol' scratch's ol' britches",
+    "ol' scratch's stove door",
+    "ol' scratch's stovepipe hat",
+    "old chum",
+    "old patched suit-pants",
+    "old soft shoes",
+    "old-fashioned",
+    "olive",
+    "olive lo mein",
+    "open sauce",
+    "opium grenade",
+    "orange",
+    "orange popsicle",
+    "orange star of sacrifice",
+    "orangemageddon wine cooler",
+    "order of the silver wossname",
+    "oscus's dumpster waders",
+    "oscus's flypaper pants",
+    "oscus's garbage can lid",
+    "oscus's pelt",
+    "ouija board, ouija board",
+    "overcookie",
+    "overflowing gift basket",
+    "overpowering mushroom wine",
+    "oxygenated eggnog helmet",
+    "oyster basket",
+    "p.b.l.t.",
+    "packaged familiar scrapbook",
+    "packaged jurassic parka",
+    "packaged knock-off retro superhero cape",
+    "packet of beer nuts",
+    "packet of tofurkey gravy",
+    "painful penne pasta",
+    "paint palette",
+    "painted shield",
+    "painting of a glass of wine",
+    "palm-frond capris",
+    "palm-frond cloak",
+    "palm-frond net",
+    "palm-frond whip",
+    "pan-dimensional gargle blaster",
+    "panicked kernel",
+    "pantaloons of hatred",
+    "papaya",
+    "papaya sling",
+    "papaya slung",
+    "papaya taco",
+    "papier-mitre",
+    "papotion of papower",
+    "paraffin pendant",
+    "paraffin poncho",
+    "parasitic claw",
+    "parasitic headgnawer",
+    "parasitic strangleworm",
+    "parasitic tentacles",
+    "parisian cathouse",
+    "party beer bomb",
+    "party crasher",
+    "party hard t-shirt",
+    "party platter for one",
+    "party whip",
+    "pat of butter",
+    "patent aggression tonic",
+    "patent alacrity tonic",
+    "patent avarice tonic",
+    "patent invisibility tonic",
+    "patent preventative tonic",
+    "patent sallowness tonic",
+    "pawn cookie",
+    "pb&bp",
+    "pb&j with the crusts cut off",
+    "pea brittle",
+    "peach",
+    "peach lozenge",
+    "peach pie",
+    "pear",
+    "pear lozenge",
+    "pear tart",
+    "pearl diver's necklace",
+    "peasco sour",
+    "peaza",
+    "pecan pie",
+    "pendant of fire",
+    "pendant of gargalesis",
+    "penguin focaccia bread",
+    "penguin shorts",
+    "peppermint donut",
+    "peppermint harpoon gun",
+    "peppermint parasol",
+    "peppermint pegleg",
+    "peppermint twist",
+    "perfect christmas scarf",
+    "perfect cosmopolitan",
+    "perfect dark and stormy",
+    "perfect mimosa",
+    "perfect negroni",
+    "perfect old-fashioned",
+    "perfect paloma",
+    "perfume of prejudice",
+    "perpendicular hula",
+    "pestoblade",
+    "pestopiary",
+    "pete's rich ricotta",
+    "phat turquoise bracelet",
+    "pheromone cocktail",
+    "phil collins",
+    "philosopher's scone",
+    "philter of phorce",
+    "phlegethon",
+    "pickled bread",
+    "pickled egg",
+    "picture of you",
+    "pie crust",
+    "pie man was not meant to eat",
+    "piece of cake",
+    "piece of wedding cake",
+    "pigeon egg",
+    "pigsticker of violence",
+    "pile of trainbot parts",
+    "pile of wet dates",
+    "pimpin' meat hat",
+    "pineapple slab",
+    "pink heart of spirit",
+    "pink pony",
+    "pink slime",
+    "pint of leprechaun stout",
+    "piping organ pie",
+    "pirate encryption key (complete)",
+    "piscatini",
+    "pixel beer",
+    "pixel bread",
+    "pixel daiquiri",
+    "pixel lemon",
+    "pixel whiskey",
+    "pizza of legend",
+    "plague of locusts",
+    "plaid pocket square",
+    "plaid skirt",
+    "plain bagel",
+    "plain candy cane",
+    "plain old beer",
+    "plain pizza",
+    "plain snowcone",
+    "plastic cup of beer",
+    "plate of frigid northern beans",
+    "plate of heimz fortified kidney beans",
+    "plate of mixed garbanzos and chickpeas",
+    "plate of shrub's premium baked beans",
+    "plate of tesla's electroplated beans",
+    "plate of trader olaf's exotic stinkbeans",
+    "plate of val-u brand every bean salad",
+    "plate of world's blackest-eyed peas",
+    "plum",
+    "plum lozenge",
+    "plum wine",
+    "plumber's lunch",
+    "pocket guide to mild evil",
+    "pocket guide to mild evil (used)",
+    "pocket square of loathing",
+    "pointy mushroom",
+    "pointy mushroom wine",
+    "poisonous caviar",
+    "popcorn",
+    "popular tart",
+    "porcelain porkpie",
+    "pork elf cough syrup",
+    "porquoise eyebrow ring",
+    "porquoise necklace",
+    "porquoise-handled sixgun",
+    "portable steam unit",
+    "potato alarm clock",
+    "potato pistol",
+    "potent potion of potency",
+    "potion of potency",
+    "potion of temporary gr8ness",
+    "poutine",
+    "powdered donut",
+    "powdered powdered sugar",
+    "pr0n cocktail",
+    "pr0n m4nic0tti",
+    "pr0n stir-fry",
+    "pr0n taco",
+    "premium malt liquor",
+    "prescription noodles",
+    "pressurized potion of perception",
+    "pressurized potion of perspicacity",
+    "pressurized potion of pneumaticity",
+    "pressurized potion of proficiency",
+    "pressurized potion of puissance",
+    "pressurized potion of pulchritude",
+    "pretty bouquet",
+    "primitive alien booze",
+    "primitive alien salad",
+    "prize turkey",
+    "projectile icemaker",
+    "protects-your-junk",
+    "protein paste",
+    "prussian cathouse",
+    "prussian cathouse sidecar",
+    "psychotic train wine",
+    "pump-up high-tops",
+    "pumpkin bomb",
+    "pumpkin pie",
+    "punch-drunk punch",
+    "punching mirror",
+    "punchplanter",
+    "purple corpsel",
+    "purple pixel pie",
+    "putrid pendant",
+    "pvc staff",
+    "quantum taco",
+    "queen cookie",
+    "quicksilver ring",
+    "quicksilver spurs",
+    "rabbit punch",
+    "radberry rip wine cooler",
+    "radio button candy",
+    "raffle prize box",
+    "rainbow bomb",
+    "rainbow crossbow",
+    "rainbow sauce",
+    "raisin",
+    "ralph ix cognac",
+    "ram's face lager",
+    "ram-battering staff",
+    "raspberry",
+    "raspberry beret",
+    "rat appendix kabob",
+    "rat appendix stir-fry",
+    "rat pizza",
+    "rat scrapple",
+    "ratini",
+    "ratskin belt",
+    "ratskin pajama pants",
+    "rattail whip",
+    "ravioli della hippy",
+    "raw bread",
+    "raw cranberry sauce",
+    "raw gravy",
+    "raw green beans",
+    "raw mincemeat",
+    "raw potato",
+    "raw stuffing",
+    "raw sweet potato",
+    "raw turkey",
+    "really nice lump of coal",
+    "really thick bandage",
+    "record of infuriating silence",
+    "record of infuriating silence (used)",
+    "record of menacing silence",
+    "record of menacing silence (used)",
+    "record of tranquil silence",
+    "record of tranquil silence (used)",
+    "red drunki-bear",
+    "red dwarf",
+    "red red wine",
+    "red roger's red left foot",
+    "red roger's red left hand",
+    "red roger's red right foot",
+    "red roger's red right hand",
+    "red rum",
+    "red velvet cake",
+    "red-headed corpse",
+    "red-hot boilermaker",
+    "redrum",
+    "refurbished air fryer",
+    "reinforced furry underpants",
+    "repeating crossbow",
+    "reverse tantalus",
+    "ridiculous cocktail",
+    "ring",
+    "ring of fire",
+    "ring of the sewer snake",
+    "ring of the skeleton lord",
+    "roasted duck",
+    "roasted marshmallow",
+    "roasted vegetable of jarlsberg",
+    "robin flan",
+    "robin nog",
+    "rocket fuel",
+    "rockin' wagon",
+    "rockin' wagon with a fly in it",
+    "rodeo whiskey",
+    "roll in the hay",
+    "roller skate decoy",
+    "room scale green bean casserole",
+    "root beer",
+    "rope with some soap on it",
+    "rotting beefsteak",
+    "royal jelly",
+    "royal jelly taco",
+    "rum and cola",
+    "russian ice",
+    "rusty staff",
+    "s'more",
+    "s'more gun",
+    "s.t.l.t.",
+    "sacramento wine",
+    "salacious crumbs",
+    "salacious lychee chuhai",
+    "salacious screwdiver",
+    "salamander slurry",
+    "salesco sample kit",
+    "salinated mint julep",
+    "salmagumdi",
+    "salsa de las epocas",
+    "salt plum",
+    "salt plum sake",
+    "salted mutton",
+    "salty dog",
+    "sandpaper",
+    "sandwich of the gods",
+    "sangria",
+    "sangria de menthe",
+    "saucepanic",
+    "sausage pizza",
+    "sausage wonton",
+    "savoy truffle",
+    "sazerorc",
+    "sazuruk-hai",
+    "scary death orb",
+    "scepter of loathing",
+    "schrödinger's thermos",
+    "scorched skull trophy",
+    "scorpion bowl",
+    "scotch and eggnog",
+    "screwdriver",
+    "sea avocado",
+    "sea blueberry",
+    "sea broccoli",
+    "sea carrot",
+    "sea cauliflower",
+    "sea chaps",
+    "sea cowboy hat",
+    "sea cucumber",
+    "sea holster",
+    "sea honeydew",
+    "sea persimmon",
+    "sea radish",
+    "sea tangelo",
+    "sea truffle",
+    "seal-clubbing club loot box",
+    "seared dino steak",
+    "sebaceous shield",
+    "secret blend of herbs and spices",
+    "secrets of the master egg hunters",
+    "secrets of the master egg hunters (used)",
+    "sequined fez",
+    "serum of sarcasm",
+    "shadow bread",
+    "shadow fluid",
+    "shadow sausage",
+    "shadow venom",
+    "shadowy cat claw",
+    "shakespeare's sister's accordion",
+    "sham champagne",
+    "shanty: i'm smarter than a drunken sailor (used)",
+    "shanty: let's beat up this drunken sailor (used)",
+    "shanty: look at that drunken sailor dance (used)",
+    "shanty: only dogs love a drunken sailor (used)",
+    "shanty: who's going to pay this drunken sailor? (used)",
+    "shapeless wide-brimmed hat",
+    "shark tooth necklace",
+    "sheet cake",
+    "sheila take a crossbow",
+    "shells a la shellfish",
+    "shield of icy fate",
+    "shield of the skeleton lord",
+    "shin gourds",
+    "shining goblet",
+    "shining star cap",
+    "shoo-fish pie",
+    "shot of blackberry schnapps",
+    "shot of flower schnapps",
+    "shot of grapefruit schnapps",
+    "shot of mescal",
+    "shot of nepenthe schnapps",
+    "shot of orange schnapps",
+    "shot of peach schnapps",
+    "shot of pear schnapps",
+    "shot of rotgut",
+    "shot of the living dead",
+    "shot of tomato schnapps",
+    "shot of wasp venom",
+    "shrapnel jelly donut",
+    "shroomtini",
+    "shuddersword",
+    "shushed potatoes",
+    "sicksilver ring",
+    "silver cow creamer",
+    "simepore slime",
+    "single entendre",
+    "single swig of vodka",
+    "single-serving herbal stuffing",
+    "sinistral homunculus",
+    "six tiny wedges of goat cheese",
+    "six-rainbow shield",
+    "sizzling sinner",
+    "skeletal scabbard",
+    "skeleton key",
+    "skeleton quiche",
+    "skeleton skis",
+    "skeleton war fuel can",
+    "skeleton wars rations",
+    "skewered cat appendix",
+    "skull of claus",
+    "skull punch",
+    "skull-shaped crimboween cookie",
+    "slap and tickle",
+    "sleazy fairy gravy",
+    "sleazy hi mein",
+    "slice of pizza",
+    "slick fish meat",
+    "slicksilver ring",
+    "slicksilver spurs",
+    "slime-covered club",
+    "slime-covered shovel",
+    "slime-covered speargun",
+    "slimebite",
+    "slimosa",
+    "slimy fermented bile bladder",
+    "slimy sweetbreads",
+    "slip 'n' slide",
+    "sloe comfortable zoo",
+    "sloe comfortable zoo on fire",
+    "slug of rum",
+    "slug of shochu",
+    "slug of vodka",
+    "small beer brat",
+    "smashed danish",
+    "smelted roe",
+    "smoldering staff",
+    "smooch bracers",
+    "smooch breastplate",
+    "smooch codpiece",
+    "smooch kneepads",
+    "smooch soda",
+    "smooch spaulders",
+    "smooth mushroom wine",
+    "smooth velvet bra",
+    "smooth velvet hanky",
+    "smooth velvet hat",
+    "smooth velvet pants",
+    "smooth velvet pocket square",
+    "smooth velvet shirt",
+    "smooth velvet socks",
+    "smuggler's punch",
+    "snailmail hauberk",
+    "snakebite",
+    "sneaky pete's key lime",
+    "sneaky pete's key lime pie",
+    "snifter of thoroughly aged brandy",
+    "snow berries",
+    "snow crab",
+    "soft green echo eyedrop antidote martini",
+    "sogg-os",
+    "soilzerac",
+    "solid gold jewel",
+    "solid shifting time weirdness",
+    "soup-chucks",
+    "sour ball and chain",
+    "southern yam",
+    "soyburger juice",
+    "soylent staff",
+    "space beast fur hat",
+    "space beast fur pants",
+    "space beast fur whip",
+    "space chowder",
+    "space port",
+    "space trip safety headphones",
+    "space wine",
+    "spagecialetti",
+    "spaghetti breakfast",
+    "spaghetti con calaveras",
+    "spaghetti with ghost balls",
+    "spaghetti with skullheads",
+    "spam witch sammich",
+    "spectral pickle",
+    "spelunker of fortune (used)",
+    "spiced rum",
+    "spicy bean burrito",
+    "spicy enchanted bean burrito",
+    "spicy jumping bean burrito",
+    "spicy mushroom quesadilla",
+    "spicy noodles",
+    "spiky turtle helmet",
+    "spiky turtle shield",
+    "spiky turtle shoulderpads",
+    "spinal tapas",
+    "spinning wheel",
+    "spirit of christmas",
+    "spirit of easter",
+    "spirit of st. patrick's day",
+    "spirit of thanksgiving",
+    "spirit of veteran's day",
+    "spirit precipice",
+    "spiritual fruitcake",
+    "splendid martini",
+    "sponge cake",
+    "sponge helmet",
+    "spooky eggnog",
+    "spooky hi mein",
+    "spooky lo mein",
+    "spooky mushroom",
+    "spooky mushroom wine",
+    "spooky scarecrow",
+    "spooky shroomkabob",
+    "spooky stir-fry",
+    "spooky wad",
+    "sprinkle-begging cup",
+    "square sponge pants",
+    "squeaky staff",
+    "staff of frozen lard",
+    "staff of kitchen royalty",
+    "staff of simmering hatred",
+    "staff of the deepest freeze",
+    "staff of the electric range",
+    "staff of the headmaster's victuals",
+    "staff of the november jack-o-lantern",
+    "staff of the peppermint twist",
+    "stainless steel scarf",
+    "stainless steel shillelagh",
+    "stainless steel skullcap",
+    "stainless steel slacks",
+    "stainless steel solitaire",
+    "stainless steel suspenders",
+    "stale baguette",
+    "stale cheer wine",
+    "stale cheer-e-os",
+    "stalk of asparagus",
+    "standard-issue cupcake",
+    "staph of homophones",
+    "star key lime",
+    "star key lime pie",
+    "star pop",
+    "stealth bomber",
+    "steamed oyster",
+    "stepmom's booze",
+    "steve abrams' holiday sampler beer",
+    "stick-knife of loathing",
+    "sticky meat pants",
+    "sticky meat skirt",
+    "stinkwater",
+    "stinky fannypack",
+    "stinky hi mein",
+    "stinky mushroom",
+    "stinky mushroom wine",
+    "stocking full of bones",
+    "stolen sushi",
+    "stomach turnover",
+    "strawberry",
+    "strawberry daiquiri",
+    "strawberry pie",
+    "strawberry popsicle",
+    "strawberry wine",
+    "strikes again bigmouth",
+    "strix stix",
+    "stuffed kraken",
+    "stuffed spooky mushroom",
+    "stunt nuts",
+    "succulent marrow",
+    "sugar fairy",
+    "suggestive strozzapreti",
+    "sun-dried tofu",
+    "sundae ration",
+    "super good fruit",
+    "super ka-bob",
+    "super magic power sword x",
+    "super salad",
+    "super-size brogurt",
+    "supernova champagne",
+    "suppurating sinner",
+    "susie's cupcake",
+    "swamp haunch",
+    "sweet potato o' mine",
+    "sweet potato punch",
+    "sweet roll alabama",
+    "sweet tooth",
+    "sword behind inappropriate prepositions",
+    "sword of dark omens",
+    "sword of procedural generation",
+    "sword of static",
+    "t8r tots",
+    "taco dan's basic taco dan taco",
+    "taco dan's taco fish fish taco",
+    "taco dan's taco stand chimichangarita",
+    "taco dan's taco stand taco",
+    "tainted milk",
+    "tales of a kansas toymaker (used)",
+    "talisman o' namsilat",
+    "tambourine",
+    "tangarita",
+    "tangarita sidecar",
+    "tangarita with a fly in it",
+    "tangerine",
+    "tankard of ale",
+    "tankard of spiced goldschlepper",
+    "tankard of spiced rum",
+    "tea for one",
+    "teflon shield",
+    "teflon spatula",
+    "teflon swim fins",
+    "temps tempranillo",
+    "tempura avocado",
+    "tempura broccoli",
+    "tempura carrot",
+    "tempura cauliflower",
+    "tempura radish",
+    "tequila sunrise",
+    "tequila sunset",
+    "tequila with training wheels",
+    "tequiz navidad",
+    "thanksgiving ration",
+    "thanksgiving turkey",
+    "the art of slapfighting (used)",
+    "the big book of every skill",
+    "the cocktail shaker",
+    "the cooler out of space",
+    "the crymbich manuscript (used)",
+    "the encyclopedia of fruit",
+    "the encyclopedia of fruit (used)",
+    "the encyclopedia of holiday funerary rites",
+    "the encyclopedia of holiday funerary rites (used)",
+    "the jokester's gun",
+    "the journal of mime science vol. 1 (used)",
+    "the journal of mime science vol. 2 (used)",
+    "the journal of mime science vol. 3 (used)",
+    "the journal of mime science vol. 4 (used)",
+    "the journal of mime science vol. 5 (used)",
+    "the journal of mime science vol. 6 (used)",
+    "the joy of wassailing (used)",
+    "the legendary beat",
+    "the mad liquor",
+    "the necbronomicon (used)",
+    "the night before crimbo, ch. 1 (used)",
+    "the night before crimbo, ch. 2 (used)",
+    "the night before crimbo, ch. 3 (used)",
+    "the night before crimbo, ch. 4 (used)",
+    "the night before crimbo, ch. 5 (used)",
+    "the night before crimbo, ch. 6 (used)",
+    "the nose knows, a guide to smells",
+    "the nose knows, a guide to smells (read)",
+    "the ring",
+    "the spirit of giving (used)",
+    "the superconductor's cpu",
+    "thermos full of knob coffee",
+    "they liver popsicle",
+    "thicksilver ring",
+    "thicksilver spurs",
+    "third base",
+    "this charming flan",
+    "thistle wine",
+    "three sheets to the wind",
+    "three-tiered wedding cake",
+    "thriller ice",
+    "thunkula's drinking cap",
+    "thwaitgold amoeba statuette",
+    "thwaitgold ant statuette",
+    "thwaitgold anti-moth statuette",
+    "thwaitgold bee statuette",
+    "thwaitgold bombardier beetle statuette",
+    "thwaitgold bookworm statuette",
+    "thwaitgold bug statuette",
+    "thwaitgold butterfly statuette",
+    "thwaitgold buzzy beetle statuette",
+    "thwaitgold caterpillar statuette",
+    "thwaitgold chigger statuette",
+    "thwaitgold cockroach statuette",
+    "thwaitgold cordyceps ant statuette",
+    "thwaitgold dragonfly statuette",
+    "thwaitgold fairyfly statue",
+    "thwaitgold fire beetle statuette",
+    "thwaitgold firefly statuette",
+    "thwaitgold goliath beetle statuette",
+    "thwaitgold grasshopper statuette",
+    "thwaitgold harvestman statuette",
+    "thwaitgold illinigina illinoiensis model",
+    "thwaitgold keyhole spider statuette",
+    "thwaitgold listening bug statuette",
+    "thwaitgold lobster statuette",
+    "thwaitgold mad hatterpillar statuette",
+    "thwaitgold maggot statuette",
+    "thwaitgold masked hunter statuette",
+    "thwaitgold metabug statuette",
+    "thwaitgold mosquito statuette",
+    "thwaitgold mosquito-in-amber statuette",
+    "thwaitgold moth statuette",
+    "thwaitgold nit statuette",
+    "thwaitgold nymph statuette",
+    "thwaitgold praying mantis statuette",
+    "thwaitgold protozoa statuette",
+    "thwaitgold quantum bug statuette",
+    "thwaitgold scarab beetle statuette",
+    "thwaitgold scorpion statuette",
+    "thwaitgold shield bug statuette",
+    "thwaitgold slug statuette",
+    "thwaitgold spider statuette",
+    "thwaitgold splendor beetle statuette",
+    "thwaitgold stag beetle statuette",
+    "thwaitgold termite statuette",
+    "thwaitgold time fly statuette",
+    "thwaitgold wheel bug statuette",
+    "thwaitgold wolf spider statuette",
+    "thwaitgold woollybear statuette",
+    "thyme jelly donut",
+    "ticksilver ring",
+    "tiger-lily's milk",
+    "tighty whiteys",
+    "tin cup",
+    "tin cup of mulligan stew",
+    "tin drum",
+    "tin foil",
+    "tin of submardines",
+    "tin snips",
+    "tin tam",
+    "tiny peach pie",
+    "tiny plastic \"santa claus\"",
+    "tiny plastic abuela's cottage",
+    "tiny plastic armory",
+    "tiny plastic bar",
+    "tiny plastic caboose",
+    "tiny plastic cafe",
+    "tiny plastic cheer core",
+    "tiny plastic chem lab",
+    "tiny plastic coal car",
+    "tiny plastic colonel brando",
+    "tiny plastic crimbo caroler",
+    "tiny plastic crimbo cheer",
+    "tiny plastic dining car",
+    "tiny plastic dolph bossin",
+    "tiny plastic dolphin \"orphan\"",
+    "tiny plastic easter island bunny",
+    "tiny plastic factory",
+    "tiny plastic food lab",
+    "tiny plastic jedediah and boiling cloud",
+    "tiny plastic left skeleton arm",
+    "tiny plastic left skeleton leg",
+    "tiny plastic locomotive",
+    "tiny plastic mer-kin baker",
+    "tiny plastic mirth",
+    "tiny plastic multi-level marketer",
+    "tiny plastic nog lab",
+    "tiny plastic passenger car",
+    "tiny plastic penny",
+    "tiny plastic primary lab",
+    "tiny plastic right skeleton arm",
+    "tiny plastic right skeleton leg",
+    "tiny plastic sea elf",
+    "tiny plastic skeleton crimbo hat",
+    "tiny plastic skeleton pelvis",
+    "tiny plastic skeleton rib cage",
+    "tiny plastic skeleton skull",
+    "tiny plastic st. patrick",
+    "tiny plastic yuleviathan",
+    "toast",
+    "toast with cold jelly",
+    "toast with hot jelly",
+    "toast with jam",
+    "toast with mixed berry jelly",
+    "toast with sleaze jelly",
+    "toast with spooky jelly",
+    "toast with stench jelly",
+    "toasted brie",
+    "tobiko-infused sake",
+    "tofu casserole",
+    "tofu stir-fry",
+    "tofu taco",
+    "tofu wonton",
+    "tofurkey gravy",
+    "tofurkey leg",
+    "tomato",
+    "tomato daiquiri",
+    "tomato juice of powerful power",
+    "tombstone-shaped crimboween cookie",
+    "too cold to hold: how to be cool - a memoir (read)",
+    "toot oriole care package",
+    "torquoise ring",
+    "tortoboggan shield",
+    "traditional crimbo cookie",
+    "train whistle",
+    "trainbot luggage hook",
+    "trainbot radar monocle",
+    "transylvania sling",
+    "treads of loathing",
+    "treasure chestnut",
+    "trench coat",
+    "triangular crimbcookie",
+    "triple barreled barrel gun",
+    "trollhouse cookies",
+    "truthsayer",
+    "turchucken",
+    "turkish mostaccioli",
+    "turtlemail coif",
+    "turtlemail hauberk",
+    "tuxedo shirt",
+    "twice-haunted screwdriver",
+    "two meat muck",
+    "typical tavern swill",
+    "ultra-deluxe cupcake",
+    "ultrafondue",
+    "uncle romulus",
+    "uncle romulus (used)",
+    "uncooked chorizo",
+    "undertakers' forceps",
+    "unflavored wine cooler",
+    "unfortunate dumplings",
+    "unidentified drink",
+    "unidentified jerky",
+    "uninteresting mayolus",
+    "unkillable skeleton's breastplate",
+    "unkillable skeleton's sawsword",
+    "unkillable skeleton's shield",
+    "unkillable skeleton's shinguards",
+    "unkillable skeleton's skullcap",
+    "unnamed cocktail",
+    "unpeeled peridot of peril",
+    "unquiet spirits",
+    "unspeakable earring",
+    "ur-donut",
+    "urinal cake",
+    "vampire chowder",
+    "vampire pearl necklace",
+    "velcro boots",
+    "velcro broadsword",
+    "velcro paddle ball",
+    "velcro shield",
+    "velour valise",
+    "velour vambraces",
+    "velour vaqueros",
+    "velour voulge",
+    "very fancy whiskey",
+    "very hot lunch",
+    "vial of baconstone juice",
+    "vial of hamethyst juice",
+    "vial of porquoise juice",
+    "vicar's tutu",
+    "vinegar-soaked lemon slice",
+    "vintage smart drink",
+    "vinyl boots",
+    "vinyl shield",
+    "vodka and cranberry",
+    "vodka and tonic",
+    "vodka barracuda",
+    "vodka cranberry sauce",
+    "vodka gibson",
+    "vodka martini",
+    "vodka matryoshka",
+    "vodka stratocaster",
+    "vykea mead",
+    "vykea meatballs",
+    "waffle",
+    "wal-mart nametag",
+    "wal-mart overalls",
+    "wal-mart snowglobe",
+    "wand of oscus",
+    "wang",
+    "warbear breakfast machine",
+    "warbear empathy chip (used)",
+    "warbear metalworking primer",
+    "warbear metalworking primer (used)",
+    "warbear soda machine",
+    "warm gravy",
+    "warm mushroom",
+    "warm war shawarma",
+    "warms-your-tush",
+    "wasabi pocky",
+    "wasabi-infused sake",
+    "washboard shield",
+    "water purification pills",
+    "waterlogged cloth",
+    "waterlogged leather",
+    "waterlogged metal",
+    "waterlogged stuffing",
+    "waterlogged wood",
+    "watermelon",
+    "wax booze",
+    "wax hat",
+    "wax pancake",
+    "wax pants",
+    "weak skeleton venom",
+    "wedge of prize-winning cheese",
+    "weird gazelle steak",
+    "wet russian",
+    "wet stew",
+    "whalesteak",
+    "wheel of camembert",
+    "whirled peas",
+    "whiskey and cola",
+    "whiskey and soda",
+    "whiskey bittersweet",
+    "whiskey in a broken glass",
+    "whiskey sour",
+    "whiskey squeeze",
+    "white belt",
+    "white canadian",
+    "white chocolate and tomato pizza",
+    "white chocolate chip brownies",
+    "white chocolate chip cookies",
+    "white chocolate chips",
+    "white citadel burger",
+    "white citadel fries",
+    "white dragon fang",
+    "white hyborian",
+    "white lightning",
+    "white rice",
+    "white snakeskin duster",
+    "white whip",
+    "white xanadian",
+    "whole roasted chicken",
+    "whole turkey leg",
+    "wholeberd",
+    "wicksilver ring",
+    "wild honey pie",
+    "wine spritzer",
+    "wing bone",
+    "wings of fire",
+    "witch's bra",
+    "wok lobster",
+    "wolf whistle",
+    "wooly loincloth",
+    "work is a four letter sword",
+    "wrapped candy cane sword cane",
+    "yak whip",
+    "yakskin kilt",
+    "yakskin pants",
+    "yakskin skirt",
+    "yam",
+    "yam and swiss",
+    "yam burrito",
+    "yam candy",
+    "yam martini",
+    "yam mayo",
+    "yam slider",
+    "ye olde meade",
+    "yeg's motel pillow mint",
+    "yellow brick road",
+    "yellow drunki-bear",
+    "yellow matter custard",
+    "yellow moon of compassion",
+    "yule gruel",
+    "yuleviathan necklace",
+    "zinc delta of tranquility",
+    "zmobie",
+    "zombie",
+    "zombie accordion",
+    "zombie mariachi hat",
+    "zombie mariachi pants",
+    "zombo's empty eye",
+    "zombo's grievous greaves",
+    "zombo's shield",
+    "zombo's skull ring",
+    "zombo's skullcap",
+    "zoodriver",
+    "zu mannkäse dienen (used)"
   ],
   "discoveries": [
     {
@@ -14392,6 +16397,1981 @@
     },
     {
       "name": "zombie dinosaur egg"
+    }
+  ],
+  "consumption": [
+    {
+      "name": "\"caramel\" orange"
+    },
+    {
+      "name": "\"meat\" stick"
+    },
+    {
+      "name": "5-hour acrimony"
+    },
+    {
+      "name": "Afternoon Delight"
+    },
+    {
+      "name": "Agitated Turkey"
+    },
+    {
+      "name": "Aldebaran sardines"
+    },
+    {
+      "name": "Ambitious Turkey"
+    },
+    {
+      "name": "Aura Libre"
+    },
+    {
+      "name": "AutumnFest ale"
+    },
+    {
+      "name": "Aye Aye"
+    },
+    {
+      "name": "Aye Aye, Captain"
+    },
+    {
+      "name": "Aye Aye, Tooth Tooth"
+    },
+    {
+      "name": "Barulio's bottle"
+    },
+    {
+      "name": "Bash-Ōs cereal"
+    },
+    {
+      "name": "Bee's Knees"
+    },
+    {
+      "name": "Beefy Crunch Pastaco"
+    },
+    {
+      "name": "Black Hole"
+    },
+    {
+      "name": "Blackfly Chardonnay"
+    },
+    {
+      "name": "Bloody Nora"
+    },
+    {
+      "name": "Bologna Lambic"
+    },
+    {
+      "name": "Boris's beer"
+    },
+    {
+      "name": "Boris's bread"
+    },
+    {
+      "name": "Boris's key lime pie"
+    },
+    {
+      "name": "Boulevardier cocktail"
+    },
+    {
+      "name": "Brain Food Pastaco"
+    },
+    {
+      "name": "Buttery Knob"
+    },
+    {
+      "name": "CSA cheerfulness ration"
+    },
+    {
+      "name": "Caipiranha"
+    },
+    {
+      "name": "Calzone of Legend"
+    },
+    {
+      "name": "Candicaine"
+    },
+    {
+      "name": "Candy Alexander"
+    },
+    {
+      "name": "Cement Mixer"
+    },
+    {
+      "name": "Centauri fish wine"
+    },
+    {
+      "name": "Chakra Libre"
+    },
+    {
+      "name": "Cherrytastrophe wine cooler"
+    },
+    {
+      "name": "Chunky Mary"
+    },
+    {
+      "name": "Cobb's Knob Wurstbrau"
+    },
+    {
+      "name": "Cold One"
+    },
+    {
+      "name": "Corpse Island iced tea"
+    },
+    {
+      "name": "Crazymaker"
+    },
+    {
+      "name": "Crimbojito"
+    },
+    {
+      "name": "Crimbow Rainbo"
+    },
+    {
+      "name": "Crimbuccaneer mologrog cocktail"
+    },
+    {
+      "name": "Cursed Punch"
+    },
+    {
+      "name": "DUFRESNE Suds"
+    },
+    {
+      "name": "Dark & Starry"
+    },
+    {
+      "name": "Das Sauerlager"
+    },
+    {
+      "name": "Deep Dish of Legend"
+    },
+    {
+      "name": "Disappointed Russian"
+    },
+    {
+      "name": "Divine"
+    },
+    {
+      "name": "Doc Clock's thyme cocktail"
+    },
+    {
+      "name": "Doublepunchplanter"
+    },
+    {
+      "name": "Drac & Tan"
+    },
+    {
+      "name": "Dreadsylvanian cold-fashioned"
+    },
+    {
+      "name": "Dreadsylvanian dank and stormy"
+    },
+    {
+      "name": "Dreadsylvanian hot toddy"
+    },
+    {
+      "name": "Dreadsylvanian shepherd's pie"
+    },
+    {
+      "name": "Dreadsylvanian spooky pocket"
+    },
+    {
+      "name": "Dreadsylvanian stink pocket"
+    },
+    {
+      "name": "Drunken Astrophysicist"
+    },
+    {
+      "name": "Drunken Neurologist"
+    },
+    {
+      "name": "Drunken Philosopher"
+    },
+    {
+      "name": "Dump Truck"
+    },
+    {
+      "name": "Earth and Firewater"
+    },
+    {
+      "name": "Earth, Wind and Firewater"
+    },
+    {
+      "name": "Elfin shortbread"
+    },
+    {
+      "name": "Event Horizon"
+    },
+    {
+      "name": "Extra-slimy Slimosa"
+    },
+    {
+      "name": "Eye and a Twist"
+    },
+    {
+      "name": "FDKOL hotcakes"
+    },
+    {
+      "name": "Falcon™ Maltese Liquor"
+    },
+    {
+      "name": "Fantasma en la Máquina"
+    },
+    {
+      "name": "Fauna Libre"
+    },
+    {
+      "name": "Feliz Navidad"
+    },
+    {
+      "name": "Firewater"
+    },
+    {
+      "name": "Flaming Caipiranha"
+    },
+    {
+      "name": "Flaming Knob"
+    },
+    {
+      "name": "Flaming Mohobo"
+    },
+    {
+      "name": "Flaming Sazerorc"
+    },
+    {
+      "name": "Flivver"
+    },
+    {
+      "name": "Flying Caipiranha"
+    },
+    {
+      "name": "Fromage Pinotage"
+    },
+    {
+      "name": "Fuzzy Tentacle"
+    },
+    {
+      "name": "Gin Mint"
+    },
+    {
+      "name": "Gnollish sangria"
+    },
+    {
+      "name": "Go-Wassail"
+    },
+    {
+      "name": "Golden Mean"
+    },
+    {
+      "name": "Gordon Bennett"
+    },
+    {
+      "name": "Grasshopper"
+    },
+    {
+      "name": "Great Older Fashioned"
+    },
+    {
+      "name": "Green Burlap"
+    },
+    {
+      "name": "Green Giant"
+    },
+    {
+      "name": "Green Manalishi"
+    },
+    {
+      "name": "Green Muslin"
+    },
+    {
+      "name": "Green Velvet"
+    },
+    {
+      "name": "Happy Birthday, Claude! cake"
+    },
+    {
+      "name": "Haymaker"
+    },
+    {
+      "name": "Hell ramen"
+    },
+    {
+      "name": "Herring Daiquiri"
+    },
+    {
+      "name": "Herring Wallbanger"
+    },
+    {
+      "name": "Herringtini"
+    },
+    {
+      "name": "Highest Bitter"
+    },
+    {
+      "name": "Hodgman's blanket"
+    },
+    {
+      "name": "Hot Socks"
+    },
+    {
+      "name": "Humanitini"
+    },
+    {
+      "name": "Hundred Headed IPA"
+    },
+    {
+      "name": "Ice Island Long Tea"
+    },
+    {
+      "name": "Imp Ale"
+    },
+    {
+      "name": "Ish Kabibble"
+    },
+    {
+      "name": "Island Landslide"
+    },
+    {
+      "name": "Jack-O-Lantern beer"
+    },
+    {
+      "name": "Jackhammer"
+    },
+    {
+      "name": "Jamaican coffee"
+    },
+    {
+      "name": "Jarlsberg's key lime pie"
+    },
+    {
+      "name": "Knob nuts"
+    },
+    {
+      "name": "Knob pasty"
+    },
+    {
+      "name": "Kudzu salad"
+    },
+    {
+      "name": "Le Roi"
+    },
+    {
+      "name": "Loaded Baked Potato"
+    },
+    {
+      "name": "Locust"
+    },
+    {
+      "name": "Lollipop Drop"
+    },
+    {
+      "name": "Lucky Lindy"
+    },
+    {
+      "name": "Lucky Surprise Egg"
+    },
+    {
+      "name": "Ludovico Pastaco"
+    },
+    {
+      "name": "Mad Train wine"
+    },
+    {
+      "name": "Mae West"
+    },
+    {
+      "name": "McLeod's Hard Haggis-Ade"
+    },
+    {
+      "name": "Middle of the Road™ brand whiskey"
+    },
+    {
+      "name": "Miss Graves' vermouth"
+    },
+    {
+      "name": "Mohobo"
+    },
+    {
+      "name": "Mon Tiki"
+    },
+    {
+      "name": "Moonshine Mohobo"
+    },
+    {
+      "name": "More Humanitini than Humanitini"
+    },
+    {
+      "name": "Mr. Burnsger"
+    },
+    {
+      "name": "Mysterious Island iced tea"
+    },
+    {
+      "name": "Nachojito"
+    },
+    {
+      "name": "Neuromancer"
+    },
+    {
+      "name": "New Zealand iced tea"
+    },
+    {
+      "name": "Oh, the Humanitini"
+    },
+    {
+      "name": "Omega Sundae"
+    },
+    {
+      "name": "Oreille Divisée brandy"
+    },
+    {
+      "name": "Over Easy Rider"
+    },
+    {
+      "name": "PB&J with the crusts cut off"
+    },
+    {
+      "name": "Paint A Vulgar Pitcher"
+    },
+    {
+      "name": "Pete's rich ricotta"
+    },
+    {
+      "name": "Phil Collins"
+    },
+    {
+      "name": "Pizza of Legend"
+    },
+    {
+      "name": "Plague of Locusts"
+    },
+    {
+      "name": "Psychotic Train wine"
+    },
+    {
+      "name": "Punchplanter"
+    },
+    {
+      "name": "Quaatorade™"
+    },
+    {
+      "name": "R'lyeh"
+    },
+    {
+      "name": "Ralph IX cognac"
+    },
+    {
+      "name": "Red Dwarf"
+    },
+    {
+      "name": "Red Russian"
+    },
+    {
+      "name": "Rompedores de Fantasmas"
+    },
+    {
+      "name": "Sacramento wine"
+    },
+    {
+      "name": "Sangria de Menthe"
+    },
+    {
+      "name": "Sazerorc"
+    },
+    {
+      "name": "Sazuruk-hai"
+    },
+    {
+      "name": "Shot of the Living Dead"
+    },
+    {
+      "name": "Siberian sunrise"
+    },
+    {
+      "name": "Sizzling Sinner"
+    },
+    {
+      "name": "Skeleton Wars rations"
+    },
+    {
+      "name": "Slimebite"
+    },
+    {
+      "name": "Slimosa"
+    },
+    {
+      "name": "Slippery Knob"
+    },
+    {
+      "name": "Sloe Comfortable Zoo"
+    },
+    {
+      "name": "Sloe Comfortable Zoo on Fire"
+    },
+    {
+      "name": "Sloppy Jalopy"
+    },
+    {
+      "name": "Smoking Pope"
+    },
+    {
+      "name": "Sneaky Pete's key lime pie"
+    },
+    {
+      "name": "Sockdollager"
+    },
+    {
+      "name": "Sogg-Os"
+    },
+    {
+      "name": "Southern yam"
+    },
+    {
+      "name": "Steve Abrams' Holiday Sampler Beer"
+    },
+    {
+      "name": "Strix stix"
+    },
+    {
+      "name": "Suffering Sinner"
+    },
+    {
+      "name": "Suppurating Sinner"
+    },
+    {
+      "name": "TRIO cup of beer"
+    },
+    {
+      "name": "Taco Dan's Taco Stand Taco"
+    },
+    {
+      "name": "Tequiz Navidad"
+    },
+    {
+      "name": "Thanksgiving ration"
+    },
+    {
+      "name": "The Mad Liquor"
+    },
+    {
+      "name": "The Plumber's mushroom stew"
+    },
+    {
+      "name": "This Charming Flan"
+    },
+    {
+      "name": "Transylvania Sling"
+    },
+    {
+      "name": "Turtle Bowl"
+    },
+    {
+      "name": "Typical Tavern swill"
+    },
+    {
+      "name": "Ultimate Breakfast Sandwich"
+    },
+    {
+      "name": "Ur-Donut"
+    },
+    {
+      "name": "Vodka Dog"
+    },
+    {
+      "name": "White Citadel burger"
+    },
+    {
+      "name": "White Citadel fries"
+    },
+    {
+      "name": "Ye Olde Meade"
+    },
+    {
+      "name": "Zoodriver"
+    },
+    {
+      "name": "[experimental crimbo booze]"
+    },
+    {
+      "name": "[experimental crimbo food]"
+    },
+    {
+      "name": "a little sump'm sump'm"
+    },
+    {
+      "name": "abominable snowcone"
+    },
+    {
+      "name": "acceptable vodka"
+    },
+    {
+      "name": "accidental cider"
+    },
+    {
+      "name": "actual blood sausage"
+    },
+    {
+      "name": "actual tapas"
+    },
+    {
+      "name": "agnolotti arboli"
+    },
+    {
+      "name": "ancient unspeakable fruitcake"
+    },
+    {
+      "name": "angst burger"
+    },
+    {
+      "name": "antique beer"
+    },
+    {
+      "name": "around the world"
+    },
+    {
+      "name": "artisanal limoncello"
+    },
+    {
+      "name": "asbestos thermos"
+    },
+    {
+      "name": "astral hot dog"
+    },
+    {
+      "name": "astral pilsner"
+    },
+    {
+      "name": "autumn-spice donut"
+    },
+    {
+      "name": "babycakes"
+    },
+    {
+      "name": "backwoods screwdriver"
+    },
+    {
+      "name": "badass pie"
+    },
+    {
+      "name": "bag of GORF"
+    },
+    {
+      "name": "bag of QWOP"
+    },
+    {
+      "name": "baked stuffing"
+    },
+    {
+      "name": "baked veggie ricotta casserole"
+    },
+    {
+      "name": "ballroom blintz"
+    },
+    {
+      "name": "banana"
+    },
+    {
+      "name": "basic hot dog"
+    },
+    {
+      "name": "bat haggis"
+    },
+    {
+      "name": "beaver punch (papaya)"
+    },
+    {
+      "name": "beavermouth"
+    },
+    {
+      "name": "bishop cookie"
+    },
+    {
+      "name": "black & tan"
+    },
+    {
+      "name": "black forest cake"
+    },
+    {
+      "name": "black forest ham"
+    },
+    {
+      "name": "black pudding"
+    },
+    {
+      "name": "blackberry"
+    },
+    {
+      "name": "blended frozen swill"
+    },
+    {
+      "name": "blood roll-up"
+    },
+    {
+      "name": "blood snowcone"
+    },
+    {
+      "name": "blood-soaked sponge cake"
+    },
+    {
+      "name": "bloodstick"
+    },
+    {
+      "name": "bloody kiwitini"
+    },
+    {
+      "name": "bloody mary"
+    },
+    {
+      "name": "blue velvet cake"
+    },
+    {
+      "name": "blunt cat claw"
+    },
+    {
+      "name": "bodyslam"
+    },
+    {
+      "name": "boring spaghetti"
+    },
+    {
+      "name": "boss brain"
+    },
+    {
+      "name": "bottle of Amontillado"
+    },
+    {
+      "name": "bottle of Bloodweiser"
+    },
+    {
+      "name": "bottle of Domesticated Turkey"
+    },
+    {
+      "name": "bottle of Greedy Dog"
+    },
+    {
+      "name": "bottle of Lambada Lambic"
+    },
+    {
+      "name": "bottle of Lieutenant Freeman"
+    },
+    {
+      "name": "bottle of Old Pugilist"
+    },
+    {
+      "name": "bottle of Professor Beer"
+    },
+    {
+      "name": "bottle of Race Car Red"
+    },
+    {
+      "name": "bottle of Rapier Witbier"
+    },
+    {
+      "name": "bottle of Sanguiovese"
+    },
+    {
+      "name": "bottle of cooking sherry"
+    },
+    {
+      "name": "bottle of fruity \"wine\""
+    },
+    {
+      "name": "bottle of gin"
+    },
+    {
+      "name": "bottle of laundry sherry"
+    },
+    {
+      "name": "bottle of norwhiskey"
+    },
+    {
+      "name": "bottle of popskull"
+    },
+    {
+      "name": "bottle of prize-winning rum"
+    },
+    {
+      "name": "bottle of realpagne"
+    },
+    {
+      "name": "bottle of rum"
+    },
+    {
+      "name": "bottle of tequila"
+    },
+    {
+      "name": "bottle of whiskey"
+    },
+    {
+      "name": "bowl full of jelly"
+    },
+    {
+      "name": "bowl of Bounty-Os"
+    },
+    {
+      "name": "bowl of maggots"
+    },
+    {
+      "name": "bowl of oriole's nest soup"
+    },
+    {
+      "name": "boxed wine"
+    },
+    {
+      "name": "brain-meltingly-hot chicken wings"
+    },
+    {
+      "name": "bread man"
+    },
+    {
+      "name": "breaded beer"
+    },
+    {
+      "name": "broberry brogurt"
+    },
+    {
+      "name": "brown sugar cane"
+    },
+    {
+      "name": "browser cookie"
+    },
+    {
+      "name": "bucket of wine"
+    },
+    {
+      "name": "bunch of square grapes"
+    },
+    {
+      "name": "bungle in the jungle"
+    },
+    {
+      "name": "buzzing mushroom wine"
+    },
+    {
+      "name": "cactus fruit"
+    },
+    {
+      "name": "calle de miel"
+    },
+    {
+      "name": "can of Brütalbräu"
+    },
+    {
+      "name": "can of Drooling Monk"
+    },
+    {
+      "name": "can of Impetuous Scofflaw"
+    },
+    {
+      "name": "can of Swiller"
+    },
+    {
+      "name": "can of the cheapest beer"
+    },
+    {
+      "name": "candied sweet potatoes"
+    },
+    {
+      "name": "candy carrot cake"
+    },
+    {
+      "name": "candy kneecapping stick"
+    },
+    {
+      "name": "carrot cake"
+    },
+    {
+      "name": "carrot claret"
+    },
+    {
+      "name": "catsup"
+    },
+    {
+      "name": "centipede eggs"
+    },
+    {
+      "name": "cherry"
+    },
+    {
+      "name": "cherry bomb"
+    },
+    {
+      "name": "club sandwich"
+    },
+    {
+      "name": "cold hi mein"
+    },
+    {
+      "name": "complex mushroom wine"
+    },
+    {
+      "name": "congratulatory cake"
+    },
+    {
+      "name": "consummate corn chips"
+    },
+    {
+      "name": "consummate hard-boiled egg"
+    },
+    {
+      "name": "consummate sauerkraut"
+    },
+    {
+      "name": "corned beet"
+    },
+    {
+      "name": "corned-beef Reuben"
+    },
+    {
+      "name": "corpse on the beach"
+    },
+    {
+      "name": "corpsedriver"
+    },
+    {
+      "name": "corpsetini"
+    },
+    {
+      "name": "crabsicle"
+    },
+    {
+      "name": "cranberry cylinder"
+    },
+    {
+      "name": "cranberry margarita (brackish)"
+    },
+    {
+      "name": "crudles"
+    },
+    {
+      "name": "crystal skeleton vodka"
+    },
+    {
+      "name": "cup of \"tea\""
+    },
+    {
+      "name": "cup of primitive beer"
+    },
+    {
+      "name": "cupcake-in-a-cup"
+    },
+    {
+      "name": "cursed black pearl onion"
+    },
+    {
+      "name": "cursed bottle of black-label rum"
+    },
+    {
+      "name": "cybeer"
+    },
+    {
+      "name": "decanter of fine Scotch"
+    },
+    {
+      "name": "decent brain"
+    },
+    {
+      "name": "delicious salad"
+    },
+    {
+      "name": "desiccated apricot"
+    },
+    {
+      "name": "devil hair pasta"
+    },
+    {
+      "name": "deviled egg"
+    },
+    {
+      "name": "dew yoana salacious lei"
+    },
+    {
+      "name": "digital key lime pie"
+    },
+    {
+      "name": "dirty martini"
+    },
+    {
+      "name": "discarded hot dog"
+    },
+    {
+      "name": "distilled fortified wine"
+    },
+    {
+      "name": "dream of a dog"
+    },
+    {
+      "name": "drippy nugget"
+    },
+    {
+      "name": "drive-by shooting"
+    },
+    {
+      "name": "drive-thru burger"
+    },
+    {
+      "name": "ducha de oro"
+    },
+    {
+      "name": "dusty bottle of Marsala"
+    },
+    {
+      "name": "dusty bottle of blood"
+    },
+    {
+      "name": "eggnog"
+    },
+    {
+      "name": "eggwater"
+    },
+    {
+      "name": "eighth plague"
+    },
+    {
+      "name": "electric Kool-Aid"
+    },
+    {
+      "name": "elemental caipiroska"
+    },
+    {
+      "name": "emergency margarita"
+    },
+    {
+      "name": "exotic jungle fruit"
+    },
+    {
+      "name": "expensive champagne"
+    },
+    {
+      "name": "extra-flat panini"
+    },
+    {
+      "name": "extra-greasy slider"
+    },
+    {
+      "name": "extra-spicy bloody mary"
+    },
+    {
+      "name": "fancy beef jerky"
+    },
+    {
+      "name": "fettucini Inconnu"
+    },
+    {
+      "name": "fine wine"
+    },
+    {
+      "name": "fire crackers"
+    },
+    {
+      "name": "fishelada"
+    },
+    {
+      "name": "fishy fish lasagna"
+    },
+    {
+      "name": "flan del mar"
+    },
+    {
+      "name": "flavorless gruel"
+    },
+    {
+      "name": "flour cookie"
+    },
+    {
+      "name": "flute of flat champagne"
+    },
+    {
+      "name": "fortune cookie"
+    },
+    {
+      "name": "fountain 'soda'"
+    },
+    {
+      "name": "fruitcake"
+    },
+    {
+      "name": "fruity girl swill"
+    },
+    {
+      "name": "fusilli marrownarrow"
+    },
+    {
+      "name": "fuzzbump"
+    },
+    {
+      "name": "gallon of milk"
+    },
+    {
+      "name": "gamma nog"
+    },
+    {
+      "name": "ghost beer"
+    },
+    {
+      "name": "ghuol egg"
+    },
+    {
+      "name": "ghuol guolash"
+    },
+    {
+      "name": "giant heirloom grape tomato"
+    },
+    {
+      "name": "giant marshmallow"
+    },
+    {
+      "name": "gibson"
+    },
+    {
+      "name": "gimlet"
+    },
+    {
+      "name": "gimlet sidecar"
+    },
+    {
+      "name": "gingerbread nylons"
+    },
+    {
+      "name": "glass of \"milk\""
+    },
+    {
+      "name": "glass of bourbon"
+    },
+    {
+      "name": "glass of drippy wine"
+    },
+    {
+      "name": "glass of herbal tequila"
+    },
+    {
+      "name": "glass of raw eggs"
+    },
+    {
+      "name": "glistening nigiri"
+    },
+    {
+      "name": "gnat lasagna"
+    },
+    {
+      "name": "gnocchetti di Nietzsche"
+    },
+    {
+      "name": "good brain"
+    },
+    {
+      "name": "gooey lava globs"
+    },
+    {
+      "name": "gr8ps"
+    },
+    {
+      "name": "grapefruit"
+    },
+    {
+      "name": "grapes"
+    },
+    {
+      "name": "green bean casserole"
+    },
+    {
+      "name": "green beer"
+    },
+    {
+      "name": "green drunki-bear"
+    },
+    {
+      "name": "grilled mooseflank"
+    },
+    {
+      "name": "grogtini"
+    },
+    {
+      "name": "grue egg omelette"
+    },
+    {
+      "name": "hacked gibson"
+    },
+    {
+      "name": "haggis-wrapped haggis-stuffed haggis"
+    },
+    {
+      "name": "hamburger"
+    },
+    {
+      "name": "hand-crafted candy cane"
+    },
+    {
+      "name": "handful of nuts and berries"
+    },
+    {
+      "name": "haunted Hell ramen"
+    },
+    {
+      "name": "haunted eggnog"
+    },
+    {
+      "name": "haunted gimlet"
+    },
+    {
+      "name": "hell in a bucket"
+    },
+    {
+      "name": "herb brownies"
+    },
+    {
+      "name": "high-calorie sugar substitute"
+    },
+    {
+      "name": "holiday trip around the world"
+    },
+    {
+      "name": "honey bun of Boris"
+    },
+    {
+      "name": "honey-dew"
+    },
+    {
+      "name": "honey-drenched ham slice"
+    },
+    {
+      "name": "hot buttered roll"
+    },
+    {
+      "name": "hot hi mein"
+    },
+    {
+      "name": "hot wing"
+    },
+    {
+      "name": "hunter brain"
+    },
+    {
+      "name": "ice rice"
+    },
+    {
+      "name": "ice wine"
+    },
+    {
+      "name": "ice-cold Willer"
+    },
+    {
+      "name": "iced plum wine"
+    },
+    {
+      "name": "idiot brain"
+    },
+    {
+      "name": "imitation White Russian"
+    },
+    {
+      "name": "improved martini"
+    },
+    {
+      "name": "incredible pizza"
+    },
+    {
+      "name": "insanely spicy bean burrito"
+    },
+    {
+      "name": "insanely spicy enchanted bean burrito"
+    },
+    {
+      "name": "insanely spicy jumping bean burrito"
+    },
+    {
+      "name": "jar of fermented pickle juice"
+    },
+    {
+      "name": "jar of squeeze"
+    },
+    {
+      "name": "java cookie"
+    },
+    {
+      "name": "jerky coins"
+    },
+    {
+      "name": "jumping horseradish"
+    },
+    {
+      "name": "jungle floor wax"
+    },
+    {
+      "name": "juniper berries"
+    },
+    {
+      "name": "junk yard"
+    },
+    {
+      "name": "ketchup"
+    },
+    {
+      "name": "kiwi"
+    },
+    {
+      "name": "kumquat"
+    },
+    {
+      "name": "lava cake"
+    },
+    {
+      "name": "legitimate business on the beach"
+    },
+    {
+      "name": "lemon"
+    },
+    {
+      "name": "lime"
+    },
+    {
+      "name": "linguini immondizia bianco"
+    },
+    {
+      "name": "long pork lasagna"
+    },
+    {
+      "name": "low tide martini"
+    },
+    {
+      "name": "lumbering jack"
+    },
+    {
+      "name": "mana curds"
+    },
+    {
+      "name": "mandarina colada"
+    },
+    {
+      "name": "marshmallow bomb"
+    },
+    {
+      "name": "martini"
+    },
+    {
+      "name": "meadeorite"
+    },
+    {
+      "name": "mediocre lager"
+    },
+    {
+      "name": "melted Jell-o shot"
+    },
+    {
+      "name": "menudo ravioli"
+    },
+    {
+      "name": "meteoreo"
+    },
+    {
+      "name": "mini kiwitini"
+    },
+    {
+      "name": "mini-martini"
+    },
+    {
+      "name": "moreltini"
+    },
+    {
+      "name": "most of a beer"
+    },
+    {
+      "name": "mostly-empty bottle of cookie wine"
+    },
+    {
+      "name": "mouth-watering mayolus"
+    },
+    {
+      "name": "mulled blood"
+    },
+    {
+      "name": "mulled butter rum"
+    },
+    {
+      "name": "nachos of the night"
+    },
+    {
+      "name": "non-aged vinegar"
+    },
+    {
+      "name": "nutty organic salad"
+    },
+    {
+      "name": "ocean motion"
+    },
+    {
+      "name": "officer's nog"
+    },
+    {
+      "name": "ojo de pez burrito"
+    },
+    {
+      "name": "old-fashioned"
+    },
+    {
+      "name": "oldcake"
+    },
+    {
+      "name": "one with everything"
+    },
+    {
+      "name": "open sauce"
+    },
+    {
+      "name": "optimal dog"
+    },
+    {
+      "name": "orange"
+    },
+    {
+      "name": "painting of a glass of wine"
+    },
+    {
+      "name": "papaya"
+    },
+    {
+      "name": "papaya slung"
+    },
+    {
+      "name": "party beer bomb"
+    },
+    {
+      "name": "party platter for one"
+    },
+    {
+      "name": "peach"
+    },
+    {
+      "name": "pear"
+    },
+    {
+      "name": "peppermint patty"
+    },
+    {
+      "name": "perfect breakfast"
+    },
+    {
+      "name": "perfect chef salad"
+    },
+    {
+      "name": "perfect cosmopolitan"
+    },
+    {
+      "name": "perfect dark and stormy"
+    },
+    {
+      "name": "perfect mimosa"
+    },
+    {
+      "name": "perfect negroni"
+    },
+    {
+      "name": "perfect old-fashioned"
+    },
+    {
+      "name": "perfect paloma"
+    },
+    {
+      "name": "perfect sandwich"
+    },
+    {
+      "name": "perpendicular hula with a fly in it"
+    },
+    {
+      "name": "personalized birthday cake"
+    },
+    {
+      "name": "pestopiary"
+    },
+    {
+      "name": "pheromone cocktail"
+    },
+    {
+      "name": "philosopher's scone"
+    },
+    {
+      "name": "pickled bread"
+    },
+    {
+      "name": "piece of wedding cake"
+    },
+    {
+      "name": "pink slime"
+    },
+    {
+      "name": "piping organ pie"
+    },
+    {
+      "name": "pixel daiquiri"
+    },
+    {
+      "name": "pixel lemon"
+    },
+    {
+      "name": "plain calzone"
+    },
+    {
+      "name": "plain candy cane"
+    },
+    {
+      "name": "plain old beer"
+    },
+    {
+      "name": "plain snowcone"
+    },
+    {
+      "name": "plate of Hellfire Spicy Beans"
+    },
+    {
+      "name": "plate of Mixed Garbanzos and Chickpeas"
+    },
+    {
+      "name": "plum"
+    },
+    {
+      "name": "popular tart"
+    },
+    {
+      "name": "primitive alien salad"
+    },
+    {
+      "name": "primitive candy cane"
+    },
+    {
+      "name": "prize turkey"
+    },
+    {
+      "name": "prussian cathouse"
+    },
+    {
+      "name": "prussian cathouse sidecar"
+    },
+    {
+      "name": "prussian cathouse with a fly in it"
+    },
+    {
+      "name": "pumpkin beer"
+    },
+    {
+      "name": "pumpkin pie"
+    },
+    {
+      "name": "punch-drunk punch"
+    },
+    {
+      "name": "queen cookie"
+    },
+    {
+      "name": "rat scrapple"
+    },
+    {
+      "name": "ratbatatouille"
+    },
+    {
+      "name": "red drunki-bear"
+    },
+    {
+      "name": "red velvet cake"
+    },
+    {
+      "name": "red-hot boilermaker"
+    },
+    {
+      "name": "regular-size brogurt"
+    },
+    {
+      "name": "reverse Tantalus"
+    },
+    {
+      "name": "roasted vegetable focaccia"
+    },
+    {
+      "name": "roasted vegetable of Jarlsberg"
+    },
+    {
+      "name": "robin nog"
+    },
+    {
+      "name": "rockin' wagon"
+    },
+    {
+      "name": "rocky road ice cream"
+    },
+    {
+      "name": "rodeo whiskey"
+    },
+    {
+      "name": "roll in the hay"
+    },
+    {
+      "name": "rook cookie"
+    },
+    {
+      "name": "runny fermented egg"
+    },
+    {
+      "name": "salacious lychee chuhai"
+    },
+    {
+      "name": "salacious screwdiver"
+    },
+    {
+      "name": "salinated mint julep"
+    },
+    {
+      "name": "salted mutton"
+    },
+    {
+      "name": "sangria"
+    },
+    {
+      "name": "sangria del diablo"
+    },
+    {
+      "name": "sausage without a cause"
+    },
+    {
+      "name": "sausage wonton"
+    },
+    {
+      "name": "sea blueberry"
+    },
+    {
+      "name": "sea honeydew"
+    },
+    {
+      "name": "sea persimmon"
+    },
+    {
+      "name": "sea tangelo"
+    },
+    {
+      "name": "shadow fluid"
+    },
+    {
+      "name": "shells a la shellfish"
+    },
+    {
+      "name": "shoo-fish pie"
+    },
+    {
+      "name": "shot of blackberry schnapps"
+    },
+    {
+      "name": "shot of grapefruit schnapps"
+    },
+    {
+      "name": "shot of peach schnapps"
+    },
+    {
+      "name": "shot of rotgut"
+    },
+    {
+      "name": "shroomtini"
+    },
+    {
+      "name": "single entendre"
+    },
+    {
+      "name": "single swig of vodka"
+    },
+    {
+      "name": "skeleton quiche"
+    },
+    {
+      "name": "skeleton war fuel can"
+    },
+    {
+      "name": "slap and tickle"
+    },
+    {
+      "name": "slap and tickle with a fly in it"
+    },
+    {
+      "name": "sleazy hi mein"
+    },
+    {
+      "name": "slice of pizza"
+    },
+    {
+      "name": "slip 'n' slide"
+    },
+    {
+      "name": "sly dog"
+    },
+    {
+      "name": "smelted roe"
+    },
+    {
+      "name": "snifter of thoroughly aged brandy"
+    },
+    {
+      "name": "snow berries"
+    },
+    {
+      "name": "snow crab"
+    },
+    {
+      "name": "soft green echo eyedrop antidote martini"
+    },
+    {
+      "name": "space wine"
+    },
+    {
+      "name": "spaghetti breakfast"
+    },
+    {
+      "name": "spaghetti con calaveras"
+    },
+    {
+      "name": "spaghetti with Skullheads"
+    },
+    {
+      "name": "spaghetti with ghost balls"
+    },
+    {
+      "name": "spectral pickle"
+    },
+    {
+      "name": "spiced rum"
+    },
+    {
+      "name": "spinal tapas"
+    },
+    {
+      "name": "spiritual gingerbread"
+    },
+    {
+      "name": "splendid martini"
+    },
+    {
+      "name": "sponge cake"
+    },
+    {
+      "name": "spooky hi mein"
+    },
+    {
+      "name": "spooky mushroom wine"
+    },
+    {
+      "name": "squirmy violent party snack"
+    },
+    {
+      "name": "star key lime pie"
+    },
+    {
+      "name": "steel lasagna"
+    },
+    {
+      "name": "steel margarita"
+    },
+    {
+      "name": "stepmom's booze"
+    },
+    {
+      "name": "stinky hi mein"
+    },
+    {
+      "name": "stolen sushi"
+    },
+    {
+      "name": "stomach turnover"
+    },
+    {
+      "name": "strawberry"
+    },
+    {
+      "name": "strawberry daiquiri"
+    },
+    {
+      "name": "stuffed red and green pepper (stale)"
+    },
+    {
+      "name": "sublime stew"
+    },
+    {
+      "name": "suggestive strozzapreti"
+    },
+    {
+      "name": "sundae ration"
+    },
+    {
+      "name": "super good fruit"
+    },
+    {
+      "name": "sweet party mix"
+    },
+    {
+      "name": "sweet potato o' mine"
+    },
+    {
+      "name": "sweet potato punch"
+    },
+    {
+      "name": "sweet roll Alabama"
+    },
+    {
+      "name": "tangarita"
+    },
+    {
+      "name": "tangarita sidecar"
+    },
+    {
+      "name": "tangerine"
+    },
+    {
+      "name": "tasty tart"
+    },
+    {
+      "name": "tempura cauliflower"
+    },
+    {
+      "name": "teqiwila slammer"
+    },
+    {
+      "name": "tequila sunrise"
+    },
+    {
+      "name": "tequila with training wheels"
+    },
+    {
+      "name": "thanksgiving turkey"
+    },
+    {
+      "name": "thermos full of Knob coffee"
+    },
+    {
+      "name": "thermos of \"whiskey\""
+    },
+    {
+      "name": "thistle wine"
+    },
+    {
+      "name": "three-tiered wedding cake"
+    },
+    {
+      "name": "thyme jelly donut"
+    },
+    {
+      "name": "tin cup of mulligan stew"
+    },
+    {
+      "name": "toast with cold jelly"
+    },
+    {
+      "name": "toast with stench jelly"
+    },
+    {
+      "name": "tofurkey gravy"
+    },
+    {
+      "name": "tofurkey leg"
+    },
+    {
+      "name": "tomato"
+    },
+    {
+      "name": "tomato daiquiri"
+    },
+    {
+      "name": "tropical swill"
+    },
+    {
+      "name": "twice-haunted screwdriver"
+    },
+    {
+      "name": "ultra-deluxe cupcake"
+    },
+    {
+      "name": "unflavored wine cooler"
+    },
+    {
+      "name": "unidentified drink"
+    },
+    {
+      "name": "unnamed cocktail"
+    },
+    {
+      "name": "vampagne"
+    },
+    {
+      "name": "vampire chowder"
+    },
+    {
+      "name": "vesper"
+    },
+    {
+      "name": "vinegar-soaked lemon slice"
+    },
+    {
+      "name": "vintage smart drink"
+    },
+    {
+      "name": "vodka stratocaster"
+    },
+    {
+      "name": "vodka stratocaster sidecar"
+    },
+    {
+      "name": "warbear gyro"
+    },
+    {
+      "name": "warm mushroom"
+    },
+    {
+      "name": "wasabi pocky"
+    },
+    {
+      "name": "weak skeleton venom"
+    },
+    {
+      "name": "weird gazelle steak"
+    },
+    {
+      "name": "wet tack"
+    },
+    {
+      "name": "whalecake"
+    },
+    {
+      "name": "whalesteak"
+    },
+    {
+      "name": "whiskey bittersweet"
+    },
+    {
+      "name": "whiskey sour"
+    },
+    {
+      "name": "white Canadian"
+    },
+    {
+      "name": "white Dreadsylvanian"
+    },
+    {
+      "name": "white chocolate and tomato pizza"
+    },
+    {
+      "name": "wing bone"
+    },
+    {
+      "name": "world's most unappetizing beverage"
+    },
+    {
+      "name": "yellow brick road"
+    },
+    {
+      "name": "yellow drunki-bear"
+    },
+    {
+      "name": "yule grog"
+    },
+    {
+      "name": "zombie"
+    }
+  ],
+  "bookshelf": [
+    {
+      "name": "Tome of Clip Art"
     }
   ]
 }
