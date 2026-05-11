@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-10 09:19 UTC",
+  "generated_at": "2026-05-11 02:36 UTC",
   "character": {
     "name": "Neuviilette",
     "player_id": "3363484",
-    "level": 13,
+    "level": 16,
     "class_id": 6,
     "class_name": "Accordion Thief",
     "ascensions": 278
@@ -2002,12 +2002,12 @@
   ],
   "familiars": [
     {
-      "name": "Cookbookbat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bbat_fam.gif"
-    },
-    {
       "name": "Skeleton of Crimbo Past",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/skeletonocp.gif"
+    },
+    {
+      "name": "Cookbookbat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bbat_fam.gif"
     },
     {
       "name": "Hobo Monkey",
@@ -3238,6 +3238,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/radiotat.gif"
     },
     {
+      "name": "al_tat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/al_tat.gif"
+    },
+    {
       "name": "arborween",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/arborween.gif"
     },
@@ -3614,6 +3618,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/doubicetat.gif"
     },
     {
+      "name": "ducttat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/ducttat.gif"
+    },
+    {
       "name": "dvinntat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/dvinntat.gif"
     },
@@ -3680,6 +3688,10 @@
     {
       "name": "elbereth",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/elbereth.gif"
+    },
+    {
+      "name": "elditchtat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/elditchtat.gif"
     },
     {
       "name": "elfguardtat",
@@ -3878,6 +3890,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/oiltat.gif"
     },
     {
+      "name": "orbisontat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/orbisontat.gif"
+    },
+    {
       "name": "palette",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/palette.gif"
     },
@@ -4066,6 +4082,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/workouttat.gif"
     },
     {
+      "name": "wumpustat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/wumpustat.gif"
+    },
+    {
       "name": "xiblaxtat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/xiblaxtat.gif"
     },
@@ -4076,6 +4096,10 @@
     {
       "name": "yogtat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/yogtat.gif"
+    },
+    {
+      "name": "zompirtat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/zompirtat.gif"
     }
   ],
   "owned_items": [
@@ -4361,6 +4385,7 @@
     "mime army shotglass",
     "mint-in-box Powerful Glove",
     "mostly rat-hide leggings",
+    "musty moccasins",
     "new-in-box toy Cupid bow",
     "octolus-skin cloak",
     "old patched suit-pants",
@@ -5182,6 +5207,9 @@
       "name": "balloon sword"
     },
     {
+      "name": "ballpark hot daub"
+    },
+    {
       "name": "banana cream pie"
     },
     {
@@ -5611,6 +5639,18 @@
       "name": "citrus-infused sake"
     },
     {
+      "name": "clingfilm cap"
+    },
+    {
+      "name": "clingfilm slippers"
+    },
+    {
+      "name": "clingfilm tangle"
+    },
+    {
+      "name": "clingfilm trousers"
+    },
+    {
       "name": "clockwork bartender head"
     },
     {
@@ -5870,6 +5910,9 @@
     },
     {
       "name": "duct tape shirt"
+    },
+    {
+      "name": "duct tape sword"
     },
     {
       "name": "duct tape wallet"
@@ -6932,6 +6975,9 @@
     },
     {
       "name": "paperclip pants"
+    },
+    {
+      "name": "paperclip sproinger"
     },
     {
       "name": "paperclip turban"
@@ -8275,6 +8321,21 @@
       "name": "writhing drippy candy bar"
     },
     {
+      "name": "wumpus-hair bolo"
+    },
+    {
+      "name": "wumpus-hair loincloth"
+    },
+    {
+      "name": "wumpus-hair net"
+    },
+    {
+      "name": "wumpus-hair whip"
+    },
+    {
+      "name": "wumpus-hair wig"
+    },
+    {
       "name": "yak anorak"
     },
     {
@@ -9285,6 +9346,9 @@
       "name": "cursed bottle of black-label rum"
     },
     {
+      "name": "cursed sea biscuit"
+    },
+    {
       "name": "cybeer"
     },
     {
@@ -10062,6 +10126,18 @@
       "name": "spiced rum"
     },
     {
+      "name": "spicy bean burrito"
+    },
+    {
+      "name": "spicy enchanted bean burrito"
+    },
+    {
+      "name": "spicy jumping bean burrito"
+    },
+    {
+      "name": "spicy noodles"
+    },
+    {
       "name": "spicy onigiri"
     },
     {
@@ -10298,5 +10374,27 @@
     {
       "name": "zombie"
     }
+  ],
+  "code_binder": [
+    "\"Fun\" House",
+    "Cola Wars Battlefield",
+    "Enormous Greater-Than Sign",
+    "Limerick Dungeon",
+    "Cobb's Knob Menagerie, Level 3",
+    "Road to White Citadel",
+    "Poker Room",
+    "Frat Battlefield",
+    "Belowdecks",
+    "Bugbear Pen",
+    "Sleazy Back Alley",
+    "The Arid, Extra-Dry Desert",
+    "Penultimate Fantasy Airship",
+    "Thugnderdome",
+    "Defiled Nook",
+    "eXtreme Slope",
+    "Lair of the Ninja Snowmen",
+    "Noob Cave",
+    "The Unquiet Garves",
+    "Camp Logging Camp"
   ]
 }
