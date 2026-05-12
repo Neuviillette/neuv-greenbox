@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-11 02:36 UTC",
+  "generated_at": "2026-05-12 21:36 UTC",
   "character": {
     "name": "Neuviilette",
     "player_id": "3363484",
-    "level": 16,
-    "class_id": 6,
-    "class_name": "Accordion Thief",
-    "ascensions": 278
+    "level": 13,
+    "class_id": 1,
+    "class_name": "Seal Clubber",
+    "ascensions": 279
   },
   "skills": [
     {
@@ -2002,6 +2002,14 @@
   ],
   "familiars": [
     {
+      "name": "Left-Hand Man",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/righthandbody.png"
+    },
+    {
+      "name": "Hobo Monkey",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hobomonkey.gif"
+    },
+    {
       "name": "Skeleton of Crimbo Past",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/skeletonocp.gif"
     },
@@ -2010,32 +2018,8 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bbat_fam.gif"
     },
     {
-      "name": "Hobo Monkey",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hobomonkey.gif"
-    },
-    {
-      "name": "Oily Woim",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/woim.gif"
-    },
-    {
       "name": "Melodramedary",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/camelfam_left.gif"
-    },
-    {
-      "name": "Gelatinous Cubeling",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/gcube.gif"
-    },
-    {
-      "name": "Foul Ball",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/foulball.gif"
-    },
-    {
-      "name": "Cornbeefadon",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam50.gif"
-    },
-    {
-      "name": "Exotic Parrot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/parrot.gif"
     },
     {
       "name": "Jumpsuited Hound Dog",
@@ -2050,48 +2034,36 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam47.gif"
     },
     {
+      "name": "Gelatinous Cubeling",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/gcube.gif"
+    },
+    {
       "name": "Baby Bugged Bugbear",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/babybugbug.gif"
+    },
+    {
+      "name": "Oily Woim",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/woim.gif"
+    },
+    {
+      "name": "Exotic Parrot",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/parrot.gif"
     },
     {
       "name": "Tiny Plastic Santa Claus Skeleton",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/santaskel.gif"
     },
     {
+      "name": "Cornbeefadon",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam50.gif"
+    },
+    {
       "name": "Emberiza Aureola",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/emberbird.gif"
     },
     {
-      "name": "Reassembled Blackbird",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird2.gif"
-    },
-    {
-      "name": "Heat Wave",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/heatwave.gif"
-    },
-    {
-      "name": "Burly Bodyguard",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bodyguard.gif"
-    },
-    {
-      "name": "Cocoabo",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar16.gif"
-    },
-    {
-      "name": "Baby Z-Rex",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/babyzrex.gif"
-    },
-    {
-      "name": "Smiling Rat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/smilerat.gif"
-    },
-    {
-      "name": "Mechanical Songbird",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/mechbird.gif"
-    },
-    {
-      "name": "Stab Bat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar10.gif"
+      "name": "Foul Ball",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/foulball.gif"
     },
     {
       "name": "Disgeist",
@@ -2110,12 +2082,20 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hat2.gif"
     },
     {
+      "name": "Mechanical Songbird",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/mechbird.gif"
+    },
+    {
       "name": "Cuddlefish",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cuddlefish.gif"
     },
     {
       "name": "Leprechaun",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar2.gif"
+    },
+    {
+      "name": "Burly Bodyguard",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bodyguard.gif"
     },
     {
       "name": "Angry Goat",
@@ -2134,8 +2114,16 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pep_rhino.gif"
     },
     {
+      "name": "Smiling Rat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/smilerat.gif"
+    },
+    {
       "name": "Ninja Pirate Zombie Robot",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/npzr.gif"
+    },
+    {
+      "name": "Stab Bat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar10.gif"
     },
     {
       "name": "Party Mouse",
@@ -2144,6 +2132,10 @@
     {
       "name": "Warbear Drone",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wbdronefam.gif"
+    },
+    {
+      "name": "Reassembled Blackbird",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird2.gif"
     },
     {
       "name": "Reconstituted Crow",
@@ -2178,6 +2170,14 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/yulehound.gif"
     },
     {
+      "name": "Heat Wave",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/heatwave.gif"
+    },
+    {
+      "name": "Baby Z-Rex",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/babyzrex.gif"
+    },
+    {
       "name": "Cold Cut",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/coldcut.gif"
     },
@@ -2192,6 +2192,10 @@
     {
       "name": "Shame Spiral",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/shamespiral.gif"
+    },
+    {
+      "name": "Cocoabo",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar16.gif"
     },
     {
       "name": "Mini-Trainbot",
@@ -2576,10 +2580,6 @@
     {
       "name": "Cute Skeletal Dinosaur",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bonedino.gif"
-    },
-    {
-      "name": "Left-Hand Man",
-      "img": ""
     }
   ],
   "trophies": [
@@ -4392,9 +4392,11 @@
     "old soft shoes",
     "oxygenated eggnog helmet",
     "packaged Jurassic Parka",
+    "packaged Roman Candelabra",
     "packaged backup camera",
     "packaged familiar scrapbook",
     "packaged knock-off retro superhero cape",
+    "packaged model train set",
     "paint palette",
     "paraffin pendant",
     "paraffin poncho",
@@ -4459,7 +4461,6 @@
     "baby camelcalf",
     "mummified entombed cookbookbat",
     "neverending party invitation envelope",
-    "packaged model train set",
     "panicked kernel",
     "potted tea tree",
     "sinistral homunculus",
@@ -9703,6 +9704,9 @@
       "name": "kumquat"
     },
     {
+      "name": "later tots"
+    },
+    {
       "name": "lava cake"
     },
     {
@@ -9829,6 +9833,9 @@
       "name": "party platter for one"
     },
     {
+      "name": "pat of butter"
+    },
+    {
       "name": "peach"
     },
     {
@@ -9884,6 +9891,9 @@
     },
     {
       "name": "piece of wedding cake"
+    },
+    {
+      "name": "pink pony"
     },
     {
       "name": "pink slime"
@@ -10255,6 +10265,9 @@
       "name": "three-tiered wedding cake"
     },
     {
+      "name": "throbbing organ pie"
+    },
+    {
       "name": "thyme jelly donut"
     },
     {
@@ -10376,25 +10389,25 @@
     }
   ],
   "code_binder": [
-    "\"Fun\" House",
-    "Cola Wars Battlefield",
-    "Enormous Greater-Than Sign",
-    "Limerick Dungeon",
-    "Cobb's Knob Menagerie, Level 3",
     "Road to White Citadel",
-    "Poker Room",
-    "Frat Battlefield",
-    "Belowdecks",
     "Bugbear Pen",
+    "Enormous Greater-Than Sign",
+    "Poker Room",
+    "eXtreme Slope",
     "Sleazy Back Alley",
     "The Arid, Extra-Dry Desert",
     "Penultimate Fantasy Airship",
     "Thugnderdome",
+    "Cobb's Knob Menagerie, Level 3",
     "Defiled Nook",
-    "eXtreme Slope",
-    "Lair of the Ninja Snowmen",
+    "Belowdecks",
+    "Cola Wars Battlefield",
     "Noob Cave",
     "The Unquiet Garves",
+    "\"Fun\" House",
+    "Frat Battlefield",
+    "Lair of the Ninja Snowmen",
+    "Limerick Dungeon",
     "Camp Logging Camp"
   ]
 }
