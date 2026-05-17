@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-12 21:36 UTC",
+  "generated_at": "2026-05-17 08:34 UTC",
   "character": {
     "name": "Neuviilette",
     "player_id": "3363484",
     "level": 13,
     "class_id": 1,
     "class_name": "Seal Clubber",
-    "ascensions": 279
+    "ascensions": 282
   },
   "skills": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "name": "Executive Narcolepsy",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/59.gif"
     },
     {
@@ -398,6 +398,16 @@
       "name": "Rotten Memories",
       "type": "scperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/133.gif"
+    },
+    {
+      "name": "Healing Salve",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/136.gif"
+    },
+    {
+      "name": "Dark Ritual",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/137.gif"
     },
     {
       "name": "Ancestral Recall",
@@ -901,7 +911,7 @@
     },
     {
       "name": "Batter Up!",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1014.gif"
     },
     {
@@ -946,7 +956,7 @@
     },
     {
       "name": "Iron Palm Technique",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1025.gif"
     },
     {
@@ -961,7 +971,7 @@
     },
     {
       "name": "Wrath of the Wolverine",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1029.gif"
     },
     {
@@ -991,7 +1001,7 @@
     },
     {
       "name": "Ire of the Orca",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1035.gif"
     },
     {
@@ -1021,7 +1031,7 @@
     },
     {
       "name": "Silent Hunter",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1041.gif"
     },
     {
@@ -1621,7 +1631,7 @@
     },
     {
       "name": "Disco Nap",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5007.gif"
     },
     {
@@ -2006,12 +2016,12 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/righthandbody.png"
     },
     {
-      "name": "Hobo Monkey",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hobomonkey.gif"
-    },
-    {
       "name": "Skeleton of Crimbo Past",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/skeletonocp.gif"
+    },
+    {
+      "name": "Hobo Monkey",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hobomonkey.gif"
     },
     {
       "name": "Cookbookbat",
@@ -2134,12 +2144,12 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wbdronefam.gif"
     },
     {
-      "name": "Reassembled Blackbird",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird2.gif"
-    },
-    {
       "name": "Reconstituted Crow",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird1.gif"
+    },
+    {
+      "name": "Reassembled Blackbird",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird2.gif"
     },
     {
       "name": "Levitating Potato",
@@ -2166,12 +2176,12 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar35.gif"
     },
     {
-      "name": "Yule Hound",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/yulehound.gif"
-    },
-    {
       "name": "Heat Wave",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/heatwave.gif"
+    },
+    {
+      "name": "Yule Hound",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/yulehound.gif"
     },
     {
       "name": "Baby Z-Rex",
@@ -2580,6 +2590,10 @@
     {
       "name": "Cute Skeletal Dinosaur",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bonedino.gif"
+    },
+    {
+      "name": "Pair of Stomping Boots",
+      "img": ""
     }
   ],
   "trophies": [
@@ -3606,6 +3620,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/detbadge.gif"
     },
     {
+      "name": "dinotat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/dinotat.gif"
+    },
+    {
       "name": "dinseytat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/dinseytat.gif"
     },
@@ -3682,6 +3700,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/dv_tat6.gif"
     },
     {
+      "name": "dwarvish",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/dwarvish.gif"
+    },
+    {
       "name": "eggtat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/eggtat.gif"
     },
@@ -3710,6 +3732,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/elvtat.gif"
     },
     {
+      "name": "emperortat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/emperortat.gif"
+    },
+    {
       "name": "fishingtat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/fishingtat.gif"
     },
@@ -3736,6 +3762,10 @@
     {
       "name": "frtat3",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/frtat3.gif"
+    },
+    {
+      "name": "genietat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/genietat.gif"
     },
     {
       "name": "gnaugatat",
@@ -3808,6 +3838,10 @@
     {
       "name": "hodgmantat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/hodgmantat.gif"
+    },
+    {
+      "name": "honeytat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/honeytat.gif"
     },
     {
       "name": "hotghosttat",
@@ -3906,6 +3940,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/partytat.gif"
     },
     {
+      "name": "pigirontat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/pigirontat.gif"
+    },
+    {
       "name": "pirate",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/pirate.gif"
     },
@@ -3966,6 +4004,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/revclass6.gif"
     },
     {
+      "name": "sailortat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/sailortat.gif"
+    },
+    {
       "name": "saladtat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/saladtat.gif"
     },
@@ -3996,6 +4038,10 @@
     {
       "name": "sourcetat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/sourcetat.gif"
+    },
+    {
+      "name": "spantat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/spantat.gif"
     },
     {
       "name": "spelunktat",
@@ -4290,6 +4336,7 @@
     "Trainbot radar monocle",
     "Treads of Loathing",
     "Truthsayer",
+    "Universal Seasoning",
     "Unkillable Skeleton's breastplate",
     "Unkillable Skeleton's sawsword",
     "Unkillable Skeleton's shield",
@@ -4384,6 +4431,8 @@
     "mime army insignia (intelligence)",
     "mime army shotglass",
     "mint-in-box Powerful Glove",
+    "molten medallion",
+    "monstrous monocle",
     "mostly rat-hide leggings",
     "musty moccasins",
     "new-in-box toy Cupid bow",
@@ -4459,6 +4508,7 @@
   ],
   "mr_items": [
     "baby camelcalf",
+    "fairy-worn boots",
     "mummified entombed cookbookbat",
     "neverending party invitation envelope",
     "panicked kernel",
@@ -6466,6 +6516,9 @@
     },
     {
       "name": "honey bun of Boris"
+    },
+    {
+      "name": "honey dipper"
     },
     {
       "name": "honey mead"
@@ -8786,6 +8839,9 @@
       "name": "More Humanitini than Humanitini"
     },
     {
+      "name": "Morto Moreto"
+    },
+    {
       "name": "Mr. Burnsger"
     },
     {
@@ -9200,6 +9256,9 @@
       "name": "bowl of oriole's nest soup"
     },
     {
+      "name": "bowl of topioca"
+    },
+    {
       "name": "boxed wine"
     },
     {
@@ -9339,6 +9398,9 @@
     },
     {
       "name": "cupcake-in-a-cup"
+    },
+    {
+      "name": "cursed Aztec tamale"
     },
     {
       "name": "cursed black pearl onion"
@@ -9785,6 +9847,9 @@
       "name": "nachos of the night"
     },
     {
+      "name": "nanite-infested candy cane"
+    },
+    {
       "name": "non-aged vinegar"
     },
     {
@@ -10067,6 +10132,9 @@
       "name": "shot of rotgut"
     },
     {
+      "name": "shot of wasp venom"
+    },
+    {
       "name": "shroomtini"
     },
     {
@@ -10238,6 +10306,9 @@
       "name": "tasty tart"
     },
     {
+      "name": "tempura carrot"
+    },
+    {
       "name": "tempura cauliflower"
     },
     {
@@ -10316,6 +10387,9 @@
       "name": "vampire chowder"
     },
     {
+      "name": "very hot lunch"
+    },
+    {
       "name": "vesper"
     },
     {
@@ -10389,25 +10463,25 @@
     }
   ],
   "code_binder": [
-    "Road to White Citadel",
-    "Bugbear Pen",
-    "Enormous Greater-Than Sign",
-    "Poker Room",
-    "eXtreme Slope",
-    "Sleazy Back Alley",
-    "The Arid, Extra-Dry Desert",
-    "Penultimate Fantasy Airship",
     "Thugnderdome",
-    "Cobb's Knob Menagerie, Level 3",
-    "Defiled Nook",
-    "Belowdecks",
-    "Cola Wars Battlefield",
     "Noob Cave",
+    "Lair of the Ninja Snowmen",
+    "Sleazy Back Alley",
+    "Limerick Dungeon",
+    "Camp Logging Camp",
+    "Road to White Citadel",
     "The Unquiet Garves",
     "\"Fun\" House",
+    "Cobb's Knob Menagerie, Level 3",
+    "Bugbear Pen",
+    "Belowdecks",
+    "Penultimate Fantasy Airship",
     "Frat Battlefield",
-    "Lair of the Ninja Snowmen",
-    "Limerick Dungeon",
-    "Camp Logging Camp"
+    "Defiled Nook",
+    "Cola Wars Battlefield",
+    "eXtreme Slope",
+    "Poker Room",
+    "Enormous Greater-Than Sign",
+    "The Arid, Extra-Dry Desert"
   ]
 }
