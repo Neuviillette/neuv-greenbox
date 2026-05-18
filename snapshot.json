@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-17 08:34 UTC",
+  "generated_at": "2026-05-18 22:30 UTC",
   "character": {
     "name": "Neuviilette",
     "player_id": "3363484",
-    "level": 13,
-    "class_id": 1,
-    "class_name": "Seal Clubber",
-    "ascensions": 282
+    "level": 21,
+    "class_id": 4,
+    "class_name": "Sauceror",
+    "ascensions": 283
   },
   "skills": [
     {
@@ -408,6 +408,16 @@
       "name": "Dark Ritual",
       "type": "scperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/137.gif"
+    },
+    {
+      "name": "Lightning Bolt",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/138.gif"
+    },
+    {
+      "name": "Giant Growth",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/139.gif"
     },
     {
       "name": "Ancestral Recall",
@@ -2012,8 +2022,12 @@
   ],
   "familiars": [
     {
-      "name": "Left-Hand Man",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/righthandbody.png"
+      "name": "Pair of Stomping Boots",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/stompboots.gif"
+    },
+    {
+      "name": "Cookbookbat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bbat_fam.gif"
     },
     {
       "name": "Skeleton of Crimbo Past",
@@ -2024,28 +2038,28 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hobomonkey.gif"
     },
     {
-      "name": "Cookbookbat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bbat_fam.gif"
-    },
-    {
       "name": "Melodramedary",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/camelfam_left.gif"
+    },
+    {
+      "name": "Gelatinous Cubeling",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/gcube.gif"
     },
     {
       "name": "Jumpsuited Hound Dog",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hounddog.gif"
     },
     {
+      "name": "Exotic Parrot",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/parrot.gif"
+    },
+    {
+      "name": "Left-Hand Man",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/righthandbody.png"
+    },
+    {
       "name": "Nosy Nose",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/nosynose.gif"
-    },
-    {
-      "name": "Stooper",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam47.gif"
-    },
-    {
-      "name": "Gelatinous Cubeling",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/gcube.gif"
     },
     {
       "name": "Baby Bugged Bugbear",
@@ -2054,10 +2068,6 @@
     {
       "name": "Oily Woim",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/woim.gif"
-    },
-    {
-      "name": "Exotic Parrot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/parrot.gif"
     },
     {
       "name": "Tiny Plastic Santa Claus Skeleton",
@@ -2076,6 +2086,42 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/foulball.gif"
     },
     {
+      "name": "Twitching Space Critter",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/spacebeastlet.gif"
+    },
+    {
+      "name": "Reassembled Blackbird",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird2.gif"
+    },
+    {
+      "name": "Baby Z-Rex",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/babyzrex.gif"
+    },
+    {
+      "name": "Stab Bat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar10.gif"
+    },
+    {
+      "name": "Heat Wave",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/heatwave.gif"
+    },
+    {
+      "name": "Phantom Limb",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/phantomlimb.gif"
+    },
+    {
+      "name": "Burly Bodyguard",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bodyguard.gif"
+    },
+    {
+      "name": "Mechanical Songbird",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/mechbird.gif"
+    },
+    {
+      "name": "Smiling Rat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/smilerat.gif"
+    },
+    {
       "name": "Disgeist",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam48.gif"
     },
@@ -2092,20 +2138,12 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hat2.gif"
     },
     {
-      "name": "Mechanical Songbird",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/mechbird.gif"
-    },
-    {
       "name": "Cuddlefish",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cuddlefish.gif"
     },
     {
       "name": "Leprechaun",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar2.gif"
-    },
-    {
-      "name": "Burly Bodyguard",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bodyguard.gif"
     },
     {
       "name": "Angry Goat",
@@ -2116,24 +2154,12 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/barrelmimic.gif"
     },
     {
-      "name": "Twitching Space Critter",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/spacebeastlet.gif"
-    },
-    {
       "name": "Peppermint Rhino",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pep_rhino.gif"
     },
     {
-      "name": "Smiling Rat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/smilerat.gif"
-    },
-    {
       "name": "Ninja Pirate Zombie Robot",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/npzr.gif"
-    },
-    {
-      "name": "Stab Bat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar10.gif"
     },
     {
       "name": "Party Mouse",
@@ -2146,10 +2172,6 @@
     {
       "name": "Reconstituted Crow",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird1.gif"
-    },
-    {
-      "name": "Reassembled Blackbird",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird2.gif"
     },
     {
       "name": "Levitating Potato",
@@ -2176,16 +2198,8 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar35.gif"
     },
     {
-      "name": "Heat Wave",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/heatwave.gif"
-    },
-    {
       "name": "Yule Hound",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/yulehound.gif"
-    },
-    {
-      "name": "Baby Z-Rex",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/babyzrex.gif"
     },
     {
       "name": "Cold Cut",
@@ -2222,10 +2236,6 @@
     {
       "name": "Observer",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/observer.gif"
-    },
-    {
-      "name": "Phantom Limb",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/phantomlimb.gif"
     },
     {
       "name": "El Vibrato Megadrone",
@@ -2592,7 +2602,7 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bonedino.gif"
     },
     {
-      "name": "Pair of Stomping Boots",
+      "name": "Stooper",
       "img": ""
     }
   ],
@@ -3256,6 +3266,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/al_tat.gif"
     },
     {
+      "name": "arbortat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/arbortat.gif"
+    },
+    {
       "name": "arborween",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/arborween.gif"
     },
@@ -3310,6 +3324,10 @@
     {
       "name": "asc12",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/asc12.gif"
+    },
+    {
+      "name": "axistat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/axistat.gif"
     },
     {
       "name": "bauxtat",
@@ -4124,6 +4142,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/wdbraintat.gif"
     },
     {
+      "name": "wetoutfittat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/wetoutfittat.gif"
+    },
+    {
       "name": "workouttat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/workouttat.gif"
     },
@@ -4269,12 +4291,24 @@
     "Red Roger's red right hand",
     "Scepter of Loathing",
     "Shield of Icy Fate",
+    "Staff of Blood and Pudding",
     "Staff of Frozen Lard",
+    "Staff of Holiday Sensations",
     "Staff of Kitchen Royalty",
     "Staff of Simmering Hatred",
+    "Staff of the Black Kettle",
     "Staff of the Deepest Freeze",
     "Staff of the Electric Range",
+    "Staff of the Grand Flambé",
+    "Staff of the Grease Trap",
+    "Staff of the Greasefire",
+    "Staff of the Kitchen Floor",
+    "Staff of the Midnight Snack",
     "Staff of the Peppermint Twist",
+    "Staff of the Short Order Cook",
+    "Staff of the Teapot Tempest",
+    "Staff of the Walk-In Freezer",
+    "Staff of the Well-Tempered Cauldron",
     "Stick-Knife of Loathing",
     "Sword of Dark Omens",
     "Sword of Procedural Generation",
@@ -4364,6 +4398,7 @@
     "baneful bandolier",
     "battered old top-hat",
     "bejazzled eyepatch",
+    "bewitching boots",
     "biker's hat",
     "blue LavaCo Lamp™",
     "bone-polishing rag",
@@ -4435,7 +4470,6 @@
     "monstrous monocle",
     "mostly rat-hide leggings",
     "musty moccasins",
-    "new-in-box toy Cupid bow",
     "octolus-skin cloak",
     "old patched suit-pants",
     "old soft shoes",
@@ -4445,7 +4479,6 @@
     "packaged backup camera",
     "packaged familiar scrapbook",
     "packaged knock-off retro superhero cape",
-    "packaged model train set",
     "paint palette",
     "paraffin pendant",
     "paraffin poncho",
@@ -4465,6 +4498,7 @@
     "ring",
     "ring of the Skeleton Lord",
     "rope with some soap on it",
+    "sardine can key",
     "scorched skull trophy",
     "seal-clubbing club loot box",
     "shapeless wide-brimmed hat",
@@ -4511,6 +4545,7 @@
     "fairy-worn boots",
     "mummified entombed cookbookbat",
     "neverending party invitation envelope",
+    "packaged model train set",
     "panicked kernel",
     "potted tea tree",
     "sinistral homunculus",
@@ -4637,6 +4672,9 @@
       "name": "Citrus Crush wine cooler"
     },
     {
+      "name": "Cobra Bowl"
+    },
+    {
       "name": "Connery's Elixir of Audacity"
     },
     {
@@ -4695,6 +4733,9 @@
     },
     {
       "name": "Earring of Fire"
+    },
+    {
+      "name": "Electric Punch"
     },
     {
       "name": "Ellsbury's journal (used)"
@@ -4808,6 +4849,15 @@
       "name": "Irish Coffee, English Heart"
     },
     {
+      "name": "Island Hurricane"
+    },
+    {
+      "name": "Island Landslide"
+    },
+    {
+      "name": "Island Thunderstorm"
+    },
+    {
       "name": "Jarlsberg's key lime"
     },
     {
@@ -4857,6 +4907,9 @@
     },
     {
       "name": "Knoll stir-fry"
+    },
+    {
+      "name": "Lazybones™ recliner"
     },
     {
       "name": "Linguini Ubriacapa"
@@ -5045,6 +5098,9 @@
       "name": "Scepter of Loathing"
     },
     {
+      "name": "Scorpion Bowl"
+    },
+    {
       "name": "Shagadelic Disco Banjo"
     },
     {
@@ -5058,6 +5114,12 @@
     },
     {
       "name": "Simepore slime"
+    },
+    {
+      "name": "Skull Punch"
+    },
+    {
+      "name": "Smuggler's Punch"
     },
     {
       "name": "Sneaky Pete's key lime"
@@ -5130,6 +5192,9 @@
     },
     {
       "name": "Tubetto Gelatto"
+    },
+    {
+      "name": "Turtle Bowl"
     },
     {
       "name": "Uncle Romulus (used)"
@@ -5741,6 +5806,9 @@
       "name": "clownskin harness"
     },
     {
+      "name": "club of corruption"
+    },
+    {
       "name": "club of the five seasons"
     },
     {
@@ -5784,6 +5852,12 @@
     },
     {
       "name": "corrosive cowl"
+    },
+    {
+      "name": "corrupt club of corrupt corruption"
+    },
+    {
+      "name": "corrupt club of corruption"
     },
     {
       "name": "corrupted bird DNA"
@@ -6233,6 +6307,12 @@
       "name": "gatorskin umbrella"
     },
     {
+      "name": "gauze hammock"
+    },
+    {
+      "name": "gauze shorts"
+    },
+    {
       "name": "gelatinous meat mass"
     },
     {
@@ -6575,6 +6655,9 @@
       "name": "illicit fish sauce"
     },
     {
+      "name": "imbued seal-blubber candle"
+    },
+    {
       "name": "innuendo"
     },
     {
@@ -6638,10 +6721,19 @@
       "name": "leftovers sandwich"
     },
     {
+      "name": "lemon drop trousers"
+    },
+    {
       "name": "lemon meringue pie"
     },
     {
+      "name": "lemon party hat"
+    },
+    {
       "name": "lemon popsicle"
+    },
+    {
+      "name": "lemon shirt"
     },
     {
       "name": "libation of liveliness"
@@ -6858,6 +6950,9 @@
     },
     {
       "name": "mulled blood"
+    },
+    {
+      "name": "mummy mask"
     },
     {
       "name": "murderbot live wire"
@@ -7148,6 +7243,9 @@
       "name": "peaza"
     },
     {
+      "name": "pebblebräu"
+    },
+    {
       "name": "pecan pie"
     },
     {
@@ -7269,6 +7367,9 @@
     },
     {
       "name": "plaid pocket square"
+    },
+    {
+      "name": "plaid skirt"
     },
     {
       "name": "plain calzone"
@@ -7451,6 +7552,9 @@
       "name": "really sticky spider web"
     },
     {
+      "name": "really thick bandage"
+    },
+    {
       "name": "reassembled blackbird"
     },
     {
@@ -7497,6 +7601,9 @@
     },
     {
       "name": "rockin' wagon with a fly in it"
+    },
+    {
+      "name": "rocky road ice cream"
     },
     {
       "name": "roll in the hay"
@@ -7619,6 +7726,9 @@
       "name": "serum of sarcasm"
     },
     {
+      "name": "shaking skull"
+    },
+    {
       "name": "shark tooth necklace"
     },
     {
@@ -7671,6 +7781,9 @@
     },
     {
       "name": "skeletal scabbard"
+    },
+    {
+      "name": "skeletal skiff"
     },
     {
       "name": "skeleton key"
@@ -7781,6 +7894,9 @@
       "name": "soylent staff"
     },
     {
+      "name": "space bar"
+    },
+    {
       "name": "space beast fur hat"
     },
     {
@@ -7788,6 +7904,15 @@
     },
     {
       "name": "space beast fur whip"
+    },
+    {
+      "name": "space heater"
+    },
+    {
+      "name": "space invader"
+    },
+    {
+      "name": "space needle"
     },
     {
       "name": "spagecialetti"
@@ -8552,6 +8677,9 @@
     },
     {
       "name": "Cold One"
+    },
+    {
+      "name": "Cool Brunch Pastaco"
     },
     {
       "name": "Corpse Island iced tea"
@@ -10411,6 +10539,9 @@
       "name": "warm mushroom"
     },
     {
+      "name": "warm war shawarma"
+    },
+    {
       "name": "wasabi pocky"
     },
     {
@@ -10463,25 +10594,25 @@
     }
   ],
   "code_binder": [
-    "Thugnderdome",
     "Noob Cave",
-    "Lair of the Ninja Snowmen",
-    "Sleazy Back Alley",
-    "Limerick Dungeon",
-    "Camp Logging Camp",
-    "Road to White Citadel",
-    "The Unquiet Garves",
-    "\"Fun\" House",
-    "Cobb's Knob Menagerie, Level 3",
-    "Bugbear Pen",
-    "Belowdecks",
-    "Penultimate Fantasy Airship",
-    "Frat Battlefield",
-    "Defiled Nook",
-    "Cola Wars Battlefield",
-    "eXtreme Slope",
-    "Poker Room",
     "Enormous Greater-Than Sign",
-    "The Arid, Extra-Dry Desert"
+    "Penultimate Fantasy Airship",
+    "Lair of the Ninja Snowmen",
+    "Thugnderdome",
+    "The Arid, Extra-Dry Desert",
+    "The Unquiet Garves",
+    "Sleazy Back Alley",
+    "Camp Logging Camp",
+    "Frat Battlefield",
+    "\"Fun\" House",
+    "Defiled Nook",
+    "Poker Room",
+    "eXtreme Slope",
+    "Limerick Dungeon",
+    "Bugbear Pen",
+    "Road to White Citadel",
+    "Belowdecks",
+    "Cola Wars Battlefield",
+    "Cobb's Knob Menagerie, Level 3"
   ]
 }
