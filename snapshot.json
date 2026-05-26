@@ -1,498 +1,23 @@
 {
-  "generated_at": "2026-05-22 23:04 UTC",
+  "generated_at": "2026-05-26 02:43 UTC",
   "character": {
     "name": "Neuviilette",
     "player_id": "3363484",
-    "level": 1,
-    "class_id": 32,
-    "class_name": "Kingdom of Exploathing",
-    "ascensions": 286
+    "level": 13,
+    "class_id": 6,
+    "class_name": "Accordion Thief",
+    "ascensions": 288
   },
   "skills": [
     {
-      "name": "Torso Awareness",
+      "name": "Carol of the Thrills",
       "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/12.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/184.gif"
     },
     {
-      "name": "Emotionally Chipped",
+      "name": "Gallapagosian Mating Call",
       "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/203.gif"
-    },
-    {
-      "name": "Chronic Indigestion",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2.gif"
-    },
-    {
-      "name": "Powers of Observatiogn",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/10.gif"
-    },
-    {
-      "name": "Gnefarious Pickpocketing",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/11.gif"
-    },
-    {
-      "name": "Gnomish Hardigness",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/13.gif"
-    },
-    {
-      "name": "Cosmic Ugnderstanding",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/14.gif"
-    },
-    {
-      "name": "CLEESH",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/15.gif"
-    },
-    {
-      "name": "Really Expensive Jewelrycrafting",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/20.gif"
-    },
-    {
-      "name": "Awesome Balls of Fire",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/28.gif"
-    },
-    {
-      "name": "Conjure Relaxing Campfire",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/29.gif"
-    },
-    {
-      "name": "Snowclone",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/30.gif"
-    },
-    {
-      "name": "Maximum Chill",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/31.gif"
-    },
-    {
-      "name": "Eggsplosion",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/32.gif"
-    },
-    {
-      "name": "Mudbath",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/33.gif"
-    },
-    {
-      "name": "Grease Lightning",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/36.gif"
-    },
-    {
-      "name": "Inappropriate Backrub",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/37.gif"
-    },
-    {
-      "name": "Natural Born Scrabbler",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/38.gif"
-    },
-    {
-      "name": "Thrift and Grift",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/39.gif"
-    },
-    {
-      "name": "Abs of Tin",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/40.gif"
-    },
-    {
-      "name": "Marginally Insane",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/41.gif"
-    },
-    {
-      "name": "Raise Backup Dancer",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/42.gif"
-    },
-    {
-      "name": "Creepy Lullaby",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/43.gif"
-    },
-    {
-      "name": "Vent Rage Gland",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/45.gif"
-    },
-    {
-      "name": "Summon Crimbo Candy",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/53.gif"
-    },
-    {
-      "name": "Unaccompanied Miner",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/54.gif"
-    },
-    {
-      "name": "Volcanometeor Showeruption",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/55.gif"
-    },
-    {
-      "name": "Wassail",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/56.gif"
-    },
-    {
-      "name": "Toynado",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/57.gif"
-    },
-    {
-      "name": "Fashionably Late",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/58.gif"
-    },
-    {
-      "name": "Executive Narcolepsy",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/59.gif"
-    },
-    {
-      "name": "Lunch Break",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/60.gif"
-    },
-    {
-      "name": "Offensive Joke",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/61.gif"
-    },
-    {
-      "name": "Managerial Manipulation",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/62.gif"
-    },
-    {
-      "name": "Master of the Surprising Fist",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/74.gif"
-    },
-    {
-      "name": "Summon \"Boner Battalion\"",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/75.gif"
-    },
-    {
-      "name": "Torment Plant",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/77.gif"
-    },
-    {
-      "name": "Pinch Ghost",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/78.gif"
-    },
-    {
-      "name": "Tattle",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/79.gif"
-    },
-    {
-      "name": "Thick-Skinned",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/80.gif"
-    },
-    {
-      "name": "Chip on your Shoulder",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/81.gif"
-    },
-    {
-      "name": "Silent Slam",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/84.gif"
-    },
-    {
-      "name": "Silent Squirt",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/85.gif"
-    },
-    {
-      "name": "Silent Slice",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/86.gif"
-    },
-    {
-      "name": "Walberg's Dim Bulb",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/87.gif"
-    },
-    {
-      "name": "Singer's Faithful Ocelot",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/88.gif"
-    },
-    {
-      "name": "Drescher's Annoying Noise",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/89.gif"
-    },
-    {
-      "name": "Deep Dark Visions",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/90.gif"
-    },
-    {
-      "name": "Club Earth",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/92.gif"
-    },
-    {
-      "name": "Carbohydrate Cudgel",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/93.gif"
-    },
-    {
-      "name": "Splattersmash",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/94.gif"
-    },
-    {
-      "name": "Grab a Cold One",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/95.gif"
-    },
-    {
-      "name": "Song of the North",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/96.gif"
-    },
-    {
-      "name": "Turtleini",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/97.gif"
-    },
-    {
-      "name": "Sauceshell",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/98.gif"
-    },
-    {
-      "name": "Conspiratorial Whispers",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/99.gif"
-    },
-    {
-      "name": "Song of Slowness",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/100.gif"
-    },
-    {
-      "name": "Spaghetti Breakfast",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/101.gif"
-    },
-    {
-      "name": "Shadow Noodles",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/102.gif"
-    },
-    {
-      "name": "Song of Starch",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/103.gif"
-    },
-    {
-      "name": "Splashdance",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/104.gif"
-    },
-    {
-      "name": "Song of Sauce",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/105.gif"
-    },
-    {
-      "name": "Song of Bravado",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/106.gif"
-    },
-    {
-      "name": "Summon Annoyance",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/107.gif"
-    },
-    {
-      "name": "Shrap",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/110.gif"
-    },
-    {
-      "name": "Psychokinetic Hug",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/111.gif"
-    },
-    {
-      "name": "Unoffendable",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/112.gif"
-    },
-    {
-      "name": "Grease Up",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/113.gif"
-    },
-    {
-      "name": "Sloppy Secrets",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/114.gif"
-    },
-    {
-      "name": "Alien Source Code",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/115.gif"
-    },
-    {
-      "name": "Belch The Rainbow",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/117.gif"
-    },
-    {
-      "name": "Pirate Bellow",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/118.gif"
-    },
-    {
-      "name": "Hypersane",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/119.gif"
-    },
-    {
-      "name": "Intimidating Mien",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/120.gif"
-    },
-    {
-      "name": "Speluck",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/129.gif"
-    },
-    {
-      "name": "Olfactory Burnout",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/130.gif"
-    },
-    {
-      "name": "Garbage Nova",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/131.gif"
-    },
-    {
-      "name": "Dinsey Operations Expert",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/132.gif"
-    },
-    {
-      "name": "Rotten Memories",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/133.gif"
-    },
-    {
-      "name": "Healing Salve",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/136.gif"
-    },
-    {
-      "name": "Dark Ritual",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/137.gif"
-    },
-    {
-      "name": "Lightning Bolt",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/138.gif"
-    },
-    {
-      "name": "Giant Growth",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/139.gif"
-    },
-    {
-      "name": "Ancestral Recall",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/140.gif"
-    },
-    {
-      "name": "Asbestos Heart",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/141.gif"
-    },
-    {
-      "name": "Pyromania",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/142.gif"
-    },
-    {
-      "name": "Firegate",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/143.gif"
-    },
-    {
-      "name": "Calculate the Universe",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/144.gif"
-    },
-    {
-      "name": "Perfect Freeze",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/145.gif"
-    },
-    {
-      "name": "Refusal to Freeze",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/146.gif"
-    },
-    {
-      "name": "Beardfreeze",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/147.gif"
-    },
-    {
-      "name": "Frost Bite",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/148.gif"
-    },
-    {
-      "name": "Shattering Punch",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/149.gif"
-    },
-    {
-      "name": "Snokebomb",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/150.gif"
-    },
-    {
-      "name": "Shivering Monkey Technique",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/151.gif"
-    },
-    {
-      "name": "Bow-Legged Swagger",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/153.gif"
-    },
-    {
-      "name": "Bend Hell",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/154.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2043.gif"
     },
     {
       "name": "Steely-Eyed Squint",
@@ -500,84 +25,34 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/155.gif"
     },
     {
-      "name": "Brain Games",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/157.gif"
-    },
-    {
-      "name": "20/20 Vision",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/158.gif"
-    },
-    {
-      "name": "Astute Angler",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/159.gif"
-    },
-    {
-      "name": "Eldritch Intellect",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/161.gif"
-    },
-    {
-      "name": "Licorice Rope",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/162.gif"
-    },
-    {
-      "name": "Gingerbread Mob Hit",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/163.gif"
-    },
-    {
-      "name": "Fifteen Minutes of Flame",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/164.gif"
-    },
-    {
-      "name": "Ceci N'Est Pas Un Chapeau",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/165.gif"
-    },
-    {
-      "name": "Sweet Synthesis",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/166.gif"
-    },
-    {
-      "name": "Quantum Movement",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/170.gif"
-    },
-    {
-      "name": "5-D Earning Potential",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/171.gif"
-    },
-    {
-      "name": "Object Quasi-Permanence",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/172.gif"
-    },
-    {
-      "name": "Disintegrate",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/173.gif"
-    },
-    {
-      "name": "Eternal Flame",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/175.gif"
-    },
-    {
-      "name": "Expert Corner-Cutter",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/177.gif"
-    },
-    {
       "name": "Budget Conscious",
       "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/178.gif"
+    },
+    {
+      "name": "Pastamastery",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3006.gif"
+    },
+    {
+      "name": "Superhuman Cocktailcrafting",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5018.gif"
+    },
+    {
+      "name": "Advanced Cocktailcrafting",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5014.gif"
+    },
+    {
+      "name": "Kung Fu Hustler",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5024.gif"
+    },
+    {
+      "name": "Master of the Surprising Fist",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/74.gif"
     },
     {
       "name": "Drinking to Drink",
@@ -585,14 +60,24 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/179.gif"
     },
     {
-      "name": "Experience Safari",
+      "name": "Advanced Saucecrafting",
       "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/180.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4006.gif"
     },
     {
-      "name": "Army of Toddlers",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/181.gif"
+      "name": "Impetuous Sauciness",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4015.gif"
+    },
+    {
+      "name": "Get Big",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1042.gif"
+    },
+    {
+      "name": "Paul's Passionate Pop Song",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6045.gif"
     },
     {
       "name": "Carol of the Bulls",
@@ -605,34 +90,304 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/183.gif"
     },
     {
-      "name": "Carol of the Thrills",
+      "name": "Inscrutable Gaze",
       "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/184.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3043.gif"
     },
     {
-      "name": "Tiki Mixology",
+      "name": "Love Mixology",
       "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/186.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4041.gif"
     },
     {
-      "name": "Prevent Scurvy and Sobriety",
+      "name": "Acquire Rhinestones",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5041.gif"
+    },
+    {
+      "name": "Spaghetti Breakfast",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/101.gif"
+    },
+    {
+      "name": "Grab a Cold One",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/95.gif"
+    },
+    {
+      "name": "The Ode to Booze",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6014.gif"
+    },
+    {
+      "name": "The Magical Mojomuscular Melody",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6007.gif"
+    },
+    {
+      "name": "Vent Rage Gland",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/45.gif"
+    },
+    {
+      "name": "The Way of Sauce",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4018.gif"
+    },
+    {
+      "name": "Saucemaven",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4039.gif"
+    },
+    {
+      "name": "Torso Awareness",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/12.gif"
+    },
+    {
+      "name": "Mad Looting Skillz",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5006.gif"
+    },
+    {
+      "name": "Expert Corner-Cutter",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/177.gif"
+    },
+    {
+      "name": "Tongue of the Walrus",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1010.gif"
+    },
+    {
+      "name": "Musk of the Moose",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1019.gif"
+    },
+    {
+      "name": "20/20 Vision",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/158.gif"
+    },
+    {
+      "name": "Transcendental Noodlecraft",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3018.gif"
+    },
+    {
+      "name": "Leash of Linguini",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3010.gif"
+    },
+    {
+      "name": "Cannelloni Cocoon",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3012.gif"
+    },
+    {
+      "name": "Empathy of the Newt",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2009.gif"
+    },
+    {
+      "name": "Amphibian Sympathy",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2014.gif"
+    },
+    {
+      "name": "Snokebomb",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/150.gif"
+    },
+    {
+      "name": "Shattering Punch",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/149.gif"
+    },
+    {
+      "name": "The Ballad of Richie Thingfinder",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6020.gif"
+    },
+    {
+      "name": "Smooth Movement",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5017.gif"
+    },
+    {
+      "name": "Ur-Kel's Aria of Annoyance",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6017.gif"
+    },
+    {
+      "name": "Carlweather's Cantata of Confrontation",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6016.gif"
+    },
+    {
+      "name": "The Sonata of Sneakiness",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6015.gif"
+    },
+    {
+      "name": "Fat Leon's Phat Loot Lyric",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6010.gif"
+    },
+    {
+      "name": "Wisdom of the Elder Tortoises",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2011.gif"
+    },
+    {
+      "name": "The Long View",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2038.gif"
+    },
+    {
+      "name": "Overdeveloped Sense of Self Preservation",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5010.gif"
+    },
+    {
+      "name": "Ambidextrous Funkslinging",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5015.gif"
+    },
+    {
+      "name": "Spirit of Rigatoni",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3011.gif"
+    },
+    {
+      "name": "Spirit of Ravioli",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3014.gif"
+    },
+    {
+      "name": "Double-Fisted Skull Smashing",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1017.gif"
+    },
+    {
+      "name": "Super-Advanced Meatsmithing",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1006.gif"
+    },
+    {
+      "name": "Pride of the Puffin",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1040.gif"
+    },
+    {
+      "name": "Elemental Saucesphere",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4007.gif"
+    },
+    {
+      "name": "Curse of Weaksauce",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4034.gif"
+    },
+    {
+      "name": "Experience Safari",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/180.gif"
+    },
+    {
+      "name": "Nimble Fingers",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5004.gif"
+    },
+    {
+      "name": "Tolerance of the Kitchen",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3016.gif"
+    },
+    {
+      "name": "Subtle and Quick to Anger",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3036.gif"
+    },
+    {
+      "name": "Lunging Thrust-Smack",
       "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/187.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1005.gif"
     },
     {
-      "name": "The Spirit of Taking",
+      "name": "Northern Exposure",
       "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/189.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1018.gif"
     },
     {
-      "name": "Drippy Eye-Sprout",
+      "name": "Armorcraftiness",
       "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/191.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2006.gif"
     },
     {
-      "name": "Always Never Not Guzzling",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/194.gif"
+      "name": "Powers of Observatiogn",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/10.gif"
+    },
+    {
+      "name": "Perfect Freeze",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/145.gif"
+    },
+    {
+      "name": "Itchy Curse Finger",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4030.gif"
+    },
+    {
+      "name": "Saucestorm",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4005.gif"
+    },
+    {
+      "name": "Springy Fusilli",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3015.gif"
+    },
+    {
+      "name": "Entangling Noodles",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3004.gif"
+    },
+    {
+      "name": "Master Saucier",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4011.gif"
+    },
+    {
+      "name": "Shivering Monkey Technique",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/151.gif"
+    },
+    {
+      "name": "Heart of Polyester",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5016.gif"
+    },
+    {
+      "name": "Thief Among the Honorable",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6038.gif"
+    },
+    {
+      "name": "The Polka of Plenty",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6006.gif"
+    },
+    {
+      "name": "Mariachi Memory",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6043.gif"
+    },
+    {
+      "name": "Five Finger Discount",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6035.gif"
     },
     {
       "name": "Lock Picking",
@@ -640,9 +395,99 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/195.gif"
     },
     {
+      "name": "Flavour of Magic",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3017.gif"
+    },
+    {
+      "name": "Weapon of the Pastalord",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3008.gif"
+    },
+    {
+      "name": "Hide of the Walrus",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1011.gif"
+    },
+    {
+      "name": "Skin of the Leatherback",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2004.gif"
+    },
+    {
+      "name": "Astral Shell",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2012.gif"
+    },
+    {
+      "name": "Ravioli Shurikens",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3003.gif"
+    },
+    {
+      "name": "Bind Spaghetti Elemental",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3041.gif"
+    },
+    {
+      "name": "Thick-Skinned",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/80.gif"
+    },
+    {
+      "name": "Drippy Eye-Sprout",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/191.gif"
+    },
+    {
+      "name": "Tango of Terror",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5019.gif"
+    },
+    {
+      "name": "Disco Dance of Doom",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5005.gif"
+    },
+    {
+      "name": "Harpoon!",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1023.gif"
+    },
+    {
+      "name": "Sing",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6025.gif"
+    },
+    {
+      "name": "Stream of Sauce",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4003.gif"
+    },
+    {
+      "name": "Volcanometeor Showeruption",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/55.gif"
+    },
+    {
+      "name": "Tao of the Terrapin",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2021.gif"
+    },
+    {
+      "name": "Seal Clubbing Frenzy",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1000.gif"
+    },
+    {
       "name": "Comprehensive Cartography",
       "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/196.gif"
+    },
+    {
+      "name": "Brain Games",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/157.gif"
     },
     {
       "name": "Long Winter's Nap",
@@ -675,14 +520,949 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/202.gif"
     },
     {
-      "name": "Dead Nostrils",
+      "name": "Benetton's Medley of Diversity",
       "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/205.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6021.gif"
     },
     {
-      "name": "Ancient Crymbo Lore",
+      "name": "Elron's Explosive Etude",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6022.gif"
+    },
+    {
+      "name": "Chorale of Companionship",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6023.gif"
+    },
+    {
+      "name": "Prelude of Precision",
       "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/206.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6024.gif"
+    },
+    {
+      "name": "Diminished Gag Reflex",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4016.gif"
+    },
+    {
+      "name": "Blood Sugar Sauce Magic",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4038.gif"
+    },
+    {
+      "name": "Inner Sauce",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4028.gif"
+    },
+    {
+      "name": "Expert Panhandling",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4004.gif"
+    },
+    {
+      "name": "Käsesoßesturm",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4023.gif"
+    },
+    {
+      "name": "Deep Saucery",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4021.gif"
+    },
+    {
+      "name": "Asbestos Heart",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/141.gif"
+    },
+    {
+      "name": "Speluck",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/129.gif"
+    },
+    {
+      "name": "Drescher's Annoying Noise",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/89.gif"
+    },
+    {
+      "name": "Singer's Faithful Ocelot",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/88.gif"
+    },
+    {
+      "name": "Walberg's Dim Bulb",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/87.gif"
+    },
+    {
+      "name": "Fashionably Late",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/58.gif"
+    },
+    {
+      "name": "Toynado",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/57.gif"
+    },
+    {
+      "name": "Raise Backup Dancer",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/42.gif"
+    },
+    {
+      "name": "Abs of Tin",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/40.gif"
+    },
+    {
+      "name": "Thrift and Grift",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/39.gif"
+    },
+    {
+      "name": "Natural Born Scrabbler",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/38.gif"
+    },
+    {
+      "name": "Grease Lightning",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/36.gif"
+    },
+    {
+      "name": "Eggsplosion",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/32.gif"
+    },
+    {
+      "name": "Snowclone",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/30.gif"
+    },
+    {
+      "name": "Awesome Balls of Fire",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/28.gif"
+    },
+    {
+      "name": "Really Expensive Jewelrycrafting",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/20.gif"
+    },
+    {
+      "name": "Cosmic Ugnderstanding",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/14.gif"
+    },
+    {
+      "name": "Gnomish Hardigness",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/13.gif"
+    },
+    {
+      "name": "Gnefarious Pickpocketing",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/11.gif"
+    },
+    {
+      "name": "Irrepressible Spunk",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4017.gif"
+    },
+    {
+      "name": "Wry Smile",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4035.gif"
+    },
+    {
+      "name": "Intrinsic Spiciness",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4010.gif"
+    },
+    {
+      "name": "Sauce Contemplation",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4000.gif"
+    },
+    {
+      "name": "Fearful Fettucini",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3019.gif"
+    },
+    {
+      "name": "Tempuramancy",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3021.gif"
+    },
+    {
+      "name": "Stringozzi Serpent",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3023.gif"
+    },
+    {
+      "name": "Manicotti Meditation",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3000.gif"
+    },
+    {
+      "name": "Arched Eyebrow of the Archmage",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3028.gif"
+    },
+    {
+      "name": "Stuffed Mortar Shell",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3007.gif"
+    },
+    {
+      "name": "Shield of the Pastalord",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3032.gif"
+    },
+    {
+      "name": "Wizard Squint",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3038.gif"
+    },
+    {
+      "name": "Quantum Movement",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/170.gif"
+    },
+    {
+      "name": "5-D Earning Potential",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/171.gif"
+    },
+    {
+      "name": "Object Quasi-Permanence",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/172.gif"
+    },
+    {
+      "name": "Disintegrate",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/173.gif"
+    },
+    {
+      "name": "Moxie of the Mariachi",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6000.gif"
+    },
+    {
+      "name": "Dirge of Dreadfulness",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6018.gif"
+    },
+    {
+      "name": "Donho's Bubbly Ballad",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6026.gif"
+    },
+    {
+      "name": "Inigo's Incantation of Inspiration",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6028.gif"
+    },
+    {
+      "name": "The Moxious Madrigal",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6004.gif"
+    },
+    {
+      "name": "Cletus's Canticle of Celerity",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6005.gif"
+    },
+    {
+      "name": "The Power Ballad of the Arrowsmith",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6008.gif"
+    },
+    {
+      "name": "Suspicious Gaze",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6036.gif"
+    },
+    {
+      "name": "Stevedave's Shanty of Superiority",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6013.gif"
+    },
+    {
+      "name": "Aloysius' Antiphon of Aptitude",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6003.gif"
+    },
+    {
+      "name": "Knowing Smile",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6042.gif"
+    },
+    {
+      "name": "Master Accordion Master Thief",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6041.gif"
+    },
+    {
+      "name": "Sticky Fingers",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6039.gif"
+    },
+    {
+      "name": "Disco Aerobics",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5000.gif"
+    },
+    {
+      "name": "Salacious Cocktailcrafting",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5022.gif"
+    },
+    {
+      "name": "Deft Hands",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5025.gif"
+    },
+    {
+      "name": "That's Not a Knife",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5028.gif"
+    },
+    {
+      "name": "Disco Nap",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5007.gif"
+    },
+    {
+      "name": "Tricky Knifework",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5029.gif"
+    },
+    {
+      "name": "Disco Smirk",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5031.gif"
+    },
+    {
+      "name": "Adventurer of Leisure",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5011.gif"
+    },
+    {
+      "name": "Disco Fever",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5009.gif"
+    },
+    {
+      "name": "Sensitive Fingers",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5038.gif"
+    },
+    {
+      "name": "Disco Leer",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5039.gif"
+    },
+    {
+      "name": "Lasagna Bandages",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3009.gif"
+    },
+    {
+      "name": "Cannelloni Cannon",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3005.gif"
+    },
+    {
+      "name": "Bind Angel Hair Wisp",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3031.gif"
+    },
+    {
+      "name": "Bind Lasagmbie",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3037.gif"
+    },
+    {
+      "name": "Bind Spice Ghost",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3039.gif"
+    },
+    {
+      "name": "Splattersmash",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/94.gif"
+    },
+    {
+      "name": "Song of Slowness",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/100.gif"
+    },
+    {
+      "name": "Song of Sauce",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/105.gif"
+    },
+    {
+      "name": "Fortitude of the Muskox",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1008.gif"
+    },
+    {
+      "name": "Audacity of the Otter",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1009.gif"
+    },
+    {
+      "name": "Scowl of the Auk",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1031.gif"
+    },
+    {
+      "name": "Claws of the Walrus",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1012.gif"
+    },
+    {
+      "name": "Rage of the Reindeer",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1015.gif"
+    },
+    {
+      "name": "Pulverize",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1016.gif"
+    },
+    {
+      "name": "Snarl of the Timberwolf",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1020.gif"
+    },
+    {
+      "name": "Patience of the Tortoise",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2000.gif"
+    },
+    {
+      "name": "Spectral Snapper",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2022.gif"
+    },
+    {
+      "name": "Summon Leviatuga",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2024.gif"
+    },
+    {
+      "name": "Curiosity of Br'er Tarrypin",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2026.gif"
+    },
+    {
+      "name": "Blood Bond",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2044.gif"
+    },
+    {
+      "name": "Blessing of the War Snapper",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2030.gif"
+    },
+    {
+      "name": "Stiff Upper Lip",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2029.gif"
+    },
+    {
+      "name": "Ghostly Shell",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2007.gif"
+    },
+    {
+      "name": "Pizza Lover",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2036.gif"
+    },
+    {
+      "name": "Testudinal Teachings",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2035.gif"
+    },
+    {
+      "name": "Reptilian Fortitude",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2008.gif"
+    },
+    {
+      "name": "Cold-Blooded Fearlessness",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2016.gif"
+    },
+    {
+      "name": "Hero of the Half-Shell",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2020.gif"
+    },
+    {
+      "name": "Patient Smile",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2040.gif"
+    },
+    {
+      "name": "Scarysauce",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4019.gif"
+    },
+    {
+      "name": "Saucy Salve",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4014.gif"
+    },
+    {
+      "name": "Icy Glare",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4026.gif"
+    },
+    {
+      "name": "Emotionally Chipped",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/203.gif"
+    },
+    {
+      "name": "Curse of Vichyssoise",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4024.gif"
+    },
+    {
+      "name": "Simmer",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4025.gif"
+    },
+    {
+      "name": "Soul Saucery",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4027.gif"
+    },
+    {
+      "name": "Curse of Marinara",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4029.gif"
+    },
+    {
+      "name": "Jalapeño Saucesphere",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4008.gif"
+    },
+    {
+      "name": "Wave of Sauce",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4009.gif"
+    },
+    {
+      "name": "Curse of the Thousand Islands",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4031.gif"
+    },
+    {
+      "name": "Saucecicle",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4032.gif"
+    },
+    {
+      "name": "Antibiotic Saucesphere",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4033.gif"
+    },
+    {
+      "name": "Saucegeyser",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4012.gif"
+    },
+    {
+      "name": "Sauce Monocle",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4037.gif"
+    },
+    {
+      "name": "CLEESH",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/15.gif"
+    },
+    {
+      "name": "Disco Eye-Poke",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5003.gif"
+    },
+    {
+      "name": "Disco State of Mind",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5026.gif"
+    },
+    {
+      "name": "Disco Dance II: Electric Boogaloo",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5008.gif"
+    },
+    {
+      "name": "Frantic Gyrations",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5027.gif"
+    },
+    {
+      "name": "Disco Face Stab",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5012.gif"
+    },
+    {
+      "name": "Flashy Dancer",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5030.gif"
+    },
+    {
+      "name": "Disco Greed",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5032.gif"
+    },
+    {
+      "name": "Knife in the Dark",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5033.gif"
+    },
+    {
+      "name": "Disco Bravado",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5034.gif"
+    },
+    {
+      "name": "Disco Shank",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5035.gif"
+    },
+    {
+      "name": "Disco Dance 3: Back in the Habit",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5036.gif"
+    },
+    {
+      "name": "Disco Inferno",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5037.gif"
+    },
+    {
+      "name": "Dissonant Riff",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6029.gif"
+    },
+    {
+      "name": "Cadenza",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6030.gif"
+    },
+    {
+      "name": "Crab Claw Technique",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6031.gif"
+    },
+    {
+      "name": "Accordion Bash",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6032.gif"
+    },
+    {
+      "name": "Accordion Appreciation",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6033.gif"
+    },
+    {
+      "name": "Cone of Zydeco",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6040.gif"
+    },
+    {
+      "name": "Jackasses' Symphony of Destruction",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6012.gif"
+    },
+    {
+      "name": "Concerto de los Muertos",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6034.gif"
+    },
+    {
+      "name": "Brawnee's Anthem of Absorption",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6009.gif"
+    },
+    {
+      "name": "The Psalm of Pointiness",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6011.gif"
+    },
+    {
+      "name": "Bawdy Refrain",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6037.gif"
+    },
+    {
+      "name": "Army of Toddlers",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/181.gif"
+    },
+    {
+      "name": "Fifteen Minutes of Flame",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/164.gif"
+    },
+    {
+      "name": "Clobber",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1022.gif"
+    },
+    {
+      "name": "Lunge Smack",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1004.gif"
+    },
+    {
+      "name": "Hibernate",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1027.gif"
+    },
+    {
+      "name": "Blubber Up",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1007.gif"
+    },
+    {
+      "name": "Cold Shoulder",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1028.gif"
+    },
+    {
+      "name": "Thrust-Smack",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1003.gif"
+    },
+    {
+      "name": "Wrath of the Wolverine",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1029.gif"
+    },
+    {
+      "name": "Buoyancy of the Beluga",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1030.gif"
+    },
+    {
+      "name": "Thirst of the Weasel",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1036.gif"
+    },
+    {
+      "name": "Furious Wallop",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1032.gif"
+    },
+    {
+      "name": "Club Foot",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1033.gif"
+    },
+    {
+      "name": "Seething of the Snow Leopard",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1034.gif"
+    },
+    {
+      "name": "Ire of the Orca",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1035.gif"
+    },
+    {
+      "name": "Batter Up!",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1014.gif"
+    },
+    {
+      "name": "Cavalcade of Fury",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1037.gif"
+    },
+    {
+      "name": "Northern Explosion",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1038.gif"
+    },
+    {
+      "name": "Precision of the Penguin",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1039.gif"
+    },
+    {
+      "name": "Summon \"Boner Battalion\"",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/75.gif"
+    },
+    {
+      "name": "Shrap",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/110.gif"
+    },
+    {
+      "name": "Psychokinetic Hug",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/111.gif"
+    },
+    {
+      "name": "Toss",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2023.gif"
+    },
+    {
+      "name": "Headbutt",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2003.gif"
+    },
+    {
+      "name": "Spirit Vacation",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2027.gif"
+    },
+    {
+      "name": "Shell Up",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2028.gif"
+    },
+    {
+      "name": "Tenacity of the Snapper",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2010.gif"
+    },
+    {
+      "name": "Spirit Snap",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2032.gif"
+    },
+    {
+      "name": "Kneebutt",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2015.gif"
+    },
+    {
+      "name": "Blessing of She-Who-Was",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2033.gif"
+    },
+    {
+      "name": "Butts of Steel",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2034.gif"
+    },
+    {
+      "name": "Spiky Shell",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2031.gif"
+    },
+    {
+      "name": "Shieldbutt",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2005.gif"
+    },
+    {
+      "name": "Blessing of the Storm Tortoise",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2037.gif"
+    },
+    {
+      "name": "Spirit Boon",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2039.gif"
+    },
+    {
+      "name": "Turtle Power",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2041.gif"
+    },
+    {
+      "name": "Spaghetti Spear",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3020.gif"
+    },
+    {
+      "name": "Utensil Twist",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3025.gif"
+    },
+    {
+      "name": "Transcendent Al Dente",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3026.gif"
+    },
+    {
+      "name": "Bind Vampieroghi",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3027.gif"
+    },
+    {
+      "name": "Bind Vermincelli",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3029.gif"
+    },
+    {
+      "name": "Bringing Up the Rear",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3030.gif"
+    },
+    {
+      "name": "Bind Undead Elbow Macaroni",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3033.gif"
+    },
+    {
+      "name": "Thrall Unit Tactics",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3034.gif"
+    },
+    {
+      "name": "Bind Penne Dreadful",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3035.gif"
+    },
+    {
+      "name": "Sweet Synthesis",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/166.gif"
+    },
+    {
+      "name": "Pirate Bellow",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/118.gif"
+    },
+    {
+      "name": "Suckerpunch",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5021.gif"
+    },
+    {
+      "name": "Summon Crimbo Candy",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/53.gif"
+    },
+    {
+      "name": "Club Earth",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/92.gif"
+    },
+    {
+      "name": "Turtleini",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/97.gif"
+    },
+    {
+      "name": "Shadow Noodles",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/102.gif"
     },
     {
       "name": "Crimbo Training: First Aid Technician",
@@ -740,6 +1520,51 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/217.gif"
     },
     {
+      "name": "Gingerbread Mob Hit",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/163.gif"
+    },
+    {
+      "name": "Licorice Rope",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/162.gif"
+    },
+    {
+      "name": "Dead Nostrils",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/205.gif"
+    },
+    {
+      "name": "The Spirit of Taking",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/189.gif"
+    },
+    {
+      "name": "Ancient Crymbo Lore",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/206.gif"
+    },
+    {
+      "name": "Salsaball",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4020.gif"
+    },
+    {
+      "name": "Summon Annoyance",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/107.gif"
+    },
+    {
+      "name": "Just the Facts",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/228.gif"
+    },
+    {
+      "name": "Eternal Flame",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/175.gif"
+    },
+    {
       "name": "Secret Door Awareness",
       "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/225.gif"
@@ -748,16 +1573,6 @@
       "name": "Perpetrate Mild Evil",
       "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/226.gif"
-    },
-    {
-      "name": "Chitinous Soul",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/227.gif"
-    },
-    {
-      "name": "Just the Facts",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/228.gif"
     },
     {
       "name": "Elf Guard Cooking",
@@ -785,29 +1600,104 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/233.gif"
     },
     {
-      "name": "Too Cool",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/235.gif"
+      "name": "Conjure Relaxing Campfire",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/29.gif"
     },
     {
-      "name": "Attract Snakes",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/236.gif"
+      "name": "Maximum Chill",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/31.gif"
     },
     {
-      "name": "Hide From Seekers",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/237.gif"
+      "name": "Mudbath",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/33.gif"
     },
     {
-      "name": "Reindeer Games",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/238.gif"
+      "name": "Creepy Lullaby",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/43.gif"
     },
     {
-      "name": "Master Egg Hunter",
+      "name": "Wassail",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/56.gif"
+    },
+    {
+      "name": "Ceci N'Est Pas Un Chapeau",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/165.gif"
+    },
+    {
+      "name": "Silent Treatment",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4040.gif"
+    },
+    {
+      "name": "Silent Hunter",
       "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/239.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1041.gif"
+    },
+    {
+      "name": "Frost Bite",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/148.gif"
+    },
+    {
+      "name": "Beardfreeze",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/147.gif"
+    },
+    {
+      "name": "Refusal to Freeze",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/146.gif"
+    },
+    {
+      "name": "Pyromania",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/142.gif"
+    },
+    {
+      "name": "Dinsey Operations Expert",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/132.gif"
+    },
+    {
+      "name": "Garbage Nova",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/131.gif"
+    },
+    {
+      "name": "Olfactory Burnout",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/130.gif"
+    },
+    {
+      "name": "Hypersane",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/119.gif"
+    },
+    {
+      "name": "Alien Source Code",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/115.gif"
+    },
+    {
+      "name": "Unoffendable",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/112.gif"
+    },
+    {
+      "name": "Marginally Insane",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/41.gif"
+    },
+    {
+      "name": "Inappropriate Backrub",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/37.gif"
     },
     {
       "name": "Holiday Multitasking",
@@ -815,9 +1705,64 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/240.gif"
     },
     {
-      "name": "SLEEP(5)",
+      "name": "Attract Snakes",
       "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/242.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/236.gif"
+    },
+    {
+      "name": "Master Egg Hunter",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/239.gif"
+    },
+    {
+      "name": "Reindeer Games",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/238.gif"
+    },
+    {
+      "name": "Hide From Seekers",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/237.gif"
+    },
+    {
+      "name": "Song of Starch",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/103.gif"
+    },
+    {
+      "name": "Song of the North",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/96.gif"
+    },
+    {
+      "name": "Carbohydrate Cudgel",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/93.gif"
+    },
+    {
+      "name": "Eldritch Intellect",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/161.gif"
+    },
+    {
+      "name": "Song of Bravado",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/106.gif"
+    },
+    {
+      "name": "Splashdance",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/104.gif"
+    },
+    {
+      "name": "Conspiratorial Whispers",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/99.gif"
+    },
+    {
+      "name": "Sauceshell",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/98.gif"
     },
     {
       "name": "OVERCLOCK(10)",
@@ -825,34 +1770,14 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/243.gif"
     },
     {
-      "name": "STATS+++",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/244.gif"
+      "name": "Chronic Indigestion",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2.gif"
     },
     {
-      "name": "Generate Irony",
+      "name": "Too Cool",
       "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/245.gif"
-    },
-    {
-      "name": "Holiday Burial Knowledge",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/246.gif"
-    },
-    {
-      "name": "Let's Beat Up This Drunken Sailor",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/247.gif"
-    },
-    {
-      "name": "I'm Smarter Than a Drunken Sailor",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/248.gif"
-    },
-    {
-      "name": "Look At That Drunken Sailor Dance",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/249.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/235.gif"
     },
     {
       "name": "Who's Going to Pay This Drunken Sailor?",
@@ -865,364 +1790,69 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/251.gif"
     },
     {
-      "name": "Seal Clubbing Frenzy",
+      "name": "Look At That Drunken Sailor Dance",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/249.gif"
+    },
+    {
+      "name": "I'm Smarter Than a Drunken Sailor",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/248.gif"
+    },
+    {
+      "name": "Let's Beat Up This Drunken Sailor",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/247.gif"
+    },
+    {
+      "name": "Holiday Burial Knowledge",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/246.gif"
+    },
+    {
+      "name": "Grease Up",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/113.gif"
+    },
+    {
+      "name": "Bow-Legged Swagger",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/153.gif"
+    },
+    {
+      "name": "Bend Hell",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/154.gif"
+    },
+    {
+      "name": "Executive Narcolepsy",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/59.gif"
+    },
+    {
+      "name": "Lunch Break",
       "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1000.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/60.gif"
     },
     {
-      "name": "Thrust-Smack",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1003.gif"
-    },
-    {
-      "name": "Lunge Smack",
+      "name": "Offensive Joke",
       "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1004.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/61.gif"
     },
     {
-      "name": "Lunging Thrust-Smack",
+      "name": "Managerial Manipulation",
       "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1005.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/62.gif"
     },
     {
-      "name": "Super-Advanced Meatsmithing",
+      "name": "STATS+++",
       "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1006.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/244.gif"
     },
     {
-      "name": "Blubber Up",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1007.gif"
-    },
-    {
-      "name": "Fortitude of the Muskox",
+      "name": "SLEEP(5)",
       "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1008.gif"
-    },
-    {
-      "name": "Audacity of the Otter",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1009.gif"
-    },
-    {
-      "name": "Tongue of the Walrus",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1010.gif"
-    },
-    {
-      "name": "Hide of the Walrus",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1011.gif"
-    },
-    {
-      "name": "Claws of the Walrus",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1012.gif"
-    },
-    {
-      "name": "Batter Up!",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1014.gif"
-    },
-    {
-      "name": "Rage of the Reindeer",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1015.gif"
-    },
-    {
-      "name": "Pulverize",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1016.gif"
-    },
-    {
-      "name": "Double-Fisted Skull Smashing",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1017.gif"
-    },
-    {
-      "name": "Northern Exposure",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1018.gif"
-    },
-    {
-      "name": "Musk of the Moose",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1019.gif"
-    },
-    {
-      "name": "Snarl of the Timberwolf",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1020.gif"
-    },
-    {
-      "name": "Clobber",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1022.gif"
-    },
-    {
-      "name": "Harpoon!",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1023.gif"
-    },
-    {
-      "name": "Iron Palm Technique",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1025.gif"
-    },
-    {
-      "name": "Hibernate",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1027.gif"
-    },
-    {
-      "name": "Cold Shoulder",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1028.gif"
-    },
-    {
-      "name": "Wrath of the Wolverine",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1029.gif"
-    },
-    {
-      "name": "Buoyancy of the Beluga",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1030.gif"
-    },
-    {
-      "name": "Scowl of the Auk",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1031.gif"
-    },
-    {
-      "name": "Furious Wallop",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1032.gif"
-    },
-    {
-      "name": "Club Foot",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1033.gif"
-    },
-    {
-      "name": "Seething of the Snow Leopard",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1034.gif"
-    },
-    {
-      "name": "Ire of the Orca",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1035.gif"
-    },
-    {
-      "name": "Thirst of the Weasel",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1036.gif"
-    },
-    {
-      "name": "Cavalcade of Fury",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1037.gif"
-    },
-    {
-      "name": "Northern Explosion",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1038.gif"
-    },
-    {
-      "name": "Precision of the Penguin",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1039.gif"
-    },
-    {
-      "name": "Pride of the Puffin",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1040.gif"
-    },
-    {
-      "name": "Silent Hunter",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1041.gif"
-    },
-    {
-      "name": "Get Big",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1042.gif"
-    },
-    {
-      "name": "Patience of the Tortoise",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2000.gif"
-    },
-    {
-      "name": "Headbutt",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2003.gif"
-    },
-    {
-      "name": "Skin of the Leatherback",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2004.gif"
-    },
-    {
-      "name": "Shieldbutt",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2005.gif"
-    },
-    {
-      "name": "Armorcraftiness",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2006.gif"
-    },
-    {
-      "name": "Ghostly Shell",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2007.gif"
-    },
-    {
-      "name": "Reptilian Fortitude",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2008.gif"
-    },
-    {
-      "name": "Empathy of the Newt",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2009.gif"
-    },
-    {
-      "name": "Tenacity of the Snapper",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2010.gif"
-    },
-    {
-      "name": "Wisdom of the Elder Tortoises",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2011.gif"
-    },
-    {
-      "name": "Astral Shell",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2012.gif"
-    },
-    {
-      "name": "Amphibian Sympathy",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2014.gif"
-    },
-    {
-      "name": "Kneebutt",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2015.gif"
-    },
-    {
-      "name": "Cold-Blooded Fearlessness",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2016.gif"
-    },
-    {
-      "name": "Hero of the Half-Shell",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2020.gif"
-    },
-    {
-      "name": "Tao of the Terrapin",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2021.gif"
-    },
-    {
-      "name": "Spectral Snapper",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2022.gif"
-    },
-    {
-      "name": "Toss",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2023.gif"
-    },
-    {
-      "name": "Summon Leviatuga",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2024.gif"
-    },
-    {
-      "name": "Curiosity of Br'er Tarrypin",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2026.gif"
-    },
-    {
-      "name": "Spirit Vacation",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2027.gif"
-    },
-    {
-      "name": "Shell Up",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2028.gif"
-    },
-    {
-      "name": "Stiff Upper Lip",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2029.gif"
-    },
-    {
-      "name": "Blessing of the War Snapper",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2030.gif"
-    },
-    {
-      "name": "Spiky Shell",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2031.gif"
-    },
-    {
-      "name": "Spirit Snap",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2032.gif"
-    },
-    {
-      "name": "Blessing of She-Who-Was",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2033.gif"
-    },
-    {
-      "name": "Butts of Steel",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2034.gif"
-    },
-    {
-      "name": "Testudinal Teachings",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2035.gif"
-    },
-    {
-      "name": "Pizza Lover",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2036.gif"
-    },
-    {
-      "name": "Blessing of the Storm Tortoise",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2037.gif"
-    },
-    {
-      "name": "The Long View",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2038.gif"
-    },
-    {
-      "name": "Spirit Boon",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2039.gif"
-    },
-    {
-      "name": "Patient Smile",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2040.gif"
-    },
-    {
-      "name": "Turtle Power",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2041.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/242.gif"
     },
     {
       "name": "Quiet Determination",
@@ -1230,564 +1860,9 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2042.gif"
     },
     {
-      "name": "Gallapagosian Mating Call",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2043.gif"
-    },
-    {
-      "name": "Blood Bond",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2044.gif"
-    },
-    {
-      "name": "Manicotti Meditation",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3000.gif"
-    },
-    {
-      "name": "Ravioli Shurikens",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3003.gif"
-    },
-    {
-      "name": "Entangling Noodles",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3004.gif"
-    },
-    {
-      "name": "Cannelloni Cannon",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3005.gif"
-    },
-    {
-      "name": "Pastamastery",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3006.gif"
-    },
-    {
-      "name": "Stuffed Mortar Shell",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3007.gif"
-    },
-    {
-      "name": "Weapon of the Pastalord",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3008.gif"
-    },
-    {
-      "name": "Lasagna Bandages",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3009.gif"
-    },
-    {
-      "name": "Leash of Linguini",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3010.gif"
-    },
-    {
-      "name": "Spirit of Rigatoni",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3011.gif"
-    },
-    {
-      "name": "Cannelloni Cocoon",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3012.gif"
-    },
-    {
-      "name": "Spirit of Ravioli",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3014.gif"
-    },
-    {
-      "name": "Springy Fusilli",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3015.gif"
-    },
-    {
-      "name": "Tolerance of the Kitchen",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3016.gif"
-    },
-    {
-      "name": "Flavour of Magic",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3017.gif"
-    },
-    {
-      "name": "Transcendental Noodlecraft",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3018.gif"
-    },
-    {
-      "name": "Fearful Fettucini",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3019.gif"
-    },
-    {
-      "name": "Spaghetti Spear",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3020.gif"
-    },
-    {
-      "name": "Tempuramancy",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3021.gif"
-    },
-    {
-      "name": "Stringozzi Serpent",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3023.gif"
-    },
-    {
-      "name": "Utensil Twist",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3025.gif"
-    },
-    {
-      "name": "Transcendent Al Dente",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3026.gif"
-    },
-    {
-      "name": "Bind Vampieroghi",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3027.gif"
-    },
-    {
-      "name": "Arched Eyebrow of the Archmage",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3028.gif"
-    },
-    {
-      "name": "Bind Vermincelli",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3029.gif"
-    },
-    {
-      "name": "Bringing Up the Rear",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3030.gif"
-    },
-    {
-      "name": "Bind Angel Hair Wisp",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3031.gif"
-    },
-    {
-      "name": "Shield of the Pastalord",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3032.gif"
-    },
-    {
-      "name": "Bind Undead Elbow Macaroni",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3033.gif"
-    },
-    {
-      "name": "Thrall Unit Tactics",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3034.gif"
-    },
-    {
-      "name": "Bind Penne Dreadful",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3035.gif"
-    },
-    {
-      "name": "Subtle and Quick to Anger",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3036.gif"
-    },
-    {
-      "name": "Bind Lasagmbie",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3037.gif"
-    },
-    {
-      "name": "Wizard Squint",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3038.gif"
-    },
-    {
-      "name": "Bind Spice Ghost",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3039.gif"
-    },
-    {
-      "name": "Bind Spaghetti Elemental",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3041.gif"
-    },
-    {
       "name": "Quiet Judgement",
       "type": "scperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3042.gif"
-    },
-    {
-      "name": "Inscrutable Gaze",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3043.gif"
-    },
-    {
-      "name": "Sauce Contemplation",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4000.gif"
-    },
-    {
-      "name": "Stream of Sauce",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4003.gif"
-    },
-    {
-      "name": "Expert Panhandling",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4004.gif"
-    },
-    {
-      "name": "Saucestorm",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4005.gif"
-    },
-    {
-      "name": "Advanced Saucecrafting",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4006.gif"
-    },
-    {
-      "name": "Elemental Saucesphere",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4007.gif"
-    },
-    {
-      "name": "Jalapeño Saucesphere",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4008.gif"
-    },
-    {
-      "name": "Wave of Sauce",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4009.gif"
-    },
-    {
-      "name": "Intrinsic Spiciness",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4010.gif"
-    },
-    {
-      "name": "Master Saucier",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4011.gif"
-    },
-    {
-      "name": "Saucegeyser",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4012.gif"
-    },
-    {
-      "name": "Saucy Salve",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4014.gif"
-    },
-    {
-      "name": "Impetuous Sauciness",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4015.gif"
-    },
-    {
-      "name": "Diminished Gag Reflex",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4016.gif"
-    },
-    {
-      "name": "Irrepressible Spunk",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4017.gif"
-    },
-    {
-      "name": "The Way of Sauce",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4018.gif"
-    },
-    {
-      "name": "Scarysauce",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4019.gif"
-    },
-    {
-      "name": "Salsaball",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4020.gif"
-    },
-    {
-      "name": "Deep Saucery",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4021.gif"
-    },
-    {
-      "name": "Käsesoßesturm",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4023.gif"
-    },
-    {
-      "name": "Curse of Vichyssoise",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4024.gif"
-    },
-    {
-      "name": "Simmer",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4025.gif"
-    },
-    {
-      "name": "Icy Glare",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4026.gif"
-    },
-    {
-      "name": "Soul Saucery",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4027.gif"
-    },
-    {
-      "name": "Inner Sauce",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4028.gif"
-    },
-    {
-      "name": "Curse of Marinara",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4029.gif"
-    },
-    {
-      "name": "Itchy Curse Finger",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4030.gif"
-    },
-    {
-      "name": "Curse of the Thousand Islands",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4031.gif"
-    },
-    {
-      "name": "Saucecicle",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4032.gif"
-    },
-    {
-      "name": "Antibiotic Saucesphere",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4033.gif"
-    },
-    {
-      "name": "Curse of Weaksauce",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4034.gif"
-    },
-    {
-      "name": "Wry Smile",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4035.gif"
-    },
-    {
-      "name": "Sauce Monocle",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4037.gif"
-    },
-    {
-      "name": "Blood Sugar Sauce Magic",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4038.gif"
-    },
-    {
-      "name": "Saucemaven",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4039.gif"
-    },
-    {
-      "name": "Silent Treatment",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4040.gif"
-    },
-    {
-      "name": "Love Mixology",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4041.gif"
-    },
-    {
-      "name": "Disco Aerobics",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5000.gif"
-    },
-    {
-      "name": "Disco Eye-Poke",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5003.gif"
-    },
-    {
-      "name": "Nimble Fingers",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5004.gif"
-    },
-    {
-      "name": "Disco Dance of Doom",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5005.gif"
-    },
-    {
-      "name": "Mad Looting Skillz",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5006.gif"
-    },
-    {
-      "name": "Disco Nap",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5007.gif"
-    },
-    {
-      "name": "Disco Dance II: Electric Boogaloo",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5008.gif"
-    },
-    {
-      "name": "Disco Fever",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5009.gif"
-    },
-    {
-      "name": "Overdeveloped Sense of Self Preservation",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5010.gif"
-    },
-    {
-      "name": "Adventurer of Leisure",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5011.gif"
-    },
-    {
-      "name": "Disco Face Stab",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5012.gif"
-    },
-    {
-      "name": "Advanced Cocktailcrafting",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5014.gif"
-    },
-    {
-      "name": "Ambidextrous Funkslinging",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5015.gif"
-    },
-    {
-      "name": "Heart of Polyester",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5016.gif"
-    },
-    {
-      "name": "Smooth Movement",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5017.gif"
-    },
-    {
-      "name": "Superhuman Cocktailcrafting",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5018.gif"
-    },
-    {
-      "name": "Tango of Terror",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5019.gif"
-    },
-    {
-      "name": "Suckerpunch",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5021.gif"
-    },
-    {
-      "name": "Salacious Cocktailcrafting",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5022.gif"
-    },
-    {
-      "name": "Kung Fu Hustler",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5024.gif"
-    },
-    {
-      "name": "Deft Hands",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5025.gif"
-    },
-    {
-      "name": "Disco State of Mind",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5026.gif"
-    },
-    {
-      "name": "Frantic Gyrations",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5027.gif"
-    },
-    {
-      "name": "That's Not a Knife",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5028.gif"
-    },
-    {
-      "name": "Tricky Knifework",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5029.gif"
-    },
-    {
-      "name": "Flashy Dancer",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5030.gif"
-    },
-    {
-      "name": "Disco Smirk",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5031.gif"
-    },
-    {
-      "name": "Disco Greed",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5032.gif"
-    },
-    {
-      "name": "Knife in the Dark",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5033.gif"
-    },
-    {
-      "name": "Disco Bravado",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5034.gif"
-    },
-    {
-      "name": "Disco Shank",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5035.gif"
-    },
-    {
-      "name": "Disco Dance 3: Back in the Habit",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5036.gif"
-    },
-    {
-      "name": "Disco Inferno",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5037.gif"
-    },
-    {
-      "name": "Sensitive Fingers",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5038.gif"
-    },
-    {
-      "name": "Disco Leer",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5039.gif"
     },
     {
       "name": "Silent Knife",
@@ -1795,224 +1870,154 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5040.gif"
     },
     {
-      "name": "Acquire Rhinestones",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/5041.gif"
-    },
-    {
-      "name": "Moxie of the Mariachi",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6000.gif"
-    },
-    {
-      "name": "Aloysius' Antiphon of Aptitude",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6003.gif"
-    },
-    {
-      "name": "The Moxious Madrigal",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6004.gif"
-    },
-    {
-      "name": "Cletus's Canticle of Celerity",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6005.gif"
-    },
-    {
-      "name": "The Polka of Plenty",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6006.gif"
-    },
-    {
-      "name": "The Magical Mojomuscular Melody",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6007.gif"
-    },
-    {
-      "name": "The Power Ballad of the Arrowsmith",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6008.gif"
-    },
-    {
-      "name": "Brawnee's Anthem of Absorption",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6009.gif"
-    },
-    {
-      "name": "Fat Leon's Phat Loot Lyric",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6010.gif"
-    },
-    {
-      "name": "The Psalm of Pointiness",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6011.gif"
-    },
-    {
-      "name": "Jackasses' Symphony of Destruction",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6012.gif"
-    },
-    {
-      "name": "Stevedave's Shanty of Superiority",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6013.gif"
-    },
-    {
-      "name": "The Ode to Booze",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6014.gif"
-    },
-    {
-      "name": "The Sonata of Sneakiness",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6015.gif"
-    },
-    {
-      "name": "Carlweather's Cantata of Confrontation",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6016.gif"
-    },
-    {
-      "name": "Ur-Kel's Aria of Annoyance",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6017.gif"
-    },
-    {
-      "name": "Dirge of Dreadfulness",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6018.gif"
-    },
-    {
-      "name": "The Ballad of Richie Thingfinder",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6020.gif"
-    },
-    {
-      "name": "Benetton's Medley of Diversity",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6021.gif"
-    },
-    {
-      "name": "Elron's Explosive Etude",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6022.gif"
-    },
-    {
-      "name": "Chorale of Companionship",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6023.gif"
-    },
-    {
-      "name": "Prelude of Precision",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6024.gif"
-    },
-    {
-      "name": "Sing",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6025.gif"
-    },
-    {
-      "name": "Donho's Bubbly Ballad",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6026.gif"
-    },
-    {
-      "name": "Inigo's Incantation of Inspiration",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6028.gif"
-    },
-    {
-      "name": "Dissonant Riff",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6029.gif"
-    },
-    {
-      "name": "Cadenza",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6030.gif"
-    },
-    {
-      "name": "Crab Claw Technique",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6031.gif"
-    },
-    {
-      "name": "Accordion Bash",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6032.gif"
-    },
-    {
-      "name": "Accordion Appreciation",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6033.gif"
-    },
-    {
-      "name": "Concerto de los Muertos",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6034.gif"
-    },
-    {
-      "name": "Five Finger Discount",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6035.gif"
-    },
-    {
-      "name": "Suspicious Gaze",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6036.gif"
-    },
-    {
-      "name": "Bawdy Refrain",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6037.gif"
-    },
-    {
-      "name": "Thief Among the Honorable",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6038.gif"
-    },
-    {
-      "name": "Sticky Fingers",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6039.gif"
-    },
-    {
-      "name": "Cone of Zydeco",
-      "type": "scperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6040.gif"
-    },
-    {
-      "name": "Master Accordion Master Thief",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6041.gif"
-    },
-    {
-      "name": "Knowing Smile",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6042.gif"
-    },
-    {
-      "name": "Mariachi Memory",
-      "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6043.gif"
-    },
-    {
       "name": "Quiet Desperation",
       "type": "scperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6044.gif"
     },
     {
-      "name": "Paul's Passionate Pop Song",
+      "name": "Belch The Rainbow",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/117.gif"
+    },
+    {
+      "name": "Firegate",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/143.gif"
+    },
+    {
+      "name": "Silent Slam",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/84.gif"
+    },
+    {
+      "name": "Silent Squirt",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/85.gif"
+    },
+    {
+      "name": "Silent Slice",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/86.gif"
+    },
+    {
+      "name": "Calculate the Universe",
       "type": "hcperm",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6045.gif"
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/144.gif"
+    },
+    {
+      "name": "Unaccompanied Miner",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/54.gif"
+    },
+    {
+      "name": "Prevent Scurvy and Sobriety",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/187.gif"
+    },
+    {
+      "name": "Always Never Not Guzzling",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/194.gif"
+    },
+    {
+      "name": "Deep Dark Visions",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/90.gif"
+    },
+    {
+      "name": "Torment Plant",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/77.gif"
+    },
+    {
+      "name": "Pinch Ghost",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/78.gif"
+    },
+    {
+      "name": "Tattle",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/79.gif"
+    },
+    {
+      "name": "Sloppy Secrets",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/114.gif"
+    },
+    {
+      "name": "Astute Angler",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/159.gif"
+    },
+    {
+      "name": "Tiki Mixology",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/186.gif"
+    },
+    {
+      "name": "Generate Irony",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/245.gif"
     },
     {
       "name": "Mild Curse",
       "type": "scperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/17047.gif"
+    },
+    {
+      "name": "Ancestral Recall",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/140.gif"
+    },
+    {
+      "name": "Chip on your Shoulder",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/81.gif"
+    },
+    {
+      "name": "Intimidating Mien",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/120.gif"
+    },
+    {
+      "name": "Rotten Memories",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/133.gif"
+    },
+    {
+      "name": "Chitinous Soul",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/227.gif"
+    },
+    {
+      "name": "Iron Palm Technique",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1025.gif"
+    },
+    {
+      "name": "Healing Salve",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/136.gif"
+    },
+    {
+      "name": "Dark Ritual",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/137.gif"
+    },
+    {
+      "name": "Lightning Bolt",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/138.gif"
+    },
+    {
+      "name": "Giant Growth",
+      "type": "scperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/139.gif"
+    },
+    {
+      "name": "Transcendent Olfaction",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/19.gif"
     }
   ],
   "familiars": [
@@ -2021,20 +2026,24 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/skeletonocp.gif"
     },
     {
-      "name": "Left-Hand Man",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/righthandbody.png"
-    },
-    {
       "name": "Hobo Monkey",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hobomonkey.gif"
     },
     {
-      "name": "Cookbookbat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bbat_fam.gif"
+      "name": "Oily Woim",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/woim.gif"
     },
     {
-      "name": "Melodramedary",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/camelfam_left.gif"
+      "name": "Purse Rat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/purserat.gif"
+    },
+    {
+      "name": "Gelatinous Cubeling",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/gcube.gif"
+    },
+    {
+      "name": "Reassembled Blackbird",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird2.gif"
     },
     {
       "name": "Jumpsuited Hound Dog",
@@ -2045,22 +2054,6 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/nosynose.gif"
     },
     {
-      "name": "Stooper",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam47.gif"
-    },
-    {
-      "name": "Gelatinous Cubeling",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/gcube.gif"
-    },
-    {
-      "name": "Baby Bugged Bugbear",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/babybugbug.gif"
-    },
-    {
-      "name": "Oily Woim",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/woim.gif"
-    },
-    {
       "name": "Exotic Parrot",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/parrot.gif"
     },
@@ -2069,36 +2062,16 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/santaskel.gif"
     },
     {
-      "name": "Reassembled Blackbird",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird2.gif"
-    },
-    {
-      "name": "Pair of Stomping Boots",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/stompboots.gif"
-    },
-    {
-      "name": "Cornbeefadon",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam50.gif"
-    },
-    {
       "name": "Emberiza Aureola",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/emberbird.gif"
-    },
-    {
-      "name": "Purse Rat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/purserat.gif"
-    },
-    {
-      "name": "Foul Ball",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/foulball.gif"
     },
     {
       "name": "Quantum Entangler",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/qf.gif"
     },
     {
-      "name": "Disgeist",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam48.gif"
+      "name": "Hovering Sombrero",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hat2.gif"
     },
     {
       "name": "Slimeling",
@@ -2107,10 +2080,6 @@
     {
       "name": "Grouper Groupie",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/grouper2.gif"
-    },
-    {
-      "name": "Hovering Sombrero",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hat2.gif"
     },
     {
       "name": "Mechanical Songbird",
@@ -2133,36 +2102,12 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar4.gif"
     },
     {
-      "name": "Lil' Barrel Mimic",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/barrelmimic.gif"
-    },
-    {
-      "name": "Twitching Space Critter",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/spacebeastlet.gif"
-    },
-    {
-      "name": "Peppermint Rhino",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pep_rhino.gif"
-    },
-    {
       "name": "Smiling Rat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/smilerat.gif"
     },
     {
-      "name": "Ninja Pirate Zombie Robot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/npzr.gif"
-    },
-    {
       "name": "Stab Bat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar10.gif"
-    },
-    {
-      "name": "Party Mouse",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/partymouse.gif"
-    },
-    {
-      "name": "Warbear Drone",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wbdronefam.gif"
     },
     {
       "name": "Reconstituted Crow",
@@ -2171,14 +2116,6 @@
     {
       "name": "Levitating Potato",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar3.gif"
-    },
-    {
-      "name": "Rock Lobster",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/rocklobster.gif"
-    },
-    {
-      "name": "Antique Nutcracker",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/nutcfigure.gif"
     },
     {
       "name": "Mosquito",
@@ -2195,10 +2132,6 @@
     {
       "name": "Heat Wave",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/heatwave.gif"
-    },
-    {
-      "name": "Yule Hound",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/yulehound.gif"
     },
     {
       "name": "Baby Z-Rex",
@@ -2225,20 +2158,8 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar16.gif"
     },
     {
-      "name": "Mini-Trainbot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/tbot_on.gif"
-    },
-    {
-      "name": "Chocolate Lab",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chocolab.gif"
-    },
-    {
       "name": "Glover",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/glover.gif"
-    },
-    {
-      "name": "Holiday Log",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/holidaylog.gif"
     },
     {
       "name": "Observer",
@@ -2255,14 +2176,6 @@
     {
       "name": "Defective Childrens' Stapler",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/kidstaplerbad.gif"
-    },
-    {
-      "name": "Homemade Robot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/homemadebot.gif"
-    },
-    {
-      "name": "Software Bug",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/softwarebug.gif"
     },
     {
       "name": "Adorable Seal Larva",
@@ -2289,26 +2202,6 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chihuahua.gif"
     },
     {
-      "name": "Pair of Ragged Claws",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/raggedclaws.gif"
-    },
-    {
-      "name": "Dataspider",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/dataspider.gif"
-    },
-    {
-      "name": "Unspeakachu",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam46.gif"
-    },
-    {
-      "name": "Bowlet",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam49.gif"
-    },
-    {
-      "name": "Pet Coral",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/petcoral.gif"
-    },
-    {
       "name": "Sabre-Toothed Lime",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar5.gif"
     },
@@ -2327,10 +2220,6 @@
     {
       "name": "Grue",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar11.gif"
-    },
-    {
-      "name": "RoboGoose",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/robogoose.gif"
     },
     {
       "name": "Imitation Crab",
@@ -2361,14 +2250,6 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/urchin.gif"
     },
     {
-      "name": "Xiblaxian Holo-Companion",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/holobuddy.gif"
-    },
-    {
-      "name": "Cute Meteor",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cutemeteor.gif"
-    },
-    {
       "name": "Cool Cucumber",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/coolcuke.gif"
     },
@@ -2389,14 +2270,6 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar33.gif"
     },
     {
-      "name": "Pet Rock",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar45.gif"
-    },
-    {
-      "name": "Snowy Owl",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar46.gif"
-    },
-    {
       "name": "Misshapen Animal Skeleton",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/animskel.gif"
     },
@@ -2409,16 +2282,8 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/snowflake.gif"
     },
     {
-      "name": "Toothsome Rock",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pettoothrock.gif"
-    },
-    {
       "name": "Ragamuffin Imp",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ragimp.gif"
-    },
-    {
-      "name": "Bulky Buddy Box",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wcb.gif"
     },
     {
       "name": "Zapper Bug",
@@ -2445,10 +2310,6 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar17.gif"
     },
     {
-      "name": "Hanukkimbo Dreidl",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar27.gif"
-    },
-    {
       "name": "Clockwork Grapefruit",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar32.gif"
     },
@@ -2465,20 +2326,200 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/sgfairy.gif"
     },
     {
-      "name": "Teddy Bear",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar47.gif"
-    },
-    {
       "name": "Sleazy Gravy Fairy",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/slgfairy.gif"
     },
     {
-      "name": "Wind-up Chattering Teeth",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chatteeth.gif"
-    },
-    {
       "name": "Origami Towel Crane",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/crane1.gif"
+    },
+    {
+      "name": "Hovering Skull",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/talkskull.gif"
+    },
+    {
+      "name": "Putty Buddy",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/puttybuddy.gif"
+    },
+    {
+      "name": "Topiary Skunk",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/topiskunk.gif"
+    },
+    {
+      "name": "Piranha Plant",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/piranhaplant.gif"
+    },
+    {
+      "name": "Pixel Rock",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pixelrock.gif"
+    },
+    {
+      "name": "Doll Moll",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/molldoll.gif"
+    },
+    {
+      "name": "Golden Pet Rock",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ts_goldrock.gif"
+    },
+    {
+      "name": "Profane Parrot",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ts_parrot2.gif"
+    },
+    {
+      "name": "Significant Bit",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cr_sbit.gif"
+    },
+    {
+      "name": "Cute Skeletal Dinosaur",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bonedino.gif"
+    },
+    {
+      "name": "Left-Hand Man",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/righthandbody.png"
+    },
+    {
+      "name": "Cookbookbat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bbat_fam.gif"
+    },
+    {
+      "name": "Melodramedary",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/camelfam_left.gif"
+    },
+    {
+      "name": "Stooper",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam47.gif"
+    },
+    {
+      "name": "Baby Bugged Bugbear",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/babybugbug.gif"
+    },
+    {
+      "name": "Pair of Stomping Boots",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/stompboots.gif"
+    },
+    {
+      "name": "Cornbeefadon",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam50.gif"
+    },
+    {
+      "name": "Disgeist",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam48.gif"
+    },
+    {
+      "name": "Lil' Barrel Mimic",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/barrelmimic.gif"
+    },
+    {
+      "name": "Twitching Space Critter",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/spacebeastlet.gif"
+    },
+    {
+      "name": "Peppermint Rhino",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pep_rhino.gif"
+    },
+    {
+      "name": "Ninja Pirate Zombie Robot",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/npzr.gif"
+    },
+    {
+      "name": "Party Mouse",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/partymouse.gif"
+    },
+    {
+      "name": "Warbear Drone",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wbdronefam.gif"
+    },
+    {
+      "name": "Rock Lobster",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/rocklobster.gif"
+    },
+    {
+      "name": "Antique Nutcracker",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/nutcfigure.gif"
+    },
+    {
+      "name": "Chocolate Lab",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chocolab.gif"
+    },
+    {
+      "name": "Yule Hound",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/yulehound.gif"
+    },
+    {
+      "name": "Mini-Trainbot",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/tbot_on.gif"
+    },
+    {
+      "name": "Holiday Log",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/holidaylog.gif"
+    },
+    {
+      "name": "Homemade Robot",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/homemadebot.gif"
+    },
+    {
+      "name": "Software Bug",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/softwarebug.gif"
+    },
+    {
+      "name": "Pair of Ragged Claws",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/raggedclaws.gif"
+    },
+    {
+      "name": "Dataspider",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/dataspider.gif"
+    },
+    {
+      "name": "Unspeakachu",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam46.gif"
+    },
+    {
+      "name": "Bowlet",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam49.gif"
+    },
+    {
+      "name": "Pet Coral",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/petcoral.gif"
+    },
+    {
+      "name": "RoboGoose",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/robogoose.gif"
+    },
+    {
+      "name": "Xiblaxian Holo-Companion",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/holobuddy.gif"
+    },
+    {
+      "name": "Cute Meteor",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cutemeteor.gif"
+    },
+    {
+      "name": "Pet Rock",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar45.gif"
+    },
+    {
+      "name": "Snowy Owl",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar46.gif"
+    },
+    {
+      "name": "Toothsome Rock",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pettoothrock.gif"
+    },
+    {
+      "name": "Bulky Buddy Box",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wcb.gif"
+    },
+    {
+      "name": "Hanukkimbo Dreidl",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar27.gif"
+    },
+    {
+      "name": "Teddy Bear",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar47.gif"
+    },
+    {
+      "name": "Wind-up Chattering Teeth",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chatteeth.gif"
     },
     {
       "name": "Evil Teddy Bear",
@@ -2517,24 +2558,12 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/flameface.gif"
     },
     {
-      "name": "Hovering Skull",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/talkskull.gif"
-    },
-    {
       "name": "Mini-Skulldozer",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/minidozer.gif"
     },
     {
-      "name": "Putty Buddy",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/puttybuddy.gif"
-    },
-    {
       "name": "Mini-Crimbot",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/minicrimbot.gif"
-    },
-    {
-      "name": "Topiary Skunk",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/topiskunk.gif"
     },
     {
       "name": "Sludgepuppy",
@@ -2553,20 +2582,12 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pr_rogerskull.gif"
     },
     {
-      "name": "Piranha Plant",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/piranhaplant.gif"
-    },
-    {
       "name": "Arachnelf",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/arachnelf.gif"
     },
     {
       "name": "Synthetic Rock",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/synthrock.gif"
-    },
-    {
-      "name": "Pixel Rock",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pixelrock.gif"
     },
     {
       "name": "Flaming Leafcutter Ant",
@@ -2581,24 +2602,8 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/anchor.gif"
     },
     {
-      "name": "Doll Moll",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/molldoll.gif"
-    },
-    {
-      "name": "Golden Pet Rock",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ts_goldrock.gif"
-    },
-    {
-      "name": "Profane Parrot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ts_parrot2.gif"
-    },
-    {
-      "name": "Significant Bit",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cr_sbit.gif"
-    },
-    {
-      "name": "Cute Skeletal Dinosaur",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bonedino.gif"
+      "name": "Foul Ball",
+      "img": ""
     }
   ],
   "trophies": [
@@ -4411,6 +4416,7 @@
     "bejazzled eyepatch",
     "bewitching boots",
     "biker's hat",
+    "bitter bowtie",
     "blue LavaCo Lamp™",
     "bone-polishing rag",
     "book of facts",
@@ -4448,6 +4454,7 @@
     "gingerbeard",
     "gingerbread gavel",
     "gingerbread mask",
+    "gingerbread moneybag",
     "gingerbread pistol",
     "gingerservo",
     "glass eye",
@@ -4495,6 +4502,7 @@
     "packaged backup camera",
     "packaged familiar scrapbook",
     "packaged knock-off retro superhero cape",
+    "packaged model train set",
     "paint palette",
     "paraffin pendant",
     "paraffin poncho",
@@ -4564,7 +4572,6 @@
     "fairy-worn boots",
     "mummified entombed cookbookbat",
     "neverending party invitation envelope",
-    "packaged model train set",
     "panicked kernel",
     "potted tea tree",
     "sinistral homunculus",
@@ -7910,6 +7917,15 @@
       "name": "snakebite"
     },
     {
+      "name": "snakeskin cowboy hat"
+    },
+    {
+      "name": "snakeskin jacket"
+    },
+    {
+      "name": "snakeskin thighboots"
+    },
+    {
       "name": "soft green echo eyedrop antidote martini"
     },
     {
@@ -8546,6 +8562,9 @@
       "name": "wumpus-hair net"
     },
     {
+      "name": "wumpus-hair sweater"
+    },
+    {
       "name": "wumpus-hair whip"
     },
     {
@@ -8611,7 +8630,16 @@
       "name": "\"salvaged\" wine"
     },
     {
+      "name": "1950 Vampire Vintner wine"
+    },
+    {
       "name": "5-hour acrimony"
+    },
+    {
+      "name": "Acqua Del Piatto Merlot"
+    },
+    {
+      "name": "Acque Luride Grezze Cabernet"
     },
     {
       "name": "Afternoon Delight"
@@ -8713,6 +8741,9 @@
       "name": "Chunky Mary"
     },
     {
+      "name": "Citrus Crush wine cooler"
+    },
+    {
       "name": "Cobb's Knob Wurstbrau"
     },
     {
@@ -8729,6 +8760,9 @@
     },
     {
       "name": "Crazymaker"
+    },
+    {
+      "name": "Crimbo dinner"
     },
     {
       "name": "Crimbojito"
@@ -8749,6 +8783,9 @@
       "name": "DUFRESNE Suds"
     },
     {
+      "name": "Dad's brandy"
+    },
+    {
       "name": "Dark & Starry"
     },
     {
@@ -8765,6 +8802,9 @@
     },
     {
       "name": "Doc Clock's thyme cocktail"
+    },
+    {
+      "name": "Doc's Fortifying Wine"
     },
     {
       "name": "Doublepunchplanter"
@@ -8807,6 +8847,9 @@
     },
     {
       "name": "Earth, Wind and Firewater"
+    },
+    {
+      "name": "Electric Punch"
     },
     {
       "name": "Elfin shortbread"
@@ -8921,6 +8964,9 @@
     },
     {
       "name": "Herringtini"
+    },
+    {
+      "name": "Hide-rox™ cookie"
     },
     {
       "name": "Highest Bitter"
@@ -9061,6 +9107,9 @@
       "name": "Phil Collins"
     },
     {
+      "name": "Phlegethon"
+    },
+    {
       "name": "Pizza of Legend"
     },
     {
@@ -9104,6 +9153,9 @@
     },
     {
       "name": "Sazuruk-hai"
+    },
+    {
+      "name": "Scorpion Bowl"
     },
     {
       "name": "Shot of the Living Dead"
@@ -9317,6 +9369,9 @@
     },
     {
       "name": "beavermouth"
+    },
+    {
+      "name": "beefy fish meat"
     },
     {
       "name": "bishop cookie"
@@ -9631,6 +9686,9 @@
       "name": "delicious spicy noodles"
     },
     {
+      "name": "denastified haunch"
+    },
+    {
       "name": "desiccated apricot"
     },
     {
@@ -9850,6 +9908,9 @@
       "name": "green drunki-bear"
     },
     {
+      "name": "green hamhock"
+    },
+    {
       "name": "grilled mooseflank"
     },
     {
@@ -9866,6 +9927,9 @@
     },
     {
       "name": "haggis-wrapped haggis-stuffed haggis"
+    },
+    {
+      "name": "half double fruitcake"
     },
     {
       "name": "hamburger"
@@ -9949,6 +10013,9 @@
       "name": "incredible pizza"
     },
     {
+      "name": "initiative shawarma"
+    },
+    {
       "name": "insanely spicy bean burrito"
     },
     {
@@ -9970,6 +10037,9 @@
       "name": "jerky coins"
     },
     {
+      "name": "jumping bean burrito"
+    },
+    {
       "name": "jumping horseradish"
     },
     {
@@ -9982,6 +10052,9 @@
       "name": "junk yard"
     },
     {
+      "name": "karma shawarma"
+    },
+    {
       "name": "ketchup"
     },
     {
@@ -9992,6 +10065,9 @@
     },
     {
       "name": "kumquat"
+    },
+    {
+      "name": "laser-broiled pear"
     },
     {
       "name": "later tots"
@@ -10019,6 +10095,9 @@
     },
     {
       "name": "lumbering jack"
+    },
+    {
+      "name": "lychee chuhai"
     },
     {
       "name": "mana curds"
@@ -10126,6 +10205,9 @@
       "name": "papaya slung"
     },
     {
+      "name": "parisian cathouse"
+    },
+    {
       "name": "party beer bomb"
     },
     {
@@ -10189,7 +10271,13 @@
       "name": "pickled bread"
     },
     {
+      "name": "piece of cake"
+    },
+    {
       "name": "piece of wedding cake"
+    },
+    {
+      "name": "pile of wet dates"
     },
     {
       "name": "pink pony"
@@ -10219,10 +10307,31 @@
       "name": "plain snowcone"
     },
     {
+      "name": "plate of Frigid Northern Beans"
+    },
+    {
+      "name": "plate of Heimz Fortified Kidney Beans"
+    },
+    {
       "name": "plate of Hellfire Spicy Beans"
     },
     {
       "name": "plate of Mixed Garbanzos and Chickpeas"
+    },
+    {
+      "name": "plate of Shrub's Premium Baked Beans"
+    },
+    {
+      "name": "plate of Tesla's Electroplated Beans"
+    },
+    {
+      "name": "plate of Trader Olaf's Exotic Stinkbeans"
+    },
+    {
+      "name": "plate of Val-U Brand Every Bean Salad"
+    },
+    {
+      "name": "plate of World's Blackest-Eyed Peas"
     },
     {
       "name": "plum"
@@ -10267,6 +10376,9 @@
       "name": "ratbatatouille"
     },
     {
+      "name": "red ale"
+    },
+    {
       "name": "red drunki-bear"
     },
     {
@@ -10309,6 +10421,9 @@
       "name": "rook cookie"
     },
     {
+      "name": "rum and cola"
+    },
+    {
       "name": "runny fermented egg"
     },
     {
@@ -10322,6 +10437,9 @@
     },
     {
       "name": "salted mutton"
+    },
+    {
+      "name": "sandwich of the gods"
     },
     {
       "name": "sangria"
@@ -10421,6 +10539,9 @@
     },
     {
       "name": "soft green echo eyedrop antidote martini"
+    },
+    {
+      "name": "soilzerac"
     },
     {
       "name": "space wine"
@@ -10600,6 +10721,9 @@
       "name": "toast with stench jelly"
     },
     {
+      "name": "tobiko-infused sake"
+    },
+    {
       "name": "tofurkey gravy"
     },
     {
@@ -10651,6 +10775,9 @@
       "name": "vintage smart drink"
     },
     {
+      "name": "vodka stinger"
+    },
+    {
       "name": "vodka stratocaster"
     },
     {
@@ -10682,6 +10809,9 @@
     },
     {
       "name": "whalesteak"
+    },
+    {
+      "name": "wheel of camembert"
     },
     {
       "name": "whiskey bittersweet"
@@ -10718,25 +10848,25 @@
     }
   ],
   "code_binder": [
-    "Poker Room",
-    "eXtreme Slope",
-    "The Arid, Extra-Dry Desert",
-    "Cobb's Knob Menagerie, Level 3",
-    "Camp Logging Camp",
+    "Enormous Greater-Than Sign",
     "Lair of the Ninja Snowmen",
+    "Frat Battlefield",
     "Sleazy Back Alley",
     "\"Fun\" House",
-    "Frat Battlefield",
-    "Enormous Greater-Than Sign",
-    "Thugnderdome",
-    "Defiled Nook",
-    "Road to White Citadel",
-    "Noob Cave",
     "Penultimate Fantasy Airship",
-    "The Unquiet Garves",
+    "Camp Logging Camp",
+    "Bugbear Pen",
     "Cola Wars Battlefield",
+    "Road to White Citadel",
+    "Thugnderdome",
+    "eXtreme Slope",
+    "The Arid, Extra-Dry Desert",
+    "Defiled Nook",
+    "Noob Cave",
+    "Poker Room",
     "Belowdecks",
+    "Cobb's Knob Menagerie, Level 3",
     "Limerick Dungeon",
-    "Bugbear Pen"
+    "The Unquiet Garves"
   ]
 }
