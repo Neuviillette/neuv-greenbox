@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-26 02:43 UTC",
+  "generated_at": "2026-06-09 04:12 UTC",
   "character": {
     "name": "Neuviilette",
     "player_id": "3363484",
-    "level": 13,
-    "class_id": 6,
-    "class_name": "Accordion Thief",
-    "ascensions": 288
+    "level": 29,
+    "class_id": 1,
+    "class_name": "Seal Clubber",
+    "ascensions": 295
   },
   "skills": [
     {
@@ -536,7 +536,7 @@
     },
     {
       "name": "Prelude of Precision",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6024.gif"
     },
     {
@@ -576,7 +576,7 @@
     },
     {
       "name": "Speluck",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/129.gif"
     },
     {
@@ -646,7 +646,7 @@
     },
     {
       "name": "Really Expensive Jewelrycrafting",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/20.gif"
     },
     {
@@ -1231,7 +1231,7 @@
     },
     {
       "name": "Blubber Up",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1007.gif"
     },
     {
@@ -1291,7 +1291,7 @@
     },
     {
       "name": "Northern Explosion",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1038.gif"
     },
     {
@@ -1421,7 +1421,7 @@
     },
     {
       "name": "Thrall Unit Tactics",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3034.gif"
     },
     {
@@ -1626,7 +1626,7 @@
     },
     {
       "name": "Ceci N'Est Pas Un Chapeau",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/165.gif"
     },
     {
@@ -1681,7 +1681,7 @@
     },
     {
       "name": "Alien Source Code",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/115.gif"
     },
     {
@@ -1761,7 +1761,7 @@
     },
     {
       "name": "Sauceshell",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/98.gif"
     },
     {
@@ -1856,12 +1856,12 @@
     },
     {
       "name": "Quiet Determination",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2042.gif"
     },
     {
       "name": "Quiet Judgement",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3042.gif"
     },
     {
@@ -1871,7 +1871,7 @@
     },
     {
       "name": "Quiet Desperation",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6044.gif"
     },
     {
@@ -1911,12 +1911,12 @@
     },
     {
       "name": "Prevent Scurvy and Sobriety",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/187.gif"
     },
     {
       "name": "Always Never Not Guzzling",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/194.gif"
     },
     {
@@ -1986,7 +1986,7 @@
     },
     {
       "name": "Chitinous Soul",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/227.gif"
     },
     {
@@ -2026,24 +2026,24 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/skeletonocp.gif"
     },
     {
+      "name": "Pair of Stomping Boots",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/stompboots.gif"
+    },
+    {
+      "name": "Left-Hand Man",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/righthandbody.png"
+    },
+    {
       "name": "Hobo Monkey",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hobomonkey.gif"
     },
     {
-      "name": "Oily Woim",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/woim.gif"
+      "name": "Cookbookbat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bbat_fam.gif"
     },
     {
-      "name": "Purse Rat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/purserat.gif"
-    },
-    {
-      "name": "Gelatinous Cubeling",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/gcube.gif"
-    },
-    {
-      "name": "Reassembled Blackbird",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird2.gif"
+      "name": "Melodramedary",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/camelfam_left.gif"
     },
     {
       "name": "Jumpsuited Hound Dog",
@@ -2054,24 +2054,72 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/nosynose.gif"
     },
     {
+      "name": "Stooper",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam47.gif"
+    },
+    {
+      "name": "Gelatinous Cubeling",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/gcube.gif"
+    },
+    {
+      "name": "Baby Bugged Bugbear",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/babybugbug.gif"
+    },
+    {
+      "name": "Oily Woim",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/woim.gif"
+    },
+    {
       "name": "Exotic Parrot",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/parrot.gif"
+    },
+    {
+      "name": "Mini Kiwi",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/kiwi_kiwi.gif"
+    },
+    {
+      "name": "Reassembled Blackbird",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird2.gif"
     },
     {
       "name": "Tiny Plastic Santa Claus Skeleton",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/santaskel.gif"
     },
     {
-      "name": "Emberiza Aureola",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/emberbird.gif"
+      "name": "Cornbeefadon",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam50.gif"
+    },
+    {
+      "name": "Purse Rat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/purserat.gif"
+    },
+    {
+      "name": "Mu",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam8675309.gif"
+    },
+    {
+      "name": "Glover",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/glover.gif"
+    },
+    {
+      "name": "Foul Ball",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/foulball.gif"
     },
     {
       "name": "Quantum Entangler",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/qf.gif"
     },
     {
-      "name": "Hovering Sombrero",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hat2.gif"
+      "name": "Chocolate Lab",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chocolab.gif"
+    },
+    {
+      "name": "Leprechaun",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar2.gif"
+    },
+    {
+      "name": "Disgeist",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam48.gif"
     },
     {
       "name": "Slimeling",
@@ -2082,16 +2130,16 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/grouper2.gif"
     },
     {
+      "name": "Hovering Sombrero",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/hat2.gif"
+    },
+    {
       "name": "Mechanical Songbird",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/mechbird.gif"
     },
     {
       "name": "Cuddlefish",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cuddlefish.gif"
-    },
-    {
-      "name": "Leprechaun",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar2.gif"
     },
     {
       "name": "Burly Bodyguard",
@@ -2102,40 +2150,80 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar4.gif"
     },
     {
+      "name": "Lil' Barrel Mimic",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/barrelmimic.gif"
+    },
+    {
+      "name": "Twitching Space Critter",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/spacebeastlet.gif"
+    },
+    {
+      "name": "Peppermint Rhino",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pep_rhino.gif"
+    },
+    {
       "name": "Smiling Rat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/smilerat.gif"
+    },
+    {
+      "name": "Ninja Pirate Zombie Robot",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/npzr.gif"
     },
     {
       "name": "Stab Bat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar10.gif"
     },
     {
-      "name": "Reconstituted Crow",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird1.gif"
+      "name": "Party Mouse",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/partymouse.gif"
     },
     {
-      "name": "Levitating Potato",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar3.gif"
+      "name": "Warbear Drone",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wbdronefam.gif"
+    },
+    {
+      "name": "Reconstituted Crow",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird1.gif"
     },
     {
       "name": "Mosquito",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar1.gif"
     },
     {
-      "name": "Adorable Space Buddy",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/starbuddy.gif"
+      "name": "Levitating Potato",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar3.gif"
     },
     {
-      "name": "Frozen Gravy Fairy",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar35.gif"
+      "name": "Rock Lobster",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/rocklobster.gif"
+    },
+    {
+      "name": "Emberiza Aureola",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/emberbird.gif"
+    },
+    {
+      "name": "Antique Nutcracker",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/nutcfigure.gif"
+    },
+    {
+      "name": "Adorable Space Buddy",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/starbuddy.gif"
     },
     {
       "name": "Heat Wave",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/heatwave.gif"
     },
     {
+      "name": "Frozen Gravy Fairy",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar35.gif"
+    },
+    {
       "name": "Baby Z-Rex",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/babyzrex.gif"
+    },
+    {
+      "name": "Yule Hound",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/yulehound.gif"
     },
     {
       "name": "Cold Cut",
@@ -2158,8 +2246,12 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar16.gif"
     },
     {
-      "name": "Glover",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/glover.gif"
+      "name": "Mini-Trainbot",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/tbot_on.gif"
+    },
+    {
+      "name": "Holiday Log",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/holidaylog.gif"
     },
     {
       "name": "Observer",
@@ -2176,6 +2268,18 @@
     {
       "name": "Defective Childrens' Stapler",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/kidstaplerbad.gif"
+    },
+    {
+      "name": "Homemade Robot",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/homemadebot.gif"
+    },
+    {
+      "name": "Software Bug",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/softwarebug.gif"
+    },
+    {
+      "name": "Spooky Gravy Fairy",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/sgfairy.gif"
     },
     {
       "name": "Adorable Seal Larva",
@@ -2202,6 +2306,26 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chihuahua.gif"
     },
     {
+      "name": "Pair of Ragged Claws",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/raggedclaws.gif"
+    },
+    {
+      "name": "Dataspider",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/dataspider.gif"
+    },
+    {
+      "name": "Unspeakachu",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam46.gif"
+    },
+    {
+      "name": "Bowlet",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam49.gif"
+    },
+    {
+      "name": "Pet Coral",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/petcoral.gif"
+    },
+    {
       "name": "Sabre-Toothed Lime",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar5.gif"
     },
@@ -2220,6 +2344,10 @@
     {
       "name": "Grue",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar11.gif"
+    },
+    {
+      "name": "RoboGoose",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/robogoose.gif"
     },
     {
       "name": "Imitation Crab",
@@ -2250,6 +2378,14 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/urchin.gif"
     },
     {
+      "name": "Xiblaxian Holo-Companion",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/holobuddy.gif"
+    },
+    {
+      "name": "Cute Meteor",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cutemeteor.gif"
+    },
+    {
       "name": "Cool Cucumber",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/coolcuke.gif"
     },
@@ -2270,6 +2406,14 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar33.gif"
     },
     {
+      "name": "Pet Rock",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar45.gif"
+    },
+    {
+      "name": "Snowy Owl",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar46.gif"
+    },
+    {
       "name": "Misshapen Animal Skeleton",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/animskel.gif"
     },
@@ -2282,8 +2426,16 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/snowflake.gif"
     },
     {
+      "name": "Toothsome Rock",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pettoothrock.gif"
+    },
+    {
       "name": "Ragamuffin Imp",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ragimp.gif"
+    },
+    {
+      "name": "Bulky Buddy Box",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wcb.gif"
     },
     {
       "name": "Zapper Bug",
@@ -2310,6 +2462,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar17.gif"
     },
     {
+      "name": "Hanukkimbo Dreidl",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar27.gif"
+    },
+    {
       "name": "Clockwork Grapefruit",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar32.gif"
     },
@@ -2322,204 +2478,20 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar36.gif"
     },
     {
-      "name": "Spooky Gravy Fairy",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/sgfairy.gif"
+      "name": "Teddy Bear",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar47.gif"
     },
     {
       "name": "Sleazy Gravy Fairy",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/slgfairy.gif"
     },
     {
-      "name": "Origami Towel Crane",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/crane1.gif"
-    },
-    {
-      "name": "Hovering Skull",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/talkskull.gif"
-    },
-    {
-      "name": "Putty Buddy",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/puttybuddy.gif"
-    },
-    {
-      "name": "Topiary Skunk",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/topiskunk.gif"
-    },
-    {
-      "name": "Piranha Plant",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/piranhaplant.gif"
-    },
-    {
-      "name": "Pixel Rock",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pixelrock.gif"
-    },
-    {
-      "name": "Doll Moll",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/molldoll.gif"
-    },
-    {
-      "name": "Golden Pet Rock",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ts_goldrock.gif"
-    },
-    {
-      "name": "Profane Parrot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ts_parrot2.gif"
-    },
-    {
-      "name": "Significant Bit",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cr_sbit.gif"
-    },
-    {
-      "name": "Cute Skeletal Dinosaur",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bonedino.gif"
-    },
-    {
-      "name": "Left-Hand Man",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/righthandbody.png"
-    },
-    {
-      "name": "Cookbookbat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bbat_fam.gif"
-    },
-    {
-      "name": "Melodramedary",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/camelfam_left.gif"
-    },
-    {
-      "name": "Stooper",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam47.gif"
-    },
-    {
-      "name": "Baby Bugged Bugbear",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/babybugbug.gif"
-    },
-    {
-      "name": "Pair of Stomping Boots",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/stompboots.gif"
-    },
-    {
-      "name": "Cornbeefadon",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam50.gif"
-    },
-    {
-      "name": "Disgeist",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam48.gif"
-    },
-    {
-      "name": "Lil' Barrel Mimic",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/barrelmimic.gif"
-    },
-    {
-      "name": "Twitching Space Critter",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/spacebeastlet.gif"
-    },
-    {
-      "name": "Peppermint Rhino",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pep_rhino.gif"
-    },
-    {
-      "name": "Ninja Pirate Zombie Robot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/npzr.gif"
-    },
-    {
-      "name": "Party Mouse",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/partymouse.gif"
-    },
-    {
-      "name": "Warbear Drone",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wbdronefam.gif"
-    },
-    {
-      "name": "Rock Lobster",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/rocklobster.gif"
-    },
-    {
-      "name": "Antique Nutcracker",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/nutcfigure.gif"
-    },
-    {
-      "name": "Chocolate Lab",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chocolab.gif"
-    },
-    {
-      "name": "Yule Hound",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/yulehound.gif"
-    },
-    {
-      "name": "Mini-Trainbot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/tbot_on.gif"
-    },
-    {
-      "name": "Holiday Log",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/holidaylog.gif"
-    },
-    {
-      "name": "Homemade Robot",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/homemadebot.gif"
-    },
-    {
-      "name": "Software Bug",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/softwarebug.gif"
-    },
-    {
-      "name": "Pair of Ragged Claws",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/raggedclaws.gif"
-    },
-    {
-      "name": "Dataspider",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/dataspider.gif"
-    },
-    {
-      "name": "Unspeakachu",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam46.gif"
-    },
-    {
-      "name": "Bowlet",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam49.gif"
-    },
-    {
-      "name": "Pet Coral",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/petcoral.gif"
-    },
-    {
-      "name": "RoboGoose",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/robogoose.gif"
-    },
-    {
-      "name": "Xiblaxian Holo-Companion",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/holobuddy.gif"
-    },
-    {
-      "name": "Cute Meteor",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cutemeteor.gif"
-    },
-    {
-      "name": "Pet Rock",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar45.gif"
-    },
-    {
-      "name": "Snowy Owl",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar46.gif"
-    },
-    {
-      "name": "Toothsome Rock",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pettoothrock.gif"
-    },
-    {
-      "name": "Bulky Buddy Box",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wcb.gif"
-    },
-    {
-      "name": "Hanukkimbo Dreidl",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar27.gif"
-    },
-    {
-      "name": "Teddy Bear",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar47.gif"
-    },
-    {
       "name": "Wind-up Chattering Teeth",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chatteeth.gif"
+    },
+    {
+      "name": "Origami Towel Crane",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/crane1.gif"
     },
     {
       "name": "Evil Teddy Bear",
@@ -2558,16 +2530,32 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/flameface.gif"
     },
     {
+      "name": "Hovering Skull",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/talkskull.gif"
+    },
+    {
       "name": "Mini-Skulldozer",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/minidozer.gif"
+    },
+    {
+      "name": "Putty Buddy",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/puttybuddy.gif"
     },
     {
       "name": "Mini-Crimbot",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/minicrimbot.gif"
     },
     {
+      "name": "Topiary Skunk",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/topiskunk.gif"
+    },
+    {
       "name": "Sludgepuppy",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/sludgepuppy.gif"
+    },
+    {
+      "name": "Baby Mayonnaise Wasp",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/mayowasp.gif"
     },
     {
       "name": "Restless Cow Skull",
@@ -2578,8 +2566,16 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/lilbadvibe.gif"
     },
     {
+      "name": "Sausage Golem",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/saugrindgolem.gif"
+    },
+    {
       "name": "Plastic Pirate Skull",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pr_rogerskull.gif"
+    },
+    {
+      "name": "Piranha Plant",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/piranhaplant.gif"
     },
     {
       "name": "Arachnelf",
@@ -2588,6 +2584,10 @@
     {
       "name": "Synthetic Rock",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/synthrock.gif"
+    },
+    {
+      "name": "Pixel Rock",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pixelrock.gif"
     },
     {
       "name": "Flaming Leafcutter Ant",
@@ -2602,8 +2602,24 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/anchor.gif"
     },
     {
-      "name": "Foul Ball",
-      "img": ""
+      "name": "Doll Moll",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/molldoll.gif"
+    },
+    {
+      "name": "Golden Pet Rock",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ts_goldrock.gif"
+    },
+    {
+      "name": "Profane Parrot",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/ts_parrot2.gif"
+    },
+    {
+      "name": "Significant Bit",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cr_sbit.gif"
+    },
+    {
+      "name": "Cute Skeletal Dinosaur",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bonedino.gif"
     }
   ],
   "trophies": [
@@ -3258,8 +3274,12 @@
   ],
   "tattoos": [
     {
-      "name": "radiotat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/radiotat.gif"
+      "name": "demontat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/demontat.gif"
+    },
+    {
+      "name": "allytat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/allytat.gif"
     },
     {
       "name": "al_tat",
@@ -3550,6 +3570,14 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/class32hc.gif"
     },
     {
+      "name": "class33",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/class33.gif"
+    },
+    {
+      "name": "class33hc",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/class33hc.gif"
+    },
+    {
       "name": "class3hc",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/class3hc.gif"
     },
@@ -3632,10 +3660,6 @@
     {
       "name": "debbietat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/debbietat.gif"
-    },
-    {
-      "name": "demontat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/demontat.gif"
     },
     {
       "name": "dentaltat",
@@ -3898,6 +3922,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/losertat.gif"
     },
     {
+      "name": "lunartat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/lunartat.gif"
+    },
+    {
       "name": "margaraxe",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/margaraxe.gif"
     },
@@ -3982,6 +4010,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/pirate.gif"
     },
     {
+      "name": "prealmtat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/prealmtat.gif"
+    },
+    {
       "name": "pressietat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/pressietat.gif"
     },
@@ -3992,6 +4024,10 @@
     {
       "name": "psychictat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/psychictat.gif"
+    },
+    {
+      "name": "radiotat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/radiotat.gif"
     },
     {
       "name": "radminetat",
@@ -4142,6 +4178,18 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/twoturkeys.gif"
     },
     {
+      "name": "vwgovttat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/vwgovttat.gif"
+    },
+    {
+      "name": "vwmuttat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/vwmuttat.gif"
+    },
+    {
+      "name": "vwsnaketat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/vwsnaketat.gif"
+    },
+    {
       "name": "walmarttat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/walmarttat.gif"
     },
@@ -4257,6 +4305,7 @@
     "HOA citation pad",
     "HOA regulation book",
     "HOA zombie eyes",
+    "Hand-carved bokken",
     "Helm of the Scream Emperor",
     "Helps-You-Sleep",
     "Hodgman's almanac",
@@ -4270,6 +4319,7 @@
     "Iron Beta of Industry",
     "Jeans of Loathing",
     "Jodhpurs of Violence",
+    "Lavalos's shell",
     "Lens of Hatred",
     "Lens of Violence",
     "Lil' Snowball Factory",
@@ -4297,10 +4347,12 @@
     "Oscus's pelt",
     "PARTY HARD T-shirt",
     "Pantaloons of Hatred",
+    "Pener's drumstick",
     "Pigsticker of Violence",
     "Pink Heart of Spirit",
     "Pocket Square of Loathing",
     "Protects-Your-Junk",
+    "Quiets-Your-Steps",
     "Red Roger's red left foot",
     "Red Roger's red left hand",
     "Red Roger's red right foot",
@@ -4361,6 +4413,7 @@
     "Thwaitgold mad hatterpillar statuette",
     "Thwaitgold maggot statuette",
     "Thwaitgold masked hunter statuette",
+    "Thwaitgold meat bee statuette",
     "Thwaitgold metabug statuette",
     "Thwaitgold mosquito statuette",
     "Thwaitgold mosquito-in-amber statuette",
@@ -4411,6 +4464,7 @@
     "anemoney clip",
     "angelbone chopsticks",
     "angelbone dice",
+    "assemble-it-yourself Leprecondo",
     "baneful bandolier",
     "battered old top-hat",
     "bejazzled eyepatch",
@@ -4423,6 +4477,7 @@
     "boxed Apriling band helmet",
     "boxed Archaeologist's Spade",
     "boxed Heartstone",
+    "boxed Mayam Calendar",
     "boxed Sept-Ember Censer",
     "boxed bat wings",
     "brazen bracelet",
@@ -4437,6 +4492,7 @@
     "crumpled felt fedora",
     "designer sweatpants (new old stock)",
     "devilbone corset",
+    "devilbone rosary",
     "dice sunglasses",
     "dice-print pajama pants",
     "discreetly-wrapped Eternity Codpiece",
@@ -4497,6 +4553,7 @@
     "old patched suit-pants",
     "old soft shoes",
     "oxygenated eggnog helmet",
+    "packaged Everfull Dart Holster",
     "packaged Jurassic Parka",
     "packaged Roman Candelabra",
     "packaged backup camera",
@@ -4533,7 +4590,6 @@
     "silver cow creamer",
     "slime-covered club",
     "slime-covered speargun",
-    "solid shifting time weirdness",
     "sour ball and chain",
     "space trip safety headphones",
     "spinning wheel",
@@ -4570,6 +4626,7 @@
   "mr_items": [
     "baby camelcalf",
     "fairy-worn boots",
+    "mini kiwi egg",
     "mummified entombed cookbookbat",
     "neverending party invitation envelope",
     "panicked kernel",
@@ -5547,6 +5604,9 @@
       "name": "blood snowcone"
     },
     {
+      "name": "blood-red mushroom wine"
+    },
+    {
       "name": "blood-soaked sponge cake"
     },
     {
@@ -5653,6 +5713,9 @@
     },
     {
       "name": "burrowgrub hive"
+    },
+    {
+      "name": "buzzing mushroom wine"
     },
     {
       "name": "bätzle"
@@ -5860,6 +5923,9 @@
     },
     {
       "name": "cologne of contempt"
+    },
+    {
+      "name": "complex mushroom wine"
     },
     {
       "name": "concentrated cordial of concentration"
@@ -6196,6 +6262,9 @@
     },
     {
       "name": "evil tomato juice of powerful power"
+    },
+    {
+      "name": "evil-ass club"
     },
     {
       "name": "extra-large palm-frond toupee"
@@ -6669,6 +6738,9 @@
       "name": "hot wad"
     },
     {
+      "name": "hot-ass club"
+    },
+    {
       "name": "hourglass"
     },
     {
@@ -7111,6 +7183,9 @@
     },
     {
       "name": "orange popsicle"
+    },
+    {
+      "name": "overpowering mushroom wine"
     },
     {
       "name": "oyster basket"
@@ -7884,6 +7959,9 @@
       "name": "smoldering staff"
     },
     {
+      "name": "smooth mushroom wine"
+    },
+    {
       "name": "smooth velvet bra"
     },
     {
@@ -8161,6 +8239,9 @@
     },
     {
       "name": "sweet tooth"
+    },
+    {
+      "name": "swirling mushroom wine"
     },
     {
       "name": "sword behind inappropriate prepositions"
@@ -8708,6 +8789,9 @@
       "name": "Brain Food Pastaco"
     },
     {
+      "name": "Buttery Boy"
+    },
+    {
       "name": "Buttery Knob"
     },
     {
@@ -8738,6 +8822,9 @@
       "name": "Cherrytastrophe wine cooler"
     },
     {
+      "name": "Christmas ham"
+    },
+    {
       "name": "Chunky Mary"
     },
     {
@@ -8766,6 +8853,9 @@
     },
     {
       "name": "Crimbojito"
+    },
+    {
+      "name": "Crimbosmopolitan"
     },
     {
       "name": "Crimbow Rainbo"
@@ -8801,16 +8891,28 @@
       "name": "Divine"
     },
     {
+      "name": "Divine sidecar"
+    },
+    {
       "name": "Doc Clock's thyme cocktail"
     },
     {
       "name": "Doc's Fortifying Wine"
     },
     {
+      "name": "Doc's Limbering Wine"
+    },
+    {
+      "name": "Doc's Medical-Grade Wine"
+    },
+    {
       "name": "Doublepunchplanter"
     },
     {
       "name": "Drac & Tan"
+    },
+    {
+      "name": "Dreadsylvanian cold pocket"
     },
     {
       "name": "Dreadsylvanian cold-fashioned"
@@ -8826,6 +8928,9 @@
     },
     {
       "name": "Dreadsylvanian spooky pocket"
+    },
+    {
+      "name": "Dreadsylvanian stew"
     },
     {
       "name": "Dreadsylvanian stink pocket"
@@ -8847,6 +8952,9 @@
     },
     {
       "name": "Earth, Wind and Firewater"
+    },
+    {
+      "name": "Easter grasshopper"
     },
     {
       "name": "Electric Punch"
@@ -8877,6 +8985,9 @@
     },
     {
       "name": "Feliz Navidad"
+    },
+    {
+      "name": "Ferita Del Petto Zinfandel"
     },
     {
       "name": "Firewater"
@@ -8990,10 +9101,19 @@
       "name": "Imp Ale"
     },
     {
+      "name": "Irish eggnog"
+    },
+    {
       "name": "Ish Kabibble"
     },
     {
+      "name": "Island Hurricane"
+    },
+    {
       "name": "Island Landslide"
+    },
+    {
+      "name": "Island Thunderstorm"
     },
     {
       "name": "Jack-O-Lantern beer"
@@ -9006,6 +9126,9 @@
     },
     {
       "name": "Jarlsberg's key lime pie"
+    },
+    {
+      "name": "Knob lo mein"
     },
     {
       "name": "Knob nuts"
@@ -9038,13 +9161,22 @@
       "name": "Ludovico Pastaco"
     },
     {
+      "name": "Lumineux Limnio"
+    },
+    {
       "name": "Mad Train wine"
     },
     {
       "name": "Mae West"
     },
     {
+      "name": "Marltini"
+    },
+    {
       "name": "McLeod's Hard Haggis-Ade"
+    },
+    {
+      "name": "McMillicancuddy's Special Lager"
     },
     {
       "name": "Middle of the Road™ brand whiskey"
@@ -9071,6 +9203,9 @@
       "name": "Mr. Burnsger"
     },
     {
+      "name": "Murderer's Punch"
+    },
+    {
       "name": "Mysterious Island iced tea"
     },
     {
@@ -9089,6 +9224,12 @@
       "name": "Omega Sundae"
     },
     {
+      "name": "Oopsie IPA"
+    },
+    {
+      "name": "Orangemageddon wine cooler"
+    },
+    {
       "name": "Oreille Divisée brandy"
     },
     {
@@ -9099,6 +9240,9 @@
     },
     {
       "name": "Paint A Vulgar Pitcher"
+    },
+    {
+      "name": "Pan-Dimensional Gargle Blaster"
     },
     {
       "name": "Pete's rich ricotta"
@@ -9114,6 +9258,9 @@
     },
     {
       "name": "Plague of Locusts"
+    },
+    {
+      "name": "Pork Elf cough syrup"
     },
     {
       "name": "Psychotic Train wine"
@@ -9164,10 +9311,16 @@
       "name": "Siberian sunrise"
     },
     {
+      "name": "Simepore slime"
+    },
+    {
       "name": "Sizzling Sinner"
     },
     {
       "name": "Skeleton Wars rations"
+    },
+    {
+      "name": "Skull Punch"
     },
     {
       "name": "Slimebite"
@@ -9191,6 +9344,9 @@
       "name": "Smoking Pope"
     },
     {
+      "name": "Smuggler's Punch"
+    },
+    {
       "name": "Sneaky Pete's key lime pie"
     },
     {
@@ -9200,7 +9356,16 @@
       "name": "Sogg-Os"
     },
     {
+      "name": "Sourfinger"
+    },
+    {
       "name": "Southern yam"
+    },
+    {
+      "name": "Spasmi Dolorosi Del Rene Champagne"
+    },
+    {
+      "name": "Steamboat"
     },
     {
       "name": "Steve Abrams' Holiday Sampler Beer"
@@ -9221,6 +9386,9 @@
       "name": "TRIO cup of beer"
     },
     {
+      "name": "Taco Dan's Taco Fish Fish Taco"
+    },
+    {
       "name": "Taco Dan's Taco Stand Taco"
     },
     {
@@ -9236,10 +9404,16 @@
       "name": "The Plumber's mushroom stew"
     },
     {
+      "name": "They liver popsicle"
+    },
+    {
       "name": "This Charming Flan"
     },
     {
       "name": "Three Sheets to the Wind"
+    },
+    {
+      "name": "Thriller Ice"
     },
     {
       "name": "Transylvania Sling"
@@ -9252,6 +9426,9 @@
     },
     {
       "name": "Ultimate Breakfast Sandwich"
+    },
+    {
+      "name": "Uovo Marcio Shiraz"
     },
     {
       "name": "Ur-Donut"
@@ -9362,7 +9539,13 @@
       "name": "basic hot dog"
     },
     {
+      "name": "basic martini"
+    },
+    {
       "name": "bat haggis"
+    },
+    {
+      "name": "bat-shaped Crimboween cookie"
     },
     {
       "name": "beaver punch (papaya)"
@@ -9372,6 +9555,9 @@
     },
     {
       "name": "beefy fish meat"
+    },
+    {
+      "name": "beer basted brat"
     },
     {
       "name": "bishop cookie"
@@ -9393,6 +9579,12 @@
     },
     {
       "name": "blended frozen swill"
+    },
+    {
+      "name": "blob-shaped Crimbo cookie"
+    },
+    {
+      "name": "blood and blood"
     },
     {
       "name": "blood roll-up"
@@ -9425,6 +9617,15 @@
       "name": "bodyslam"
     },
     {
+      "name": "bone broth"
+    },
+    {
+      "name": "boot flask"
+    },
+    {
+      "name": "booze-soaked cherry"
+    },
+    {
       "name": "boring spaghetti"
     },
     {
@@ -9435,6 +9636,9 @@
     },
     {
       "name": "bottle of Bloodweiser"
+    },
+    {
+      "name": "bottle of Definit"
     },
     {
       "name": "bottle of Domesticated Turkey"
@@ -9467,6 +9671,9 @@
       "name": "bottle of cooking sherry"
     },
     {
+      "name": "bottle of dark rhum"
+    },
+    {
       "name": "bottle of fruity \"wine\""
     },
     {
@@ -9477,6 +9684,9 @@
     },
     {
       "name": "bottle of norwhiskey"
+    },
+    {
+      "name": "bottle of peppermint schnapps"
     },
     {
       "name": "bottle of popskull"
@@ -9569,7 +9779,13 @@
       "name": "can of Swiller"
     },
     {
+      "name": "can of sardines"
+    },
+    {
       "name": "can of the cheapest beer"
+    },
+    {
+      "name": "candied beef and cabbage"
     },
     {
       "name": "candied sweet potatoes"
@@ -9579,6 +9795,12 @@
     },
     {
       "name": "candy kneecapping stick"
+    },
+    {
+      "name": "candy rations"
+    },
+    {
+      "name": "canteen of jungle juice"
     },
     {
       "name": "carrot cake"
@@ -9599,10 +9821,22 @@
       "name": "cherry bomb"
     },
     {
+      "name": "chilly dog"
+    },
+    {
+      "name": "chocolate ostrich egg"
+    },
+    {
+      "name": "cinnamon cannoli"
+    },
+    {
       "name": "club sandwich"
     },
     {
       "name": "cold hi mein"
+    },
+    {
+      "name": "cold mashed potatoes"
     },
     {
       "name": "complex mushroom wine"
@@ -9618,6 +9852,12 @@
     },
     {
       "name": "consummate sauerkraut"
+    },
+    {
+      "name": "cookie cookie"
+    },
+    {
+      "name": "cool cat claw"
     },
     {
       "name": "corned beet"
@@ -9674,6 +9914,9 @@
       "name": "cybeer"
     },
     {
+      "name": "cyburger"
+    },
+    {
       "name": "decanter of fine Scotch"
     },
     {
@@ -9692,10 +9935,16 @@
       "name": "desiccated apricot"
     },
     {
+      "name": "devil dog"
+    },
+    {
       "name": "devil hair pasta"
     },
     {
       "name": "deviled egg"
+    },
+    {
+      "name": "dew yoana lei"
     },
     {
       "name": "dew yoana salacious lei"
@@ -9704,10 +9953,16 @@
       "name": "digital key lime pie"
     },
     {
+      "name": "dinner roll"
+    },
+    {
       "name": "dirty martini"
     },
     {
       "name": "discarded hot dog"
+    },
+    {
+      "name": "discocktail"
     },
     {
       "name": "distilled fortified wine"
@@ -9716,10 +9971,16 @@
       "name": "double entendre"
     },
     {
+      "name": "double-candied yams"
+    },
+    {
       "name": "dream of a dog"
     },
     {
       "name": "drippy nugget"
+    },
+    {
+      "name": "drippy pilsner"
     },
     {
       "name": "drive-by shooting"
@@ -9758,6 +10019,9 @@
       "name": "emergency margarita"
     },
     {
+      "name": "enticing mayolus"
+    },
+    {
       "name": "executive mime flask"
     },
     {
@@ -9765,6 +10029,9 @@
     },
     {
       "name": "expensive champagne"
+    },
+    {
+      "name": "expired MRE"
     },
     {
       "name": "extra-flat panini"
@@ -9779,6 +10046,9 @@
       "name": "fancy beef jerky"
     },
     {
+      "name": "fancy old wine"
+    },
+    {
       "name": "fettucini Inconnu"
     },
     {
@@ -9791,13 +10061,28 @@
       "name": "fire crackers"
     },
     {
+      "name": "fishcake"
+    },
+    {
       "name": "fishelada"
     },
     {
       "name": "fishy fish lasagna"
     },
     {
+      "name": "flaming mushroom wine"
+    },
+    {
       "name": "flan del mar"
+    },
+    {
+      "name": "flask of Amontillado"
+    },
+    {
+      "name": "flask of moonshine"
+    },
+    {
+      "name": "flat cider"
     },
     {
       "name": "flavorless gruel"
@@ -9819,6 +10104,9 @@
     },
     {
       "name": "fruity girl swill"
+    },
+    {
+      "name": "full-sized pumpkin pie"
     },
     {
       "name": "fusilli marrownarrow"
@@ -9858,6 +10146,9 @@
     },
     {
       "name": "gingerbread nylons"
+    },
+    {
+      "name": "gingerbread robot"
     },
     {
       "name": "glass of \"milk\""
@@ -9908,10 +10199,16 @@
       "name": "green drunki-bear"
     },
     {
+      "name": "green eggnog"
+    },
+    {
       "name": "green hamhock"
     },
     {
       "name": "grilled mooseflank"
+    },
+    {
+      "name": "grog nuts"
     },
     {
       "name": "grogtini"
@@ -9962,6 +10259,12 @@
       "name": "high-calorie sugar substitute"
     },
     {
+      "name": "hipster cocktail"
+    },
+    {
+      "name": "holiday smorgasbord"
+    },
+    {
       "name": "holiday trip around the world"
     },
     {
@@ -9978,6 +10281,12 @@
     },
     {
       "name": "hot hi mein"
+    },
+    {
+      "name": "hot honey ant"
+    },
+    {
+      "name": "hot wine"
     },
     {
       "name": "hot wing"
@@ -10002,6 +10311,9 @@
     },
     {
       "name": "idiot brain"
+    },
+    {
+      "name": "igloo pie"
     },
     {
       "name": "imitation White Russian"
@@ -10064,7 +10376,13 @@
       "name": "kiwi"
     },
     {
+      "name": "knob mushroom wine"
+    },
+    {
       "name": "kumquat"
+    },
+    {
+      "name": "lab-grown meat"
     },
     {
       "name": "laser-broiled pear"
@@ -10074,6 +10392,15 @@
     },
     {
       "name": "lava cake"
+    },
+    {
+      "name": "lavawater"
+    },
+    {
+      "name": "leafy browns"
+    },
+    {
+      "name": "leftover pasty"
     },
     {
       "name": "legitimate business on the beach"
@@ -10100,7 +10427,22 @@
       "name": "lychee chuhai"
     },
     {
+      "name": "magical sausage"
+    },
+    {
       "name": "mana curds"
+    },
+    {
+      "name": "mana-basted tofurkey leg"
+    },
+    {
+      "name": "mana-coated yams"
+    },
+    {
+      "name": "mana-fortified cranberry sauce"
+    },
+    {
+      "name": "mana-stuffed herbal stuffing"
     },
     {
       "name": "mandarina colada"
@@ -10112,10 +10454,22 @@
       "name": "martini"
     },
     {
+      "name": "martiny"
+    },
+    {
       "name": "meadeorite"
     },
     {
+      "name": "meatball"
+    },
+    {
+      "name": "mechanically-mulled cider"
+    },
+    {
       "name": "mediocre lager"
+    },
+    {
+      "name": "melon-infused sake"
     },
     {
       "name": "melted Jell-o shot"
@@ -10125,6 +10479,15 @@
     },
     {
       "name": "meteoreo"
+    },
+    {
+      "name": "mime army wine"
+    },
+    {
+      "name": "mini kiwi digitized cookies"
+    },
+    {
+      "name": "mini kiwi intoxicating spirits"
     },
     {
       "name": "mini kiwitini"
@@ -10145,10 +10508,16 @@
       "name": "mouth-watering mayolus"
     },
     {
+      "name": "mulled berry wine"
+    },
+    {
       "name": "mulled blood"
     },
     {
       "name": "mulled butter rum"
+    },
+    {
+      "name": "mulled hobo wine"
     },
     {
       "name": "mushroom whiskey"
@@ -10160,7 +10529,16 @@
       "name": "nanite-infested candy cane"
     },
     {
+      "name": "natto-infused sake"
+    },
+    {
+      "name": "neg grog"
+    },
+    {
       "name": "nega-mushroom wine"
+    },
+    {
+      "name": "nice warm beer"
     },
     {
       "name": "non-aged vinegar"
@@ -10196,6 +10574,9 @@
       "name": "orange"
     },
     {
+      "name": "overpowering mushroom wine"
+    },
+    {
       "name": "painting of a glass of wine"
     },
     {
@@ -10220,7 +10601,16 @@
       "name": "peach"
     },
     {
+      "name": "peach pie"
+    },
+    {
       "name": "pear"
+    },
+    {
+      "name": "pear tart"
+    },
+    {
+      "name": "peaza"
     },
     {
       "name": "peppermint patty"
@@ -10271,6 +10661,9 @@
       "name": "pickled bread"
     },
     {
+      "name": "pickled egg"
+    },
+    {
       "name": "piece of cake"
     },
     {
@@ -10284,6 +10677,9 @@
     },
     {
       "name": "pink slime"
+    },
+    {
+      "name": "pint of Leprechaun Stout"
     },
     {
       "name": "piping organ pie"
@@ -10370,6 +10766,9 @@
       "name": "queen cookie"
     },
     {
+      "name": "rat pizza"
+    },
+    {
       "name": "rat scrapple"
     },
     {
@@ -10380,6 +10779,9 @@
     },
     {
       "name": "red drunki-bear"
+    },
+    {
+      "name": "red rum"
     },
     {
       "name": "red velvet cake"
@@ -10403,6 +10805,9 @@
       "name": "roasted vegetable of Jarlsberg"
     },
     {
+      "name": "robin flan"
+    },
+    {
       "name": "robin nog"
     },
     {
@@ -10421,6 +10826,9 @@
       "name": "rook cookie"
     },
     {
+      "name": "root beer"
+    },
+    {
       "name": "rum and cola"
     },
     {
@@ -10434,6 +10842,9 @@
     },
     {
       "name": "salinated mint julep"
+    },
+    {
+      "name": "salmagumdi"
     },
     {
       "name": "salted mutton"
@@ -10469,7 +10880,16 @@
       "name": "sea tangelo"
     },
     {
+      "name": "sea truffle"
+    },
+    {
+      "name": "shadow bread"
+    },
+    {
       "name": "shadow fluid"
+    },
+    {
+      "name": "shadow sausage"
     },
     {
       "name": "shells a la shellfish"
@@ -10508,6 +10928,9 @@
       "name": "skeleton war fuel can"
     },
     {
+      "name": "skull-shaped Crimboween cookie"
+    },
+    {
       "name": "slap and tickle"
     },
     {
@@ -10523,10 +10946,19 @@
       "name": "slip 'n' slide"
     },
     {
+      "name": "slug of rum"
+    },
+    {
       "name": "sly dog"
     },
     {
+      "name": "small beer brat"
+    },
+    {
       "name": "smelted roe"
+    },
+    {
+      "name": "smooth mushroom wine"
     },
     {
       "name": "snifter of thoroughly aged brandy"
@@ -10598,10 +11030,16 @@
       "name": "spooky mushroom wine"
     },
     {
+      "name": "square CRIMBCOOKIE"
+    },
+    {
       "name": "squirmy violent party snack"
     },
     {
       "name": "star key lime pie"
+    },
+    {
+      "name": "star pop"
     },
     {
       "name": "steel lasagna"
@@ -10611,6 +11049,9 @@
     },
     {
       "name": "stepmom's booze"
+    },
+    {
+      "name": "stinkwater"
     },
     {
       "name": "stinky hi mein"
@@ -10643,6 +11084,9 @@
       "name": "super good fruit"
     },
     {
+      "name": "super ka-bob"
+    },
+    {
       "name": "sweet party mix"
     },
     {
@@ -10653,6 +11097,9 @@
     },
     {
       "name": "sweet roll Alabama"
+    },
+    {
+      "name": "swirling mushroom wine"
     },
     {
       "name": "tangarita"
@@ -10667,10 +11114,16 @@
       "name": "tankard of spiced Goldschlepper"
     },
     {
+      "name": "tankard of spiced rum"
+    },
+    {
       "name": "tasty tart"
     },
     {
       "name": "tempura avocado"
+    },
+    {
+      "name": "tempura broccoli"
     },
     {
       "name": "tempura carrot"
@@ -10715,6 +11168,12 @@
       "name": "tin cup of mulligan stew"
     },
     {
+      "name": "tin of submardines"
+    },
+    {
+      "name": "tiny peach pie"
+    },
+    {
       "name": "toast with cold jelly"
     },
     {
@@ -10736,7 +11195,22 @@
       "name": "tomato daiquiri"
     },
     {
+      "name": "tomb aspic"
+    },
+    {
+      "name": "tombstone-shaped Crimboween cookie"
+    },
+    {
+      "name": "traditional Crimbo cookie"
+    },
+    {
+      "name": "treasure chestnut"
+    },
+    {
       "name": "tropical swill"
+    },
+    {
+      "name": "turchucken"
     },
     {
       "name": "twice-haunted screwdriver"
@@ -10775,6 +11249,12 @@
       "name": "vintage smart drink"
     },
     {
+      "name": "vodka barracuda"
+    },
+    {
+      "name": "vodka cranberry sauce"
+    },
+    {
       "name": "vodka stinger"
     },
     {
@@ -10782,6 +11262,9 @@
     },
     {
       "name": "vodka stratocaster sidecar"
+    },
+    {
+      "name": "waffle"
     },
     {
       "name": "warbear gyro"
@@ -10796,7 +11279,13 @@
       "name": "wasabi pocky"
     },
     {
+      "name": "wax pancake"
+    },
+    {
       "name": "weak skeleton venom"
+    },
+    {
+      "name": "wedge of prize-winning cheese"
     },
     {
       "name": "weird gazelle steak"
@@ -10814,7 +11303,13 @@
       "name": "wheel of camembert"
     },
     {
+      "name": "whirled peas"
+    },
+    {
       "name": "whiskey bittersweet"
+    },
+    {
+      "name": "whiskey in a broken glass"
     },
     {
       "name": "whiskey sour"
@@ -10829,10 +11324,25 @@
       "name": "white chocolate and tomato pizza"
     },
     {
+      "name": "whole turkey leg"
+    },
+    {
+      "name": "wine spritzer"
+    },
+    {
       "name": "wing bone"
     },
     {
       "name": "world's most unappetizing beverage"
+    },
+    {
+      "name": "yam"
+    },
+    {
+      "name": "yam martini"
+    },
+    {
+      "name": "yam mayo"
     },
     {
       "name": "yellow brick road"
@@ -10848,25 +11358,25 @@
     }
   ],
   "code_binder": [
-    "Enormous Greater-Than Sign",
-    "Lair of the Ninja Snowmen",
-    "Frat Battlefield",
-    "Sleazy Back Alley",
-    "\"Fun\" House",
+    "Noob Cave",
     "Penultimate Fantasy Airship",
-    "Camp Logging Camp",
-    "Bugbear Pen",
-    "Cola Wars Battlefield",
+    "The Unquiet Garves",
+    "Frat Battlefield",
     "Road to White Citadel",
+    "Camp Logging Camp",
+    "Limerick Dungeon",
     "Thugnderdome",
     "eXtreme Slope",
-    "The Arid, Extra-Dry Desert",
+    "Bugbear Pen",
     "Defiled Nook",
-    "Noob Cave",
-    "Poker Room",
+    "The Arid, Extra-Dry Desert",
+    "\"Fun\" House",
+    "Cola Wars Battlefield",
+    "Enormous Greater-Than Sign",
     "Belowdecks",
+    "Sleazy Back Alley",
     "Cobb's Knob Menagerie, Level 3",
-    "Limerick Dungeon",
-    "The Unquiet Garves"
+    "Poker Room",
+    "Lair of the Ninja Snowmen"
   ]
 }
