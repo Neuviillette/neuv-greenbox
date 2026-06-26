@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-09 04:12 UTC",
+  "generated_at": "2026-06-26 05:23 UTC",
   "character": {
     "name": "Neuviilette",
     "player_id": "3363484",
-    "level": 29,
-    "class_id": 1,
-    "class_name": "Seal Clubber",
-    "ascensions": 295
+    "level": 38,
+    "class_id": 5,
+    "class_name": "Disco Bandit",
+    "ascensions": 300
   },
   "skills": [
     {
@@ -311,7 +311,7 @@
     },
     {
       "name": "Lunging Thrust-Smack",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/1005.gif"
     },
     {
@@ -721,7 +721,7 @@
     },
     {
       "name": "Wizard Squint",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3038.gif"
     },
     {
@@ -971,7 +971,7 @@
     },
     {
       "name": "Stiff Upper Lip",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2029.gif"
     },
     {
@@ -1066,7 +1066,7 @@
     },
     {
       "name": "Saucecicle",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4032.gif"
     },
     {
@@ -1081,7 +1081,7 @@
     },
     {
       "name": "Sauce Monocle",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/4037.gif"
     },
     {
@@ -1196,7 +1196,7 @@
     },
     {
       "name": "The Psalm of Pointiness",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/6011.gif"
     },
     {
@@ -1331,7 +1331,7 @@
     },
     {
       "name": "Shell Up",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/2028.gif"
     },
     {
@@ -1396,12 +1396,12 @@
     },
     {
       "name": "Transcendent Al Dente",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3026.gif"
     },
     {
       "name": "Bind Vampieroghi",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3027.gif"
     },
     {
@@ -1416,7 +1416,7 @@
     },
     {
       "name": "Bind Undead Elbow Macaroni",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3033.gif"
     },
     {
@@ -1426,7 +1426,7 @@
     },
     {
       "name": "Bind Penne Dreadful",
-      "type": "scperm",
+      "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/3035.gif"
     },
     {
@@ -2015,6 +2015,11 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/139.gif"
     },
     {
+      "name": "Implode Universe",
+      "type": "hcperm",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/188.gif"
+    },
+    {
       "name": "Transcendent Olfaction",
       "type": "hcperm",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/skillimages/19.gif"
@@ -2026,12 +2031,16 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/skeletonocp.gif"
     },
     {
-      "name": "Pair of Stomping Boots",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/stompboots.gif"
+      "name": "Left-Hand Man",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/skeletonshield.gif"
     },
     {
-      "name": "Left-Hand Man",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/righthandbody.png"
+      "name": "Mini Kiwi",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/kiwi_kiwi.gif"
+    },
+    {
+      "name": "Pair of Stomping Boots",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/stompboots.gif"
     },
     {
       "name": "Hobo Monkey",
@@ -2040,6 +2049,26 @@
     {
       "name": "Cookbookbat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/bbat_fam.gif"
+    },
+    {
+      "name": "Purse Rat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/purserat.gif"
+    },
+    {
+      "name": "Gelatinous Cubeling",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/gcube.gif"
+    },
+    {
+      "name": "Oily Woim",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/woim.gif"
+    },
+    {
+      "name": "Reassembled Blackbird",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird2.gif"
+    },
+    {
+      "name": "Glover",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/glover.gif"
     },
     {
       "name": "Melodramedary",
@@ -2058,28 +2087,12 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam47.gif"
     },
     {
-      "name": "Gelatinous Cubeling",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/gcube.gif"
-    },
-    {
       "name": "Baby Bugged Bugbear",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/babybugbug.gif"
     },
     {
-      "name": "Oily Woim",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/woim.gif"
-    },
-    {
       "name": "Exotic Parrot",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/parrot.gif"
-    },
-    {
-      "name": "Mini Kiwi",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/kiwi_kiwi.gif"
-    },
-    {
-      "name": "Reassembled Blackbird",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/blackbird2.gif"
     },
     {
       "name": "Tiny Plastic Santa Claus Skeleton",
@@ -2090,16 +2103,8 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam50.gif"
     },
     {
-      "name": "Purse Rat",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/purserat.gif"
-    },
-    {
       "name": "Mu",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/pokefam8675309.gif"
-    },
-    {
-      "name": "Glover",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/glover.gif"
     },
     {
       "name": "Foul Ball",
@@ -2110,12 +2115,16 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/qf.gif"
     },
     {
+      "name": "Leprechaun",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar2.gif"
+    },
+    {
       "name": "Chocolate Lab",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/chocolab.gif"
     },
     {
-      "name": "Leprechaun",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/familiar2.gif"
+      "name": "Cold Cut",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/coldcut.gif"
     },
     {
       "name": "Disgeist",
@@ -2224,10 +2233,6 @@
     {
       "name": "Yule Hound",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/yulehound.gif"
-    },
-    {
-      "name": "Cold Cut",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/coldcut.gif"
     },
     {
       "name": "Dire Cassava",
@@ -2526,6 +2531,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/kobold.gif"
     },
     {
+      "name": "Tickle-Me Emilio",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/emiliofam.gif"
+    },
+    {
       "name": "Flaming Face",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/flameface.gif"
     },
@@ -2616,6 +2625,10 @@
     {
       "name": "Significant Bit",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/cr_sbit.gif"
+    },
+    {
+      "name": "Wet Paper Tiger",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/itemimages/wetpapertiger2.gif"
     },
     {
       "name": "Cute Skeletal Dinosaur",
@@ -3286,6 +3299,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/al_tat.gif"
     },
     {
+      "name": "animelftat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/animelftat.gif"
+    },
+    {
       "name": "arbortat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/arbortat.gif"
     },
@@ -3356,6 +3373,10 @@
     {
       "name": "bbatttat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/bbatttat.gif"
+    },
+    {
+      "name": "bearclawta",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/bearclawta.gif"
     },
     {
       "name": "bknight",
@@ -3658,6 +3679,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/datatat.gif"
     },
     {
+      "name": "dbonetat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/dbonetat.gif"
+    },
+    {
       "name": "debbietat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/debbietat.gif"
     },
@@ -3818,6 +3843,14 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/genietat.gif"
     },
     {
+      "name": "gingercitytat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/gingercitytat.gif"
+    },
+    {
+      "name": "gingertat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/gingertat.gif"
+    },
+    {
       "name": "gnaugatat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/gnaugatat.gif"
     },
@@ -3882,8 +3915,8 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/hippy.gif"
     },
     {
-      "name": "hobotat4",
-      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/hobotat4.gif"
+      "name": "hobotat11",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/hobotat11.gif"
     },
     {
       "name": "hodgmantat",
@@ -4102,6 +4135,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/slehobotat.gif"
     },
     {
+      "name": "slimetat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/slimetat.gif"
+    },
+    {
       "name": "smoochtat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/smoochtat.gif"
     },
@@ -4210,6 +4247,10 @@
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/wetoutfittat.gif"
     },
     {
+      "name": "wetpapertat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/wetpapertat.gif"
+    },
+    {
       "name": "workouttat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/workouttat.gif"
     },
@@ -4228,6 +4269,10 @@
     {
       "name": "yogtat",
       "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/yogtat.gif"
+    },
+    {
+      "name": "zaptat",
+      "img": "https://d2uyhvukfffg5a.cloudfront.net/otherimages/sigils/zaptat.gif"
     },
     {
       "name": "zompirtat",
@@ -4302,6 +4347,7 @@
     "Great Wolf's right paw",
     "Great Wolf's rocket launcher",
     "Greaves of the Murk Lord",
+    "Green Clover of Justice",
     "HOA citation pad",
     "HOA regulation book",
     "HOA zombie eyes",
@@ -4357,8 +4403,10 @@
     "Red Roger's red left hand",
     "Red Roger's red right foot",
     "Red Roger's red right hand",
+    "Sasq™ watch",
     "Scepter of Loathing",
     "Shield of Icy Fate",
+    "Slime-covered staff",
     "Staff of Blood and Pudding",
     "Staff of Frozen Lard",
     "Staff of Holiday Sensations",
@@ -4374,6 +4422,7 @@
     "Staff of the Midnight Snack",
     "Staff of the Peppermint Twist",
     "Staff of the Short Order Cook",
+    "Staff of the Soupbone",
     "Staff of the Teapot Tempest",
     "Staff of the Walk-In Freezer",
     "Staff of the Well-Tempered Cauldron",
@@ -4464,6 +4513,7 @@
     "anemoney clip",
     "angelbone chopsticks",
     "angelbone dice",
+    "angelbone totem",
     "assemble-it-yourself Leprecondo",
     "baneful bandolier",
     "battered old top-hat",
@@ -4486,13 +4536,17 @@
     "candy egg deviler",
     "carnivorous potted plant",
     "chalk chlamys",
+    "chamoisole",
     "corroded breeches",
     "corrosive cowl",
     "cozy scarf",
     "crumpled felt fedora",
     "designer sweatpants (new old stock)",
     "devilbone corset",
+    "devilbone greaves",
     "devilbone rosary",
+    "devilbone shinguards",
+    "diabolical crossbow",
     "dice sunglasses",
     "dice-print pajama pants",
     "discreetly-wrapped Eternity Codpiece",
@@ -4521,6 +4575,8 @@
     "gunwale whalegun",
     "hand-knitted diving booties",
     "hardened slime belt",
+    "hardened slime hat",
+    "hardened slime pants",
     "hare pin",
     "hazmat helmet",
     "hobo dungarees",
@@ -4534,6 +4590,7 @@
     "little deuce cape",
     "lucky army helmet",
     "lucky gold ring",
+    "makeshift castanets",
     "malevolent medallion",
     "marinara jug",
     "meatball machine",
@@ -4568,6 +4625,9 @@
     "pasta wand loot box",
     "peppermint harpoon gun",
     "perfect Christmas scarf",
+    "pernicious cudgel",
+    "petrified wood water purifier",
+    "petrified wood wizard's pouch",
     "plexiglass pikestaff",
     "plexiglass pith helmet",
     "porcelain porkpie",
@@ -4585,11 +4645,11 @@
     "sardine can key",
     "scorched skull trophy",
     "seal-clubbing club loot box",
+    "sealskin drum",
     "shapeless wide-brimmed hat",
     "shield of the Skeleton Lord",
     "silver cow creamer",
-    "slime-covered club",
-    "slime-covered speargun",
+    "slime-covered helmet",
     "sour ball and chain",
     "space trip safety headphones",
     "spinning wheel",
@@ -4631,6 +4691,7 @@
     "neverending party invitation envelope",
     "panicked kernel",
     "potted tea tree",
+    "sealed takerspace letter of marque",
     "sinistral homunculus",
     "stocking full of bones",
     "tome of clip art",
@@ -5577,6 +5638,9 @@
       "name": "bitchin' meatcar"
     },
     {
+      "name": "bitter pill"
+    },
+    {
       "name": "black belt"
     },
     {
@@ -5976,6 +6040,9 @@
       "name": "creepy voodoo doll"
     },
     {
+      "name": "creepy-ass club"
+    },
+    {
       "name": "crudles"
     },
     {
@@ -6043,6 +6110,9 @@
     },
     {
       "name": "dew yoana salacious lei"
+    },
+    {
+      "name": "diabolical crossbow"
     },
     {
       "name": "dirt julep"
@@ -6364,6 +6434,9 @@
     },
     {
       "name": "foon of fulmination"
+    },
+    {
+      "name": "frigid-ass club"
     },
     {
       "name": "fruity girl swill"
@@ -7092,6 +7165,9 @@
       "name": "nasty rat mask"
     },
     {
+      "name": "nasty-ass club"
+    },
+    {
       "name": "neg grog"
     },
     {
@@ -7411,6 +7487,9 @@
     },
     {
       "name": "perfume of prejudice"
+    },
+    {
+      "name": "pernicious cudgel"
     },
     {
       "name": "perpendicular hula"
@@ -8714,6 +8793,9 @@
       "name": "1950 Vampire Vintner wine"
     },
     {
+      "name": "3vi1 pr0n m4nic0tti"
+    },
+    {
       "name": "5-hour acrimony"
     },
     {
@@ -8735,6 +8817,9 @@
       "name": "Ambitious Turkey"
     },
     {
+      "name": "Arrattabbattabiata"
+    },
+    {
       "name": "Aura Libre"
     },
     {
@@ -8748,6 +8833,9 @@
     },
     {
       "name": "Aye Aye, Tooth Tooth"
+    },
+    {
+      "name": "Baja sopapilla"
     },
     {
       "name": "Barulio's bottle"
@@ -8784,6 +8872,9 @@
     },
     {
       "name": "Boulevardier cocktail"
+    },
+    {
+      "name": "Bowl of Scorpions"
     },
     {
       "name": "Brain Food Pastaco"
@@ -8906,6 +8997,9 @@
       "name": "Doc's Medical-Grade Wine"
     },
     {
+      "name": "Doc's Special Reserve Wine"
+    },
+    {
       "name": "Doublepunchplanter"
     },
     {
@@ -8925,6 +9019,9 @@
     },
     {
       "name": "Dreadsylvanian shepherd's pie"
+    },
+    {
+      "name": "Dreadsylvanian slithery nipple"
     },
     {
       "name": "Dreadsylvanian spooky pocket"
@@ -8981,6 +9078,9 @@
       "name": "Fantasma en la Máquina"
     },
     {
+      "name": "FantasyRealm mead"
+    },
+    {
       "name": "Fauna Libre"
     },
     {
@@ -9014,6 +9114,9 @@
       "name": "Fog Murderer"
     },
     {
+      "name": "Formica e Pepe"
+    },
+    {
       "name": "Friendly Turkey"
     },
     {
@@ -9024,6 +9127,9 @@
     },
     {
       "name": "Gin Mint"
+    },
+    {
+      "name": "Gnocci Domani"
     },
     {
       "name": "Gnollish sangria"
@@ -9039,6 +9145,9 @@
     },
     {
       "name": "Grasshopper"
+    },
+    {
+      "name": "Gratitude chocolate (bourbon-filled)"
     },
     {
       "name": "Great Older Fashioned"
@@ -9063,6 +9172,9 @@
     },
     {
       "name": "Haymaker"
+    },
+    {
+      "name": "Heck ramen"
     },
     {
       "name": "Hell ramen"
@@ -9101,6 +9213,9 @@
       "name": "Imp Ale"
     },
     {
+      "name": "Irish Coffee, English Heart"
+    },
+    {
       "name": "Irish eggnog"
     },
     {
@@ -9126,6 +9241,9 @@
     },
     {
       "name": "Jarlsberg's key lime pie"
+    },
+    {
+      "name": "Jarlsberg's vegetable soup"
     },
     {
       "name": "Knob lo mein"
@@ -9173,13 +9291,22 @@
       "name": "Marltini"
     },
     {
+      "name": "Mayam spinach"
+    },
+    {
       "name": "McLeod's Hard Haggis-Ade"
     },
     {
       "name": "McMillicancuddy's Special Lager"
     },
     {
+      "name": "Medical Pastaco"
+    },
+    {
       "name": "Middle of the Road™ brand whiskey"
+    },
+    {
+      "name": "Miserable Pie"
     },
     {
       "name": "Miss Graves' vermouth"
@@ -9191,7 +9318,13 @@
       "name": "Mon Tiki"
     },
     {
+      "name": "Mon Tiki sidecar"
+    },
+    {
       "name": "Moonshine Mohobo"
+    },
+    {
+      "name": "Moonthril Schnapps"
     },
     {
       "name": "More Humanitini than Humanitini"
@@ -9204,6 +9337,9 @@
     },
     {
       "name": "Murderer's Punch"
+    },
+    {
+      "name": "Muschat"
     },
     {
       "name": "Mysterious Island iced tea"
@@ -9233,6 +9369,9 @@
       "name": "Oreille Divisée brandy"
     },
     {
+      "name": "Orzo di Riso"
+    },
+    {
       "name": "Over Easy Rider"
     },
     {
@@ -9246,6 +9385,9 @@
     },
     {
       "name": "Pete's rich ricotta"
+    },
+    {
+      "name": "Pete's wiley whey bar"
     },
     {
       "name": "Phil Collins"
@@ -9275,7 +9417,13 @@
       "name": "R'lyeh"
     },
     {
+      "name": "Racisto Ruidoso"
+    },
+    {
       "name": "Ralph IX cognac"
+    },
+    {
+      "name": "Ram's Face Lager"
     },
     {
       "name": "Red Dwarf"
@@ -9309,6 +9457,9 @@
     },
     {
       "name": "Siberian sunrise"
+    },
+    {
+      "name": "Silver Bullet beer"
     },
     {
       "name": "Simepore slime"
@@ -9365,6 +9516,9 @@
       "name": "Spasmi Dolorosi Del Rene Champagne"
     },
     {
+      "name": "St. Pete's sneaky smoothie"
+    },
+    {
       "name": "Steamboat"
     },
     {
@@ -9374,6 +9528,9 @@
       "name": "Strix stix"
     },
     {
+      "name": "Strong, Silent Type"
+    },
+    {
       "name": "Suffering Sinner"
     },
     {
@@ -9381,6 +9538,9 @@
     },
     {
       "name": "Susie's cupcake"
+    },
+    {
+      "name": "Swedish coffee"
     },
     {
       "name": "TRIO cup of beer"
@@ -9396,6 +9556,9 @@
     },
     {
       "name": "Thanksgiving ration"
+    },
+    {
+      "name": "The Cooler Out of Space"
     },
     {
       "name": "The Mad Liquor"
@@ -9446,6 +9609,12 @@
       "name": "White Citadel fries"
     },
     {
+      "name": "Wrecked Generator"
+    },
+    {
+      "name": "Xiblaxian ultraburrito"
+    },
+    {
       "name": "Ye Olde Meade"
     },
     {
@@ -9479,6 +9648,9 @@
       "name": "agnolotti arboli"
     },
     {
+      "name": "alien sandwich"
+    },
+    {
       "name": "ancient unspeakable fruitcake"
     },
     {
@@ -9495,6 +9667,9 @@
     },
     {
       "name": "asbestos thermos"
+    },
+    {
+      "name": "asparagus lo mein"
     },
     {
       "name": "astral hot dog"
@@ -9536,6 +9711,12 @@
       "name": "banana milkshake"
     },
     {
+      "name": "banana split"
+    },
+    {
+      "name": "bar of freeze-dried water"
+    },
+    {
       "name": "basic hot dog"
     },
     {
@@ -9558,6 +9739,9 @@
     },
     {
       "name": "beer basted brat"
+    },
+    {
+      "name": "beery blood"
     },
     {
       "name": "bishop cookie"
@@ -9620,6 +9804,9 @@
       "name": "bone broth"
     },
     {
+      "name": "bone meal"
+    },
+    {
       "name": "boot flask"
     },
     {
@@ -9647,6 +9834,9 @@
       "name": "bottle of Greedy Dog"
     },
     {
+      "name": "bottle of Jorge Sinsonte"
+    },
+    {
       "name": "bottle of Lambada Lambic"
     },
     {
@@ -9654,6 +9844,12 @@
     },
     {
       "name": "bottle of Old Pugilist"
+    },
+    {
+      "name": "bottle of Pete's Sake"
+    },
+    {
+      "name": "bottle of Pinot Renoir"
     },
     {
       "name": "bottle of Professor Beer"
@@ -9672,6 +9868,12 @@
     },
     {
       "name": "bottle of dark rhum"
+    },
+    {
+      "name": "bottle of drinkin' gas"
+    },
+    {
+      "name": "bottle of extra-dark rhum"
     },
     {
       "name": "bottle of fruity \"wine\""
@@ -9707,6 +9909,9 @@
       "name": "bottle of tequila"
     },
     {
+      "name": "bottle of vodka"
+    },
+    {
       "name": "bottle of whiskey"
     },
     {
@@ -9737,6 +9942,9 @@
       "name": "bread man"
     },
     {
+      "name": "bread roll"
+    },
+    {
       "name": "breaded beer"
     },
     {
@@ -9759,6 +9967,12 @@
     },
     {
       "name": "buzzing mushroom wine"
+    },
+    {
+      "name": "buñuelos Jaliscos"
+    },
+    {
+      "name": "bätzle"
     },
     {
       "name": "cactus fruit"
@@ -9785,10 +9999,16 @@
       "name": "can of the cheapest beer"
     },
     {
+      "name": "can-shaped gelatinous cranberry sauce"
+    },
+    {
       "name": "candied beef and cabbage"
     },
     {
       "name": "candied sweet potatoes"
+    },
+    {
+      "name": "candied yams"
     },
     {
       "name": "candy carrot cake"
@@ -9813,6 +10033,9 @@
     },
     {
       "name": "centipede eggs"
+    },
+    {
+      "name": "cheap Chinese beer"
     },
     {
       "name": "cherry"
@@ -9858,6 +10081,9 @@
     },
     {
       "name": "cool cat claw"
+    },
+    {
+      "name": "cool jelly donut"
     },
     {
       "name": "corned beet"
@@ -9917,6 +10143,9 @@
       "name": "cyburger"
     },
     {
+      "name": "dead lights pie"
+    },
+    {
       "name": "decanter of fine Scotch"
     },
     {
@@ -9948,6 +10177,9 @@
     },
     {
       "name": "dew yoana salacious lei"
+    },
+    {
+      "name": "diabolic pizza"
     },
     {
       "name": "digital key lime pie"
@@ -9989,10 +10221,16 @@
       "name": "drive-thru burger"
     },
     {
+      "name": "dry vodka martini"
+    },
+    {
       "name": "ducha de oro"
     },
     {
       "name": "dusty bottle of Marsala"
+    },
+    {
+      "name": "dusty bottle of Port"
     },
     {
       "name": "dusty bottle of blood"
@@ -10007,6 +10245,12 @@
       "name": "eighth plague"
     },
     {
+      "name": "eldritch distillate"
+    },
+    {
+      "name": "eldritch mushroom pizza"
+    },
+    {
       "name": "electric Kool-Aid"
     },
     {
@@ -10016,10 +10260,22 @@
       "name": "elf army field rations"
     },
     {
+      "name": "elven moonshine"
+    },
+    {
       "name": "emergency margarita"
     },
     {
       "name": "enticing mayolus"
+    },
+    {
+      "name": "evil delicious spicy noodles"
+    },
+    {
+      "name": "evil painful penne pasta"
+    },
+    {
+      "name": "evil spicy noodles"
     },
     {
       "name": "executive mime flask"
@@ -10034,6 +10290,9 @@
       "name": "expired MRE"
     },
     {
+      "name": "expired bottle of peppermint schnapps"
+    },
+    {
       "name": "extra-flat panini"
     },
     {
@@ -10041,6 +10300,12 @@
     },
     {
       "name": "extra-spicy bloody mary"
+    },
+    {
+      "name": "extra-toasted half sandwich"
+    },
+    {
+      "name": "extremely slippery nipple"
     },
     {
       "name": "fancy beef jerky"
@@ -10094,10 +10359,22 @@
       "name": "flute of flat champagne"
     },
     {
+      "name": "forbidden danish"
+    },
+    {
       "name": "fortune cookie"
     },
     {
       "name": "fountain 'soda'"
+    },
+    {
+      "name": "frozen danish"
+    },
+    {
+      "name": "frozen tofu pop"
+    },
+    {
+      "name": "fruit-stuffed rumcake"
     },
     {
       "name": "fruitcake"
@@ -10124,6 +10401,9 @@
       "name": "ghost beer"
     },
     {
+      "name": "ghost dog"
+    },
+    {
       "name": "ghuol egg"
     },
     {
@@ -10148,7 +10428,13 @@
       "name": "gingerbread nylons"
     },
     {
+      "name": "gingerbread pirate"
+    },
+    {
       "name": "gingerbread robot"
+    },
+    {
+      "name": "gingerbread wine"
     },
     {
       "name": "glass of \"milk\""
@@ -10167,6 +10453,9 @@
     },
     {
       "name": "glistening nigiri"
+    },
+    {
+      "name": "gloomy mushroom wine"
     },
     {
       "name": "gnat lasagna"
@@ -10208,6 +10497,9 @@
       "name": "grilled mooseflank"
     },
     {
+      "name": "grog"
+    },
+    {
       "name": "grog nuts"
     },
     {
@@ -10215,6 +10507,9 @@
     },
     {
       "name": "grue egg omelette"
+    },
+    {
+      "name": "guffin"
     },
     {
       "name": "gunner's daughter"
@@ -10229,6 +10524,9 @@
       "name": "half double fruitcake"
     },
     {
+      "name": "hambrosier"
+    },
+    {
       "name": "hamburger"
     },
     {
@@ -10236,6 +10534,12 @@
     },
     {
       "name": "handful of nuts and berries"
+    },
+    {
+      "name": "hard cocoa"
+    },
+    {
+      "name": "hardboiled egg"
     },
     {
       "name": "haunted Hell ramen"
@@ -10254,6 +10558,9 @@
     },
     {
       "name": "herb brownies"
+    },
+    {
+      "name": "herbal stuffing"
     },
     {
       "name": "high-calorie sugar substitute"
@@ -10295,10 +10602,16 @@
       "name": "hunter brain"
     },
     {
+      "name": "hushed puppy"
+    },
+    {
       "name": "ice rice"
     },
     {
       "name": "ice wine"
+    },
+    {
+      "name": "ice-cold Sir Schlitz"
     },
     {
       "name": "ice-cold Willer"
@@ -10319,7 +10632,13 @@
       "name": "imitation White Russian"
     },
     {
+      "name": "immaculate egg salad sandwich"
+    },
+    {
       "name": "improved martini"
+    },
+    {
+      "name": "incredible mini-pizza"
     },
     {
       "name": "incredible pizza"
@@ -10362,6 +10681,12 @@
     },
     {
       "name": "junk yard"
+    },
+    {
+      "name": "junkyard dog"
+    },
+    {
+      "name": "kamicorpse-ee"
     },
     {
       "name": "karma shawarma"
@@ -10415,6 +10740,12 @@
       "name": "linguini immondizia bianco"
     },
     {
+      "name": "liquid bread"
+    },
+    {
+      "name": "literal grasshopper"
+    },
+    {
       "name": "long pork lasagna"
     },
     {
@@ -10448,6 +10779,9 @@
       "name": "mandarina colada"
     },
     {
+      "name": "margarita"
+    },
+    {
       "name": "marshmallow bomb"
     },
     {
@@ -10455,6 +10789,9 @@
     },
     {
       "name": "martiny"
+    },
+    {
+      "name": "mashed potatoes"
     },
     {
       "name": "meadeorite"
@@ -10484,6 +10821,9 @@
       "name": "mime army wine"
     },
     {
+      "name": "mimosette"
+    },
+    {
       "name": "mini kiwi digitized cookies"
     },
     {
@@ -10499,6 +10839,9 @@
       "name": "moreltini"
     },
     {
+      "name": "morning dew"
+    },
+    {
       "name": "most of a beer"
     },
     {
@@ -10506,6 +10849,9 @@
     },
     {
       "name": "mouth-watering mayolus"
+    },
+    {
+      "name": "muffled muffuletta"
     },
     {
       "name": "mulled berry wine"
@@ -10535,6 +10881,9 @@
       "name": "neg grog"
     },
     {
+      "name": "nega-mushroom"
+    },
+    {
       "name": "nega-mushroom wine"
     },
     {
@@ -10545,6 +10894,9 @@
     },
     {
       "name": "nutty organic salad"
+    },
+    {
+      "name": "occult jelly donut"
     },
     {
       "name": "ocean motion"
@@ -10562,7 +10914,13 @@
       "name": "oldcake"
     },
     {
+      "name": "olive lo mein"
+    },
+    {
       "name": "one with everything"
+    },
+    {
+      "name": "oozenog"
     },
     {
       "name": "open sauce"
@@ -10595,7 +10953,13 @@
       "name": "party platter for one"
     },
     {
+      "name": "passable stout"
+    },
+    {
       "name": "pat of butter"
+    },
+    {
+      "name": "pawn cookie"
     },
     {
       "name": "peach"
@@ -10614,6 +10978,9 @@
     },
     {
       "name": "peppermint patty"
+    },
+    {
+      "name": "peppermint tack"
     },
     {
       "name": "perfect breakfast"
@@ -10641,6 +11008,9 @@
     },
     {
       "name": "perfect sandwich"
+    },
+    {
+      "name": "perpendicular hula"
     },
     {
       "name": "perpendicular hula with a fly in it"
@@ -10685,10 +11055,16 @@
       "name": "piping organ pie"
     },
     {
+      "name": "piscatini"
+    },
+    {
       "name": "pixel daiquiri"
     },
     {
       "name": "pixel lemon"
+    },
+    {
+      "name": "pixel whiskey"
     },
     {
       "name": "plain calzone"
@@ -10736,6 +11112,9 @@
       "name": "popular tart"
     },
     {
+      "name": "pr0n stir-fry"
+    },
+    {
       "name": "primitive alien salad"
     },
     {
@@ -10766,10 +11145,16 @@
       "name": "queen cookie"
     },
     {
+      "name": "rabbit punch"
+    },
+    {
       "name": "rat pizza"
     },
     {
       "name": "rat scrapple"
+    },
+    {
+      "name": "ratatouille de Jarlsberg"
     },
     {
       "name": "ratbatatouille"
@@ -10797,6 +11182,12 @@
     },
     {
       "name": "reverse Tantalus"
+    },
+    {
+      "name": "ridiculous cocktail"
+    },
+    {
+      "name": "ridiculous sandwich"
     },
     {
       "name": "roasted vegetable focaccia"
@@ -10829,7 +11220,13 @@
       "name": "root beer"
     },
     {
+      "name": "rotting beefsteak"
+    },
+    {
       "name": "rum and cola"
+    },
+    {
+      "name": "rum-soaked fruitcake"
     },
     {
       "name": "runny fermented egg"
@@ -10850,6 +11247,9 @@
       "name": "salted mutton"
     },
     {
+      "name": "salty dog"
+    },
+    {
       "name": "sandwich of the gods"
     },
     {
@@ -10868,7 +11268,16 @@
       "name": "sausage wonton"
     },
     {
+      "name": "savage macho dog"
+    },
+    {
+      "name": "savoy truffle"
+    },
+    {
       "name": "sea blueberry"
+    },
+    {
+      "name": "sea cauliflower"
     },
     {
       "name": "sea honeydew"
@@ -10892,6 +11301,12 @@
       "name": "shadow sausage"
     },
     {
+      "name": "shadowy cat claw"
+    },
+    {
+      "name": "sham champagne"
+    },
+    {
       "name": "shells a la shellfish"
     },
     {
@@ -10901,7 +11316,13 @@
       "name": "shot of blackberry schnapps"
     },
     {
+      "name": "shot of flower schnapps"
+    },
+    {
       "name": "shot of grapefruit schnapps"
+    },
+    {
+      "name": "shot of nepenthe schnapps"
     },
     {
       "name": "shot of peach schnapps"
@@ -10913,13 +11334,22 @@
       "name": "shot of wasp venom"
     },
     {
+      "name": "shrapnel jelly donut"
+    },
+    {
       "name": "shroomtini"
+    },
+    {
+      "name": "shushed potatoes"
     },
     {
       "name": "single entendre"
     },
     {
       "name": "single swig of vodka"
+    },
+    {
+      "name": "single-serving herbal stuffing"
     },
     {
       "name": "skeleton quiche"
@@ -10949,10 +11379,16 @@
       "name": "slug of rum"
     },
     {
+      "name": "slug of vodka"
+    },
+    {
       "name": "sly dog"
     },
     {
       "name": "small beer brat"
+    },
+    {
+      "name": "smashed danish"
     },
     {
       "name": "smelted roe"
@@ -10974,6 +11410,9 @@
     },
     {
       "name": "soilzerac"
+    },
+    {
+      "name": "soyburger juice"
     },
     {
       "name": "space wine"
@@ -11036,6 +11475,9 @@
       "name": "squirmy violent party snack"
     },
     {
+      "name": "stale Cheer-E-Os"
+    },
+    {
       "name": "star key lime pie"
     },
     {
@@ -11073,6 +11515,9 @@
     },
     {
       "name": "sublime stew"
+    },
+    {
+      "name": "sugarplum ration"
     },
     {
       "name": "suggestive strozzapreti"
@@ -11132,6 +11577,12 @@
       "name": "tempura cauliflower"
     },
     {
+      "name": "tempura cucumber"
+    },
+    {
+      "name": "tempura green and red bean"
+    },
+    {
       "name": "tempura radish"
     },
     {
@@ -11169,6 +11620,9 @@
     },
     {
       "name": "tin of submardines"
+    },
+    {
+      "name": "tiny burrito"
     },
     {
       "name": "tiny peach pie"
@@ -11228,6 +11682,12 @@
       "name": "unnamed cocktail"
     },
     {
+      "name": "unquiet spirits"
+    },
+    {
+      "name": "used beer"
+    },
+    {
       "name": "vampagne"
     },
     {
@@ -11243,6 +11703,9 @@
       "name": "vesper"
     },
     {
+      "name": "video games hot dog"
+    },
+    {
       "name": "vinegar-soaked lemon slice"
     },
     {
@@ -11255,6 +11718,9 @@
       "name": "vodka cranberry sauce"
     },
     {
+      "name": "vodka gibson"
+    },
+    {
       "name": "vodka stinger"
     },
     {
@@ -11262,6 +11728,9 @@
     },
     {
       "name": "vodka stratocaster sidecar"
+    },
+    {
+      "name": "void burger"
     },
     {
       "name": "waffle"
@@ -11289,6 +11758,9 @@
     },
     {
       "name": "weird gazelle steak"
+    },
+    {
+      "name": "wet dog"
     },
     {
       "name": "wet tack"
@@ -11322,6 +11794,12 @@
     },
     {
       "name": "white chocolate and tomato pizza"
+    },
+    {
+      "name": "white chocolate chip brownies"
+    },
+    {
+      "name": "white lightning"
     },
     {
       "name": "whole turkey leg"
@@ -11358,25 +11836,25 @@
     }
   ],
   "code_binder": [
-    "Noob Cave",
-    "Penultimate Fantasy Airship",
-    "The Unquiet Garves",
-    "Frat Battlefield",
-    "Road to White Citadel",
-    "Camp Logging Camp",
-    "Limerick Dungeon",
-    "Thugnderdome",
-    "eXtreme Slope",
-    "Bugbear Pen",
-    "Defiled Nook",
-    "The Arid, Extra-Dry Desert",
-    "\"Fun\" House",
-    "Cola Wars Battlefield",
-    "Enormous Greater-Than Sign",
-    "Belowdecks",
-    "Sleazy Back Alley",
-    "Cobb's Knob Menagerie, Level 3",
     "Poker Room",
-    "Lair of the Ninja Snowmen"
+    "The Arid, Extra-Dry Desert",
+    "Sleazy Back Alley",
+    "Camp Logging Camp",
+    "Defiled Nook",
+    "Cobb's Knob Menagerie, Level 3",
+    "Thugnderdome",
+    "Penultimate Fantasy Airship",
+    "Road to White Citadel",
+    "\"Fun\" House",
+    "Lair of the Ninja Snowmen",
+    "Bugbear Pen",
+    "eXtreme Slope",
+    "Noob Cave",
+    "Cola Wars Battlefield",
+    "Belowdecks",
+    "Enormous Greater-Than Sign",
+    "Limerick Dungeon",
+    "Frat Battlefield",
+    "The Unquiet Garves"
   ]
 }
